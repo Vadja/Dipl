@@ -1,0 +1,2839 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<defenceGraduateWorkList>
+    <defenceGraduateWork>
+        <id>98a38ef6-0aa1-47d3-92e3-6f26ec7aabc4</id>
+        <graduateWorkId>d506cf10-1a0b-46e8-83da-4b9aaa64766d</graduateWorkId>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo/>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>768c390e-ad2d-4023-b4ba-1dac5f965c9f</id>
+        <graduateWorkId>d506cf10-1a0b-46e8-83da-4b9aaa64766d</graduateWorkId>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo/>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>a107738a-14bc-4f18-ac60-fb26d9cade5e</id>
+        <graduateWorkId>d506cf10-1a0b-46e8-83da-4b9aaa64766d</graduateWorkId>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo/>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>5484252b-8904-415e-9ff5-2bbae12cc4ab</id>
+        <protocolNumber>01</protocolNumber>
+        <graduateWorkId>19500408-452e-40a6-9fe4-58018716fba7</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>09:00</startTime>
+        <endTime>09:27</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>81</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Кто является пользователем системы</question1>
+            <question2>Кто вносит данные о ситуациях</question2>
+            <question3>Какие еще источники данных</question3>
+            <question4>Как задается полигон</question4>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <question3AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question3AuthorId>
+            <question4AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question4AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <training>полностью подготовлен к работе по специальности</training>
+            <markCountDistinction>21</markCountDistinction>
+            <markCountGood>27</markCountGood>
+            <markCountSatisfactory>3</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>f49dfbf3-ccc9-4b16-a85a-01e5a39f9438</id>
+        <protocolNumber>02</protocolNumber>
+        <graduateWorkId>a750bb62-4355-4b33-a169-1bf52424e4d9</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>09:27</startTime>
+        <endTime>09:54</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>81</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>10</reviewMark>
+            <question1>Выбор стратегии зависит ли от предметной области</question1>
+            <question2>Укажите компоненты модели</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>6fc88f09-1e29-4215-b869-8c17d2fe2360</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>46</markCountDistinction>
+            <markCountGood>5</markCountGood>
+            <mark>9</mark>
+            <outputMark>с отличием</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>true</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>667275ff-8c6d-4777-9026-0d585eb8532d</id>
+        <protocolNumber>03</protocolNumber>
+        <graduateWorkId>bec90d25-fac8-4770-9918-b5a72d8b4861</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>09:54</startTime>
+        <endTime>10:21</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>89</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>7</reviewMark>
+            <question1>О каком планировании идет речь в работе</question1>
+            <question2>Можно ли применять эти разработки в гражданском обороте</question2>
+            <question3>Поясните процесс программной разработки</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>6fc88f09-1e29-4215-b869-8c17d2fe2360</question2AuthorId>
+            <question3AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>24</markCountGood>
+            <markCountSatisfactory>23</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>356c5154-fd2f-42da-8a8b-238972514473</id>
+        <protocolNumber>04</protocolNumber>
+        <graduateWorkId>6202e714-6ffb-49ee-8ace-2fd93cffcaaa</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>10:21</startTime>
+        <endTime>10:48</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>77</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Какие средства проектирования использованы </question1>
+            <question2>В чем особенность бюджета малого предприятия</question2>
+            <question3>Как решаются вопросы информационной безопасности</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <question3AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question3AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>20</markCountDistinction>
+            <markCountGood>24</markCountGood>
+            <markCountSatisfactory>7</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>51ce902f-6de1-4bc6-a38d-0eadf6ba858f</id>
+        <protocolNumber>05</protocolNumber>
+        <graduateWorkId>b3122cd5-6a96-4873-82c2-d7cfc0ec3858</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>10:48</startTime>
+        <endTime>11:15</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>77</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Данная подсистема является вновь разрабатываемой </question1>
+            <question2>В чем заключается процесс проектирования</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <training>полностью подготовлен к работе по специальности</training>
+            <markCountDistinction>46</markCountDistinction>
+            <markCountGood>5</markCountGood>
+            <markCountSatisfactory>0</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>с отличием</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>6c021574-f10a-456c-9a5c-46526a4f0bc6</id>
+        <protocolNumber>06</protocolNumber>
+        <graduateWorkId>27fa54c8-d76e-443a-b3cd-96f23a5c69a6</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>11:15</startTime>
+        <endTime>11:42</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>92</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>10</reviewMark>
+            <question1>Какие виды приложений возможно тестировать</question1>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>16</markCountDistinction>
+            <markCountGood>20</markCountGood>
+            <markCountSatisfactory>15</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>d66a8a8a-6853-4144-ba97-0d165d46cfd8</id>
+        <protocolNumber>07</protocolNumber>
+        <graduateWorkId>c2f3fb9a-a181-4aeb-b18a-1d3cc470b9ae</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>11:42</startTime>
+        <endTime>12:09</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>79</pageCount>
+            <graphicCount>6</graphicCount>
+            <question1>На какой возраст ориентирована система</question1>
+            <question2>Есть ли дополнительные преимущества по сравнению с традиционной методикой</question2>
+            <question3>Какой синтезатор использован</question3>
+            <question4>Сколько времени возможно пользоваться системой с точки зрения медицинских норм</question4>
+            <question5>Как предполагается вводить ответ на вопрос</question5>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question2AuthorId>
+            <question3AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question3AuthorId>
+            <question4AuthorId>6fc88f09-1e29-4215-b869-8c17d2fe2360</question4AuthorId>
+            <question5AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question5AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>11</markCountDistinction>
+            <markCountGood>28</markCountGood>
+            <markCountSatisfactory>12</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>e9f589a3-84e0-4757-bb2a-34d55d0154af</id>
+        <protocolNumber>08</protocolNumber>
+        <graduateWorkId>93c24e28-2297-46f8-9c22-8a9bce30d785</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>12:09</startTime>
+        <endTime>12:36</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>93</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Есть ли апробация системы</question1>
+            <question2>Что конкретно реализовано IP-компонент или агенты</question2>
+            <question3>Что такое реализация документации библиотеки</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>6fc88f09-1e29-4215-b869-8c17d2fe2360</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>47</markCountDistinction>
+            <markCountGood>4</markCountGood>
+            <mark>9</mark>
+            <outputMark>с отличием</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>true</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>018717c2-7bc3-4d7c-aa5c-a3b00062c1d6</id>
+        <protocolNumber>09</protocolNumber>
+        <graduateWorkId>0ed3c1ae-0d67-44cb-a9df-418272327352</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>12:36</startTime>
+        <endTime>13:03</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>76</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>В чем уникальность данной разработки</question1>
+            <question2>Сколько пользователей одновременно может участвовать</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>23</markCountDistinction>
+            <markCountGood>23</markCountGood>
+            <markCountSatisfactory>5</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>5f97d690-1a97-47af-9276-4ba17b12f007</id>
+        <protocolNumber>10</protocolNumber>
+        <graduateWorkId>33f33ad6-b551-4704-8ff7-c55171ce1336</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>13:03</startTime>
+        <endTime>13:30</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>85</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Какой этап данной разработки на сегодняшний день</question1>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>6</markCountDistinction>
+            <markCountGood>36</markCountGood>
+            <markCountSatisfactory>9</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>49085564-4c62-4b1c-85cc-559549a4a17e</id>
+        <protocolNumber>11</protocolNumber>
+        <graduateWorkId>782c0fe1-c3c3-42c2-8cf2-6c30684738a8</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>13:30</startTime>
+        <endTime>13:57</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>98</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>С какими сайтами может работать разработанная система</question1>
+            <question2>Какие уровни выделены в системе</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>24</markCountDistinction>
+            <markCountGood>21</markCountGood>
+            <markCountSatisfactory>6</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>cc5c886b-6b40-435b-85ad-539e46387f32</id>
+        <protocolNumber>12</protocolNumber>
+        <graduateWorkId>f331f1ca-4038-402b-8a37-847f8671e96b</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>13:57</startTime>
+        <endTime>14:24</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>79</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>10</reviewMark>
+            <question1>Какие новые результаты в работе</question1>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>28</markCountDistinction>
+            <markCountGood>20</markCountGood>
+            <markCountSatisfactory>3</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>bf771466-935a-4b10-b1e1-4e2c8508718f</id>
+        <protocolNumber>13</protocolNumber>
+        <graduateWorkId>b74cf50f-7343-422b-aa1a-42a0b4458ac2</graduateWorkId>
+        <actualDate>2012-06-18T14:34:18.600+00:00</actualDate>
+        <startTime>14:24</startTime>
+        <endTime>14:51</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>76</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>10</reviewMark>
+            <question1>Перечислите достоинства, недостатки рассматриваемой модели</question1>
+            <question2>В чем заключается параллельность </question2>
+            <question3>Ваша модель не зависит от технической возможности параллелизма</question3>
+            <question4>Приведите назначение операций</question4>
+            <question5>Как ведется обработка сообщений</question5>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <question3AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question3AuthorId>
+            <question4AuthorId>6fc88f09-1e29-4215-b869-8c17d2fe2360</question4AuthorId>
+            <question5AuthorId>6fc88f09-1e29-4215-b869-8c17d2fe2360</question5AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>48</markCountDistinction>
+            <markCountGood>3</markCountGood>
+            <mark>10</mark>
+            <outputMark>с отличием</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>true</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>true</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>fcb53258-a103-4ff4-acf7-e3529e5d8873</id>
+        <protocolNumber>14</protocolNumber>
+        <graduateWorkId>2bb3f19e-fec1-4ed6-8e74-87dd3e5d397b</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>09:00</startTime>
+        <endTime>09:27</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>95</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Перечислите достоинства данной разработки</question1>
+            <question2>Какие функции управления реализованы</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>22</markCountDistinction>
+            <markCountGood>23</markCountGood>
+            <markCountSatisfactory>6</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>1a16d9ce-32fb-497d-a315-fc638bbc1f68</id>
+        <protocolNumber>15</protocolNumber>
+        <graduateWorkId>6ee2aa2e-2910-4158-ab29-af79776debbc</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>09:27</startTime>
+        <endTime>09:54</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>78</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>7</reviewMark>
+            <question1>Каким показателем осуществляется доступ к данным</question1>
+            <question2>На какой стадии разработка</question2>
+            <question3>Какие типы бизнес-процессов</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <question3AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>17</markCountDistinction>
+            <markCountGood>26</markCountGood>
+            <markCountSatisfactory>8</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>615b0ddb-a8bc-4c9b-ae3b-5939a6f7c395</id>
+        <protocolNumber>16</protocolNumber>
+        <graduateWorkId>9eb4a565-6b6e-4b02-bc5a-f94772bc3148</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>09:54</startTime>
+        <endTime>10:21</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>61</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Какие программные средства использованы при разработке</question1>
+            <question2>В чем необходимость применения СУБД Oracle</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>35</markCountDistinction>
+            <markCountGood>12</markCountGood>
+            <markCountSatisfactory>4</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>9bc8b3db-366a-4383-a713-1df09ee7f65a</id>
+        <protocolNumber>17</protocolNumber>
+        <graduateWorkId>ef599b99-b47f-4466-986b-db0cc1f039f1</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>10:21</startTime>
+        <endTime>10:48</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>73</pageCount>
+            <graphicCount>6</graphicCount>
+            <question1>Какая перспектива внедрения</question1>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>14</markCountDistinction>
+            <markCountGood>32</markCountGood>
+            <markCountSatisfactory>5</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>f3bf01f0-f851-42bc-9659-c9744292ea3b</id>
+        <protocolNumber>18</protocolNumber>
+        <graduateWorkId>e1f25943-7234-4bc1-9ced-256958c443a4</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>10:48</startTime>
+        <endTime>11:15</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>81</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Особенности и преимущества системы</question1>
+            <question2>Есть ли внедрение системы</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>27</markCountDistinction>
+            <markCountGood>21</markCountGood>
+            <markCountSatisfactory>3</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>8a44781c-6d6f-4369-90ac-c35472b94217</id>
+        <protocolNumber>19</protocolNumber>
+        <graduateWorkId>17d003cc-7fc9-469f-94c2-5ee44495472f</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>11:15</startTime>
+        <endTime>11:42</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>74</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Где используется система</question1>
+            <question2>Как учитывается налоговое законодательсво </question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>21</markCountDistinction>
+            <markCountGood>25</markCountGood>
+            <markCountSatisfactory>5</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>f674a4f2-8b05-488d-98ec-1565f39e4ccf</id>
+        <protocolNumber>20</protocolNumber>
+        <graduateWorkId>ea424134-8a51-4d54-bb2b-0f7d6737f765</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>11:42</startTime>
+        <endTime>12:09</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>68</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Что нового внесено в систему с точки зрения динамической памяти</question1>
+            <question2>Какие преимущества разработки по сравнению с аналогами</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f55fe7d8-1df2-428a-9aac-a295e36c5dec</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>14</markCountDistinction>
+            <markCountGood>24</markCountGood>
+            <markCountSatisfactory>13</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>80b63283-a5ca-456e-8aad-9c806b0d308a</id>
+        <protocolNumber>21</protocolNumber>
+        <graduateWorkId>c6e006f1-adea-441e-9742-9914501e1c8d</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>12:09</startTime>
+        <endTime>12:36</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>84</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Приведите особенности выбранной платформы</question1>
+            <question2>Внедрена ли система</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>20</markCountDistinction>
+            <markCountGood>27</markCountGood>
+            <markCountSatisfactory>4</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>b94ce254-ceba-4e61-bd4d-b0b3b8d97c0c</id>
+        <protocolNumber>24</protocolNumber>
+        <graduateWorkId>5d594ff8-bd03-4f60-8064-d16de6361fd1</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>13:30</startTime>
+        <endTime>13:57</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Где применяется разработка</question1>
+            <question2>Какие подходы существуют в растр-векторных преобразованиях</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>8</markCountDistinction>
+            <markCountGood>35</markCountGood>
+            <markCountSatisfactory>8</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>1ebf30bf-cb15-4a0e-8750-5647f5c78d28</id>
+        <protocolNumber>25</protocolNumber>
+        <graduateWorkId>a02d6fa6-e65d-4c62-bdb3-5c7db42fe1ea</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>13:57</startTime>
+        <endTime>14:24</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>79</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>На какие сервисы ориентирована система</question1>
+            <question2>При каких условиях проводилось тестирование</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>13</markCountDistinction>
+            <markCountGood>31</markCountGood>
+            <markCountSatisfactory>7</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>5985be93-7e25-4b9c-afeb-4a56a7fd0856</id>
+        <protocolNumber>26</protocolNumber>
+        <graduateWorkId>d4b2e12c-b252-4b00-bd1b-791f31578f91</graduateWorkId>
+        <actualDate>2012-06-18T21:00:00+00:00</actualDate>
+        <startTime>14:24</startTime>
+        <endTime>14:51</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>78</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>7</reviewMark>
+            <question1>Поясните сферу применения разработки</question1>
+            <question2>Есть ли аналоги системы</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>34</markCountGood>
+            <markCountSatisfactory>13</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>1b7873e1-0853-4ae8-8b64-108916174663</id>
+        <protocolNumber>27</protocolNumber>
+        <graduateWorkId>5d64b84c-00c6-46f2-a710-66b2d12cb9de</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>09:00</startTime>
+        <endTime>09:27</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>88</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Какие требования по информационной безопасности применены в разработке</question1>
+            <question2>Есть ли проверка тестированием программного продукта</question2>
+            <question3>Прокомментируйте видеоформы</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <question3AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question3AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>9</markCountDistinction>
+            <markCountGood>29</markCountGood>
+            <markCountSatisfactory>13</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>33d9858a-caaa-47fb-8269-635236aba8da</id>
+        <protocolNumber>28</protocolNumber>
+        <graduateWorkId>3a7d4fe2-5c12-410d-91c1-8795b0e5b33b</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>09:27</startTime>
+        <endTime>09:54</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>89</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Дайте определение облачной платформы</question1>
+            <question2>Охарактеризуйте абстрактную модель</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>19</markCountDistinction>
+            <markCountGood>27</markCountGood>
+            <markCountSatisfactory>5</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>f90d3bd9-d233-485c-a215-a7e04479d429</id>
+        <protocolNumber>29</protocolNumber>
+        <graduateWorkId>7b467759-75f1-4974-9c3f-d3bbd5583021</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>09:54</startTime>
+        <endTime>10:21</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Как решены вопросы информационной безопасности</question1>
+            <question2>Какие услуги предоставляет система</question2>
+            <question3>Каков язык общения</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <question3AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>24</markCountGood>
+            <markCountSatisfactory>23</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>a2d348f5-b7b7-4855-a7db-ece33df4e1f1</id>
+        <protocolNumber>30</protocolNumber>
+        <graduateWorkId>a8964cab-c226-4ead-b132-ce6d058422f6</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>10:21</startTime>
+        <endTime>10:48</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>61</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Какие преимущества перед аналогами</question1>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>41</markCountDistinction>
+            <markCountGood>10</markCountGood>
+            <markCountSatisfactory>0</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>с отличием</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>a1219d22-93f4-4d1d-a8b1-2024a451c60b</id>
+        <protocolNumber>31</protocolNumber>
+        <graduateWorkId>d9480a89-15d9-4797-a73f-239f77fba524</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>10:48</startTime>
+        <endTime>11:15</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>77</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Каковы преимущества разработки перед аналогами</question1>
+            <question2>Как интегрируются компоненты</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>15</markCountDistinction>
+            <markCountGood>28</markCountGood>
+            <markCountSatisfactory>8</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>693caed6-d857-4f7c-ac44-45acef6b9b21</id>
+        <protocolNumber>32</protocolNumber>
+        <graduateWorkId>c6304492-3d2c-46d7-b785-570ad6ec95d8</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>11:15</startTime>
+        <endTime>11:42</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>79</pageCount>
+            <graphicCount>7</graphicCount>
+            <reviewMark>7</reviewMark>
+            <question1>В какой стадии разработка</question1>
+            <question2>Как проводится совмещение со словорями</question2>
+            <question3>Требуется ли интеллектуализация в системе</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <question3AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>6</markCountDistinction>
+            <markCountGood>28</markCountGood>
+            <markCountSatisfactory>17</markCountSatisfactory>
+            <mark>7</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>539aff09-10c1-4256-9072-3b9723c94333</id>
+        <protocolNumber>33</protocolNumber>
+        <graduateWorkId>8d8ee822-6149-4217-9c94-a5af0d0cac3a</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>11:42</startTime>
+        <endTime>12:09</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>83</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>С какой целью разработан модуль</question1>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>32</markCountDistinction>
+            <markCountGood>16</markCountGood>
+            <markCountSatisfactory>3</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>0c4e65de-280c-48d7-aa58-20de7dbe5c50</id>
+        <protocolNumber>34</protocolNumber>
+        <graduateWorkId>0bb6c78e-0cea-43b4-9e49-15e0b1293d56</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>12:09</startTime>
+        <endTime>12:36</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>81</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>К какому классу ПО относится разработка</question1>
+            <question2>Какие типы химических реакций реализованы </question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>31</markCountDistinction>
+            <markCountGood>17</markCountGood>
+            <markCountSatisfactory>3</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>9ea5d9e3-425e-43f3-b5cc-c45660e0d23c</id>
+        <protocolNumber>35</protocolNumber>
+        <graduateWorkId>07f97584-f401-47dc-9c31-c047edf079f3</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>12:36</startTime>
+        <endTime>13:03</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>70</pageCount>
+            <graphicCount>6</graphicCount>
+            <question1>Укажите бизнес-процессы в разработке</question1>
+            <question2>Что подразумевается под бизнес-процессом</question2>
+            <question3>До какой степени реализованы модули</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>28</markCountDistinction>
+            <markCountGood>21</markCountGood>
+            <markCountSatisfactory>2</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>7032e424-9acf-4b66-9794-50e352724e0a</id>
+        <protocolNumber>36</protocolNumber>
+        <graduateWorkId>bac5db78-c0cc-44ae-8c34-343dde9cb65d</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>13:03</startTime>
+        <endTime>13:30</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>83</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>7</reviewMark>
+            <question1>Разработка ориентирована на конкретного заказчика?</question1>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>15</markCountDistinction>
+            <markCountGood>29</markCountGood>
+            <markCountSatisfactory>7</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>46539088-9cd2-427b-b585-6914753e2718</id>
+        <protocolNumber>37</protocolNumber>
+        <graduateWorkId>f5dd427d-5274-4855-95c8-fbb67b669e6e</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>13:30</startTime>
+        <endTime>13:57</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>75</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Каковы преимущества данной разработки</question1>
+            <question2>Какие необходимо сделать действия для перевода системы под мобильные платформы</question2>
+            <question3>В каком состоянии данная разработка</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>7</markCountDistinction>
+            <markCountGood>38</markCountGood>
+            <markCountSatisfactory>6</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>c4f4e86f-ba25-4714-9eb0-ca7d4aa3b6c0</id>
+        <protocolNumber>38</protocolNumber>
+        <graduateWorkId>41f94cc5-0e4d-4dfe-8614-f37c786e4520</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>13:57</startTime>
+        <endTime>14:24</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>79</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>С какой целью разрабатывалась система</question1>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>5</markCountDistinction>
+            <markCountGood>39</markCountGood>
+            <markCountSatisfactory>7</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>a8cedc96-417d-43e7-95d7-d11550928276</id>
+        <protocolNumber>39</protocolNumber>
+        <graduateWorkId>f5cd5d4e-756b-480f-8752-2540f2a1ebe7</graduateWorkId>
+        <actualDate>2012-06-19T21:00:00+00:00</actualDate>
+        <startTime>14:24</startTime>
+        <endTime>14:51</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>71</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Какие функциональные возможности добавлены в системе</question1>
+            <question2>С какой целью для данного вида услуг разрабатывается программная библиотека</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>5</markCountDistinction>
+            <markCountGood>38</markCountGood>
+            <markCountSatisfactory>8</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>d76fe63c-1901-4815-9556-103d10282b81</id>
+        <protocolNumber>54</protocolNumber>
+        <graduateWorkId>b89cb21d-cca0-4d0a-8985-34e12b84e089</graduateWorkId>
+        <actualDate>2012-06-22T17:59:22.388+00:00</actualDate>
+        <startTime>09:27</startTime>
+        <endTime>09:54</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>90</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Какие аналоги рассмотрены</question1>
+            <question2>Какие алгоритмы шифрования использованы в работе</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>25</markCountGood>
+            <markCountSatisfactory>22</markCountSatisfactory>
+            <mark>7</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>8bdca026-485a-4515-814f-c08e9577b34b</id>
+        <protocolNumber>40</protocolNumber>
+        <graduateWorkId>9068f0a5-d21b-485f-8280-f82a0e0d347e</graduateWorkId>
+        <actualDate>2012-06-21T15:14:33.863+00:00</actualDate>
+        <startTime>09:00</startTime>
+        <endTime>09:27</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>79</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Как решены вопросы информационной безопасности</question1>
+            <question2>Предусмотрена система администрирования</question2>
+            <question3>Приведите функции разработанного модуля</question3>
+            <question4>Какие направления развития системы</question4>
+            <question5>Будет ли развернута система на другие регионы</question5>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <question3AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question3AuthorId>
+            <question4AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question4AuthorId>
+            <question5AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question5AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>5</markCountDistinction>
+            <markCountGood>33</markCountGood>
+            <markCountSatisfactory>13</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>e65fe4a2-1ddd-438b-bd64-abaee0caf8e2</id>
+        <protocolNumber>53</protocolNumber>
+        <graduateWorkId>7719b566-e623-4348-a2ee-bdcade6c2e1c</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>09:00</startTime>
+        <endTime>09:27</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>72</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>6</reviewMark>
+            <question1>Какие аналоги проанализированы</question1>
+            <question2>Что такое полностью законченныйинтерфейс</question2>
+            <question3>Что такое граничные классы</question3>
+            <question4>Что подразумевается под отсутствием модели</question4>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <question3AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question3AuthorId>
+            <question4AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question4AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>2</markCountDistinction>
+            <markCountGood>33</markCountGood>
+            <markCountSatisfactory>16</markCountSatisfactory>
+            <mark>6</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>ea7397a9-3639-416c-a656-bc6f694296d8</id>
+        <protocolNumber>55</protocolNumber>
+        <graduateWorkId>dd95c988-bb0f-4d7a-8bd7-716a97d48af6</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>09:54</startTime>
+        <endTime>10:21</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>71</pageCount>
+            <graphicCount>6</graphicCount>
+            <question1>За счет каких показателей разработка лучше аналогов</question1>
+            <question2>Что конкретно предусмотрено для пользователя системы</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы удовлетворительные</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>27</markCountGood>
+            <markCountSatisfactory>20</markCountSatisfactory>
+            <mark>5</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>a5f3e7e6-c7ee-4a8c-babc-959fe6c2b024</id>
+        <protocolNumber>56</protocolNumber>
+        <graduateWorkId>6459e65f-c11c-454f-a5ae-348c7d44b70e</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>10:21</startTime>
+        <endTime>10:48</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>81</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>7</reviewMark>
+            <question1>Что подразумевается под интерфейсом</question1>
+            <question2>Какие составные части системы</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы удовлетворительные</answer>
+            <markCountDistinction>5</markCountDistinction>
+            <markCountGood>35</markCountGood>
+            <markCountSatisfactory>11</markCountSatisfactory>
+            <mark>5</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>b0c061e5-f2ad-479a-92a7-18f435c59c60</id>
+        <protocolNumber>57</protocolNumber>
+        <graduateWorkId>c61e8af3-04aa-4d40-becd-d4af82ba3226</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>10:48</startTime>
+        <endTime>11:15</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>66</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>7</reviewMark>
+            <question1>На чем основан выбор программных продуктов</question1>
+            <question2>Какие показатели рассчитывались в процессе разработки</question2>
+            <question3>Есть ли внедрение</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f55fe7d8-1df2-428a-9aac-a295e36c5dec</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>7</markCountDistinction>
+            <markCountGood>18</markCountGood>
+            <markCountSatisfactory>26</markCountSatisfactory>
+            <mark>7</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>44fa1762-403d-4d25-b854-96b52d59c7ef</id>
+        <protocolNumber>58</protocolNumber>
+        <graduateWorkId>556d2e60-73ab-4cdb-a765-cc0e5d29b11d</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>11:15</startTime>
+        <endTime>11:42</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>98</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>7</reviewMark>
+            <question1>Какие программные средства использованы</question1>
+            <question2>Какие функции реализованы</question2>
+            <question1AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <answer>ответы удовлетворительные</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>31</markCountGood>
+            <markCountSatisfactory>16</markCountSatisfactory>
+            <mark>5</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>удовлетворительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>daa79ca2-7597-4fbd-a1fd-493caef5f321</id>
+        <protocolNumber>59</protocolNumber>
+        <graduateWorkId>3eb04ceb-dfbb-4faf-a22b-75188fc6cf52</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>11:42</startTime>
+        <endTime>12:09</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>100</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>В чем преимущества и достоинства системы</question1>
+            <question2>Какие новые функции добавлены в систему</question2>
+            <question3>Есть ли внедрение?</question3>
+            <question4>К какому классу систем относится разработка</question4>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <question4AuthorId>f55fe7d8-1df2-428a-9aac-a295e36c5dec</question4AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>27</markCountGood>
+            <markCountSatisfactory>20</markCountSatisfactory>
+            <mark>7</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>414a02fa-cf5a-4033-ad08-68aeb36943c2</id>
+        <protocolNumber>60</protocolNumber>
+        <graduateWorkId>081bc267-845d-48b5-9f06-e24c688ee338</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>12:09</startTime>
+        <endTime>12:36</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>73</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Какие изменения должны быть внесены при изменении таможенного законодательства</question1>
+            <question2>Для какой страны велась разработка</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f55fe7d8-1df2-428a-9aac-a295e36c5dec</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>36</markCountDistinction>
+            <markCountGood>11</markCountGood>
+            <markCountSatisfactory>4</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>4dd9721c-18c3-451c-a901-6c40ba337415</id>
+        <protocolNumber>61</protocolNumber>
+        <graduateWorkId>048c7402-a6d7-418d-9031-54a9160ef1ab</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>12:36</startTime>
+        <endTime>13:03</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>78</pageCount>
+            <graphicCount>6</graphicCount>
+            <question1>Для какого банка велась разработка</question1>
+            <question2>Учитаны ли новые функциональные возможности</question2>
+            <question3>Есть ли аналоги системы</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <question3AuthorId>f55fe7d8-1df2-428a-9aac-a295e36c5dec</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>2</markCountDistinction>
+            <markCountGood>15</markCountGood>
+            <markCountSatisfactory>34</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>767dce1d-171d-45ea-befa-75f2bc19698b</id>
+        <protocolNumber>63</protocolNumber>
+        <graduateWorkId>0cee2a6f-53c0-427c-89f5-b93159c75346</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>13:30</startTime>
+        <endTime>13:57</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>85</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Какие бизнес-процессы должны взаимодействовать с внешними системами</question1>
+            <question2>Для какой страховой компании разраьотан проект</question2>
+            <question3>На каких принципах произведена интеграция</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <question3AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>14</markCountDistinction>
+            <markCountGood>21</markCountGood>
+            <markCountSatisfactory>16</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>c230bba1-27b8-4dea-9bce-95cdbf205f0c</id>
+        <protocolNumber>64</protocolNumber>
+        <graduateWorkId>a2e22594-575c-471b-892d-f44bdb6e7b62</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>13:57</startTime>
+        <endTime>14:24</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>77</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Какие преимущества данной разработки</question1>
+            <question2>Под какие платформы применяется разработка</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f55fe7d8-1df2-428a-9aac-a295e36c5dec</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>11</markCountDistinction>
+            <markCountGood>25</markCountGood>
+            <markCountSatisfactory>15</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>aadb7bd4-a345-47d2-973d-67ef71a4b3a2</id>
+        <protocolNumber>65</protocolNumber>
+        <graduateWorkId>fc969821-ecec-4554-b440-2f74c4d03205</graduateWorkId>
+        <actualDate>2012-06-22T15:40:13.039+00:00</actualDate>
+        <startTime>14:24</startTime>
+        <endTime>14:51</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>80</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Для каких специалистов предназначен программный модуль</question1>
+            <question2>Что составляет семантическое ядро</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>6fc88f09-1e29-4215-b869-8c17d2fe2360</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>8</markCountDistinction>
+            <markCountGood>30</markCountGood>
+            <markCountSatisfactory>13</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>30471612-7f23-4f38-affd-44653bf1c360</id>
+        <protocolNumber>67</protocolNumber>
+        <graduateWorkId>56da3f54-0214-4c18-85c0-8c7e6b288b93</graduateWorkId>
+        <actualDate>2012-06-25T15:41:06.760+00:00</actualDate>
+        <startTime>09:30</startTime>
+        <endTime>10:00</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>82</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Для каких данных применима система</question1>
+            <question2>Каким образом решены вопросы информационной безопасности</question2>
+            <question3>Что такое косметический слой</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>17</markCountDistinction>
+            <markCountGood>26</markCountGood>
+            <markCountSatisfactory>8</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>true</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>c9e8d8d6-d353-4baa-b9a9-2a5b686d4bb8</id>
+        <protocolNumber>68</protocolNumber>
+        <graduateWorkId>d11ba610-2886-468e-86cc-e268c8529cb0</graduateWorkId>
+        <actualDate>2012-06-25T15:41:06.760+00:00</actualDate>
+        <startTime>10:00</startTime>
+        <endTime>10:30</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>76</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>6</reviewMark>
+            <question1>Какие недостатки обнаружены по результатам тестирования</question1>
+            <question2>Каковы функции загрузчика</question2>
+            <question3>Поясните &quot;микропроцессорная централизация&quot;</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>20</markCountGood>
+            <markCountSatisfactory>27</markCountSatisfactory>
+            <mark>6</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>a9bb8364-c9ae-407a-8ad0-4bdfeb023df1</id>
+        <protocolNumber>69</protocolNumber>
+        <graduateWorkId>48c8b813-ea67-48a3-96d4-bf64f0e75577</graduateWorkId>
+        <actualDate>2012-06-25T15:41:06.760+00:00</actualDate>
+        <startTime>10:30</startTime>
+        <endTime>11:00</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>77</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Какие проблемы интеграции существуют для этой системы</question1>
+            <question2>Каковы пути развития системы</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>3</markCountDistinction>
+            <markCountGood>28</markCountGood>
+            <markCountSatisfactory>20</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>4cfe910e-76b3-4697-8fc1-aa3355f439ba</id>
+        <protocolNumber>41</protocolNumber>
+        <graduateWorkId>f22fea10-2bc8-4faf-b8ed-848eb8f616c3</graduateWorkId>
+        <actualDate>2012-06-21T18:09:58.281+00:00</actualDate>
+        <startTime>09:27</startTime>
+        <endTime>09:54</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>76</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Перечислетите те информационные технологии, которые использованы при разработке</question1>
+            <question2>Какие особенности риелторской деятельности</question2>
+            <question3>Какие сущности использованы при проектировании</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>6</markCountDistinction>
+            <markCountGood>33</markCountGood>
+            <markCountSatisfactory>12</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>true</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>2a60e157-c300-4618-9ce0-cd1193bcc2ba</id>
+        <protocolNumber>42</protocolNumber>
+        <graduateWorkId>9ea75493-c4d0-4cf3-b5fe-fb51a7191881</graduateWorkId>
+        <actualDate>2012-06-21T18:10:17.001+00:00</actualDate>
+        <startTime>09:54</startTime>
+        <endTime>10:21</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>78</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>В чем сущность платформы</question1>
+            <question2>Поясните решаемые задачи</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>6</markCountDistinction>
+            <markCountGood>28</markCountGood>
+            <markCountSatisfactory>17</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>ad266bdb-7eb3-406a-a989-9af50e5849ba</id>
+        <protocolNumber>43</protocolNumber>
+        <graduateWorkId>02a5fe24-9f21-411e-b6be-9d473818ddfa</graduateWorkId>
+        <actualDate>2012-06-21T18:10:36.407+00:00</actualDate>
+        <startTime>10:21</startTime>
+        <endTime>10:48</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>74</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Каково состояние разработки</question1>
+            <question2>Как осуществляется доступ к информационным ресурсам</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>fd472646-6763-422a-9b36-27bc54b70b01</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>8</markCountDistinction>
+            <markCountGood>23</markCountGood>
+            <markCountSatisfactory>20</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>36287f8b-ea82-4a9d-ad3b-c023b42415d1</id>
+        <protocolNumber>45</protocolNumber>
+        <graduateWorkId>5df97ebf-ab81-4058-a5dd-4a3eedb147b5</graduateWorkId>
+        <actualDate>2012-06-21T18:10:44.689+00:00</actualDate>
+        <startTime>11:15</startTime>
+        <endTime>11:42</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>72</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Что принципиально нового внесено в функциональные возможности системы</question1>
+            <question2>Как проводилось тестирование</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>4</markCountDistinction>
+            <markCountGood>31</markCountGood>
+            <markCountSatisfactory>16</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>f2a8298a-a675-4950-bc2f-33d44185284b</id>
+        <protocolNumber>46</protocolNumber>
+        <graduateWorkId>274bec81-5852-45a2-a1cd-06e44c0f9968</graduateWorkId>
+        <actualDate>2012-06-21T18:11:09.549+00:00</actualDate>
+        <startTime>11:42</startTime>
+        <endTime>12:09</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>91</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>10</reviewMark>
+            <question1>В чем особенность данной разработки</question1>
+            <question2>Поясните конкретно результаты</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>22</markCountDistinction>
+            <markCountGood>26</markCountGood>
+            <markCountSatisfactory>3</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>b86ac2cd-5d8d-409c-b1fc-4aa0f0677fb4</id>
+        <protocolNumber>47</protocolNumber>
+        <graduateWorkId>89033652-8990-4a1a-b4c0-832f6e66ee72</graduateWorkId>
+        <actualDate>2012-06-21T18:11:22.284+00:00</actualDate>
+        <startTime>12:09</startTime>
+        <endTime>12:36</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>73</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Какие аналоги рассмотрены?</question1>
+            <question2>Какие преимущества разработки</question2>
+            <question3>Поясните термины, используемые в работе</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <question3AuthorId>6fc88f09-1e29-4215-b869-8c17d2fe2360</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>9</markCountDistinction>
+            <markCountGood>32</markCountGood>
+            <markCountSatisfactory>10</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>53945d6d-1673-4129-a6b1-8fc270c1cf13</id>
+        <protocolNumber>48</protocolNumber>
+        <graduateWorkId>d99e174f-b199-4613-9505-5cf49aeece49</graduateWorkId>
+        <actualDate>2012-06-21T18:11:38.831+00:00</actualDate>
+        <startTime>12:36</startTime>
+        <endTime>13:03</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>76</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Какие использованы технологии при разработке</question1>
+            <question2>На какого заказчика ориентирована система</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>15</markCountDistinction>
+            <markCountGood>23</markCountGood>
+            <markCountSatisfactory>13</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>f44b673e-48fb-4372-bbbd-fc40d6d589ca</id>
+        <protocolNumber>49</protocolNumber>
+        <graduateWorkId>bafe10b8-fb92-4dde-aa87-80ecf5d96066</graduateWorkId>
+        <actualDate>2012-06-21T18:11:52.379+00:00</actualDate>
+        <startTime>13:03</startTime>
+        <endTime>13:30</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>84</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Что такое поисковая машина</question1>
+            <question2>В чем заключается оптимизация поиска</question2>
+            <question3>Как осуществлено тестирование</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>14</markCountDistinction>
+            <markCountGood>30</markCountGood>
+            <markCountSatisfactory>7</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>c7efd521-73a2-481b-ae14-9df77f4ebb77</id>
+        <protocolNumber>50</protocolNumber>
+        <graduateWorkId>f6c04c93-dd9f-41a8-ad26-fee72bce0a14</graduateWorkId>
+        <actualDate>2012-06-21T18:12:09.301+00:00</actualDate>
+        <startTime>13:30</startTime>
+        <endTime>13:57</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>74</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Учитывают ли системы аналоги требования, предъявлемые к данной разработке</question1>
+            <question2>Осуществляется ли работа с базами данных</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>13</markCountDistinction>
+            <markCountGood>26</markCountGood>
+            <markCountSatisfactory>12</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>a746358b-5593-49ef-98a7-e496554721ca</id>
+        <protocolNumber>51</protocolNumber>
+        <graduateWorkId>602ef3f6-25fe-4dfd-a1e0-8b828f561257</graduateWorkId>
+        <actualDate>2012-06-21T18:12:22.536+00:00</actualDate>
+        <startTime>13:57</startTime>
+        <endTime>14:24</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Как учитывается ход партии в системе</question1>
+            <question2>Как учитываются вопросы информационной безопасности</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>28</markCountDistinction>
+            <markCountGood>18</markCountGood>
+            <markCountSatisfactory>5</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>aba145c6-d57b-4d21-8345-8ac9e2e22ffa</id>
+        <protocolNumber>52</protocolNumber>
+        <graduateWorkId>f3e45614-a1df-48c2-a5b9-1b0ca7906df4</graduateWorkId>
+        <actualDate>2012-06-21T18:12:35.443+00:00</actualDate>
+        <startTime>14:24</startTime>
+        <endTime>14:51</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>79</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>На кого ориентирована система</question1>
+            <question2>Какие функции реализованы</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>12</markCountDistinction>
+            <markCountGood>30</markCountGood>
+            <markCountSatisfactory>9</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>eac7597b-741e-4a35-8286-596e990b7f2f</id>
+        <protocolNumber>22</protocolNumber>
+        <graduateWorkId>b15c196b-f8d5-47fb-bb25-d3f194f8e88b</graduateWorkId>
+        <actualDate>2012-06-19T18:49:51.514+00:00</actualDate>
+        <startTime>12:36</startTime>
+        <endTime>13:03</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>74</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>Укажите перечень страховых расходов</question1>
+            <question2>Для какой страны реализовано программное обеспечение</question2>
+            <question3>Поясните процесс тестирования</question3>
+            <question1AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <question3AuthorId>aeefc822-d73f-4456-80ab-8efc43e0b4ce</question3AuthorId>
+            <answer>ответы хорошие</answer>
+            <markCountDistinction>7</markCountDistinction>
+            <markCountGood>30</markCountGood>
+            <markCountSatisfactory>17</markCountSatisfactory>
+            <mark>8</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>63efa405-816a-4925-8d76-ea4259747613</id>
+        <protocolNumber>23</protocolNumber>
+        <graduateWorkId>7c87fe66-cf74-4673-ab3b-4bce3582d0cd</graduateWorkId>
+        <actualDate>2012-06-19T18:51:58.815+00:00</actualDate>
+        <startTime>13:03</startTime>
+        <endTime>13:30</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>91</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Кто является заказчиком</question1>
+            <question2>Обеспечена полнота онтологии</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>42</markCountDistinction>
+            <markCountGood>9</markCountGood>
+            <markCountSatisfactory>0</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>с отличием</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>c774670c-c2d3-4537-81f5-327201f1f6e0</id>
+        <protocolNumber>44</protocolNumber>
+        <graduateWorkId>6fb17ca7-8f80-45c5-a6f3-ea826c7ab6d2</graduateWorkId>
+        <actualDate>2012-06-21T15:21:27.965+00:00</actualDate>
+        <startTime>10:48</startTime>
+        <endTime>11:15</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>68</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Есть ли внедрение</question1>
+            <question2>Откуда поступают данные</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>1</markCountDistinction>
+            <markCountGood>16</markCountGood>
+            <markCountSatisfactory>34</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>e53a24c8-3af8-4bf1-aa37-9e27e0a3670c</id>
+        <protocolNumber>62</protocolNumber>
+        <graduateWorkId>f49aa48e-3e76-48bb-b2ca-7174e9c0525c</graduateWorkId>
+        <actualDate>2012-06-22T15:21:47.341+00:00</actualDate>
+        <startTime>13:03</startTime>
+        <endTime>13:30</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>81</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>9</reviewMark>
+            <question1>Из каких соображений взяты показатели в ТЭО</question1>
+            <question2>В чем преимущества платформы, на которой велась разработка</question2>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question2AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>46</markCountDistinction>
+            <markCountGood>5</markCountGood>
+            <mark>9</mark>
+            <outputMark>с отличием</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>true</magistracy>
+            <printedPublication>true</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+    <defenceGraduateWork>
+        <id>b2648be0-8044-47bd-b04a-73a2202854ca</id>
+        <protocolNumber>66</protocolNumber>
+        <graduateWorkId>191c963f-2518-49ed-aa30-c5af8473d2f6</graduateWorkId>
+        <actualDate>2012-06-25T16:42:50.659+00:00</actualDate>
+        <startTime>09:00</startTime>
+        <endTime>09:30</endTime>
+        <presideId>687ce934-12d9-4d81-b725-90bb3ef4a88d</presideId>
+        <commissionerSecrId>fd472646-6763-422a-9b36-27bc54b70b01</commissionerSecrId>
+        <commissioner0Id>44a13a20-2b11-4743-bfd2-36c097a23449</commissioner0Id>
+        <commissioner1Id>6fc88f09-1e29-4215-b869-8c17d2fe2360</commissioner1Id>
+        <commissioner2Id>e54da3c3-546b-4162-80ed-2bbd056be0e0</commissioner2Id>
+        <commissioner3Id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</commissioner3Id>
+        <commissioner4Id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</commissioner4Id>
+        <commissioner5Id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</commissioner5Id>
+        <commissioner6Id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</commissioner6Id>
+        <graduateWorkInfo>
+            <pageCount>66</pageCount>
+            <graphicCount>6</graphicCount>
+            <reviewMark>8</reviewMark>
+            <question1>В чем заключается предложенный подхок к хранению данных</question1>
+            <question2>В какой стадии разработка</question2>
+            <question3>Поясните механизмы, предложенные в работе, в сравнении с существующими подходами</question3>
+            <question1AuthorId>687ce934-12d9-4d81-b725-90bb3ef4a88d</question1AuthorId>
+            <question2AuthorId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</question2AuthorId>
+            <question3AuthorId>44a13a20-2b11-4743-bfd2-36c097a23449</question3AuthorId>
+            <answer>ответы полные, отличные</answer>
+            <markCountDistinction>3</markCountDistinction>
+            <markCountGood>33</markCountGood>
+            <markCountSatisfactory>15</markCountSatisfactory>
+            <mark>9</mark>
+            <outputMark>без отличия</outputMark>
+            <resultCommon>представлена мультимедийная презентация проекта</resultCommon>
+            <timeCount>15</timeCount>
+            <managerResult>положительный</managerResult>
+            <compPresent>true</compPresent>
+            <distribution>false</distribution>
+            <bestWork>false</bestWork>
+            <magistracy>false</magistracy>
+            <printedPublication>false</printedPublication>
+        </graduateWorkInfo>
+    </defenceGraduateWork>
+</defenceGraduateWorkList>

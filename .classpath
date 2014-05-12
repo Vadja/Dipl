@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/activation.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/antlr-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/Aspose.Words.jdk15-ext.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/sjsxp.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/stringtemplate-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/==Dropbox==/Dropbox/Diplom/Практика/departament_report/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

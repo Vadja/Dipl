@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<consultantList>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="practiceConsultant">
+        <teacherId>2608a95f-58cb-4108-8619-640f0fc6e592</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="practiceConsultant">
+        <teacherId>b3df261c-71b9-4116-abb3-36b295d27b61</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="practiceConsultant">
+        <teacherId>766dca55-96a5-43e1-aeb2-f9e7dbe6b71e</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="practiceConsultant">
+        <teacherId>fd472646-6763-422a-9b36-27bc54b70b01</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="practiceConsultant">
+        <teacherId>f75a151e-fd7d-49fe-9387-f7772511420d</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="practiceConsultant">
+        <teacherId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </list>
+    <consultant>
+        <teacherId>2608a95f-58cb-4108-8619-640f0fc6e592</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </consultant>
+    <consultant>
+        <teacherId>b3df261c-71b9-4116-abb3-36b295d27b61</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </consultant>
+    <consultant>
+        <teacherId>766dca55-96a5-43e1-aeb2-f9e7dbe6b71e</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </consultant>
+    <consultant>
+        <teacherId>fd472646-6763-422a-9b36-27bc54b70b01</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </consultant>
+    <consultant>
+        <teacherId>f75a151e-fd7d-49fe-9387-f7772511420d</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </consultant>
+    <consultant>
+        <teacherId>f5181fc8-5b98-4c9d-b30c-da180980ce1b</teacherId>
+        <maxStudentsNumber>14</maxStudentsNumber>
+    </consultant>
+</consultantList>

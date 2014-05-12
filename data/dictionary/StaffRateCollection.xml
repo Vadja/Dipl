@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<staffRateList>
+    <staffRate>
+        <position>HEAD_EPARTMENT</position>
+        <amountB>1.0</amountB>
+    </staffRate>
+    <staffRate>
+        <position>PROFESSOR</position>
+    </staffRate>
+    <staffRate>
+        <position>ASSOCIATE_PROFESSOR</position>
+    </staffRate>
+    <staffRate>
+        <position>SENIOR_LECTURER</position>
+        <amountB>2.0</amountB>
+    </staffRate>
+    <staffRate>
+        <position>ASSISTANT</position>
+    </staffRate>
+    <staffRate>
+        <position>ENGINEER_1</position>
+    </staffRate>
+</staffRateList>

@@ -1,0 +1,138 @@
+#
+# An unexpected error has been detected by HotSpot Virtual Machine:
+#
+#  Internal Error (4A41564123414C4C530E4350500018), pid=3780, tid=3148
+#
+# Java VM: Java HotSpot(TM) Client VM (1.5.0_07-b03 mixed mode)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00a41988):  JavaThread "CompilerThread0" daemon [_thread_in_vm, id=3148]
+
+Stack: [0x26d40000,0x26d80000),  sp=0x26d7f768,  free space=253k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x11f2eb]
+V  [jvm.dll+0x62f13]
+V  [jvm.dll+0x85ddd]
+V  [jvm.dll+0x863c7]
+V  [jvm.dll+0xdb172]
+V  [jvm.dll+0x862d2]
+V  [jvm.dll+0x8cbfc]
+C  [awt.dll+0xb137a]
+C  [MSVCRT.dll+0x1c3f9]
+C  [MSVCRT.dll+0x1c42e]
+V  [jvm.dll+0xd7d31]
+V  [jvm.dll+0x18a8]
+V  [jvm.dll+0x1df45]
+V  [jvm.dll+0x2170d]
+V  [jvm.dll+0x2191a]
+V  [jvm.dll+0x21de7]
+V  [jvm.dll+0x1a076]
+V  [jvm.dll+0x1a2ae]
+V  [jvm.dll+0x1a905]
+V  [jvm.dll+0x5729b]
+V  [jvm.dll+0x56fc0]
+V  [jvm.dll+0x10bdad]
+V  [jvm.dll+0x10bd7b]
+C  [MSVCRT.dll+0x2a3b0]
+C  [kernel32.dll+0xb713]
+
+
+Current CompileTask:
+HotSpot Client Compiler:336   b  java.util.GregorianCalendar.computeFields(II)I (1498 bytes)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x27521a88 JavaThread "Image Fetcher 0" daemon [_thread_blocked, id=3492]
+  0x27523ed8 JavaThread "Thread-2" [_thread_blocked, id=2872]
+  0x26fd4c70 JavaThread "Java2D Disposer" daemon [_thread_blocked, id=252]
+  0x00366378 JavaThread "DestroyJavaVM" [_thread_blocked, id=2140]
+  0x26fd3ba8 JavaThread "AWT-EventQueue-0" [_thread_blocked, id=700]
+  0x26fd2d10 JavaThread "AWT-Windows" daemon [_thread_in_native, id=2004]
+  0x00a69590 JavaThread "AWT-Shutdown" [_thread_blocked, id=3808]
+  0x00a42d18 JavaThread "Low Memory Detector" daemon [_thread_blocked, id=2312]
+=>0x00a41988 JavaThread "CompilerThread0" daemon [_thread_in_vm, id=3148]
+  0x00a40d18 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=4056]
+  0x00a373c8 JavaThread "Finalizer" daemon [_thread_blocked, id=1812]
+  0x00a35f30 JavaThread "Reference Handler" daemon [_thread_blocked, id=3452]
+
+Other Threads:
+  0x00a33508 VMThread [id=2136]
+  0x00a40ac8 WatcherThread [id=2984]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap
+ def new generation   total 36288K, used 21347K [0x02a80000, 0x051e0000, 0x051e0000)
+  eden space 32256K,  66% used [0x02a80000, 0x03f58fd0, 0x04a00000)
+  from space 4032K,   0% used [0x04a00000, 0x04a00000, 0x04df0000)
+  to   space 4032K,   0% used [0x04df0000, 0x04df0000, 0x051e0000)
+ tenured generation   total 483968K, used 0K [0x051e0000, 0x22a80000, 0x22a80000)
+   the space 483968K,   0% used [0x051e0000, 0x051e0000, 0x051e0200, 0x22a80000)
+ compacting perm gen  total 12032K, used 11997K [0x22a80000, 0x23640000, 0x26a80000)
+   the space 12032K,  99% used [0x22a80000, 0x23637628, 0x23637800, 0x23640000)
+No shared spaces configured.
+
+Dynamic libraries:
+0x00400000 - 0x0040d000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\javaw.exe
+0x7c900000 - 0x7c9af000 	C:\WINDOWS\system32\ntdll.dll
+0x7c800000 - 0x7c8f6000 	C:\WINDOWS\system32\kernel32.dll
+0x77dd0000 - 0x77e6b000 	C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000 - 0x77f02000 	C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000 - 0x77ff1000 	C:\WINDOWS\system32\Secur32.dll
+0x7e410000 - 0x7e4a1000 	C:\WINDOWS\system32\USER32.dll
+0x77f10000 - 0x77f59000 	C:\WINDOWS\system32\GDI32.dll
+0x77c10000 - 0x77c68000 	C:\WINDOWS\system32\MSVCRT.dll
+0x6d730000 - 0x6d8c7000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\client\jvm.dll
+0x76b40000 - 0x76b6d000 	C:\WINDOWS\system32\WINMM.dll
+0x6d2f0000 - 0x6d2f8000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\hpi.dll
+0x76bf0000 - 0x76bfb000 	C:\WINDOWS\system32\PSAPI.DLL
+0x6d700000 - 0x6d70c000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\verify.dll
+0x6d370000 - 0x6d38d000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\java.dll
+0x6d720000 - 0x6d72f000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\zip.dll
+0x7c9c0000 - 0x7d1d7000 	C:\WINDOWS\system32\SHELL32.DLL
+0x77f60000 - 0x77fd6000 	C:\WINDOWS\system32\SHLWAPI.dll
+0x773d0000 - 0x774d3000 	C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000 - 0x5d12a000 	C:\WINDOWS\system32\comctl32.dll
+0x769c0000 - 0x76a74000 	C:\WINDOWS\system32\USERENV.dll
+0x774e0000 - 0x7761d000 	C:\WINDOWS\system32\ole32.dll
+0x77920000 - 0x77a13000 	C:\WINDOWS\system32\SETUPAPI.dll
+0x6d070000 - 0x6d1d7000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\awt.dll
+0x73000000 - 0x73026000 	C:\WINDOWS\system32\WINSPOOL.DRV
+0x76390000 - 0x763ad000 	C:\WINDOWS\system32\IMM32.dll
+0x73760000 - 0x737ab000 	C:\WINDOWS\system32\ddraw.dll
+0x73bc0000 - 0x73bc6000 	C:\WINDOWS\system32\DCIMAN32.dll
+0x73940000 - 0x73a10000 	C:\WINDOWS\system32\D3DIM700.DLL
+0x6d2b0000 - 0x6d2ef000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\fontmanager.dll
+0x6d530000 - 0x6d543000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\net.dll
+0x71ab0000 - 0x71ac7000 	C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000 - 0x71aa8000 	C:\WINDOWS\system32\WS2HELP.dll
+0x6d550000 - 0x6d559000 	D:\Samodumkin\√› \DepartmentReportsProd_new\jre\bin\nio.dll
+
+VM Arguments:
+jvm_args: -Xmx512M -Xms512M
+java_command: DepartmentReports.jar backup /nowindow
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\Program Files\Perl\bin\;C:\Perl\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Executive Software\Diskeeper\;C:\Program Files\UltraEdit-32;c:\matlab6p5\bin\win32;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\backburner 2\;C:\Program Files\CMake 2.8\bin;c:\jdk1.6.0_10\bin;
+USERNAME=Samodumkin
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=x86 Family 15 Model 4 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows XP Build 2600 Service Pack 3
+
+CPU:total 2 family 15, cmov, cx8, fxsr, mmx, sse, sse2, ht
+
+Memory: 4k page, physical 1047916k(403880k free), swap 2518836k(5224k free)
+
+vm_info: Java HotSpot(TM) Client VM (1.5.0_07-b03) for windows-x86, built on May  3 2006 01:04:38 by "java_re" with MS VC++ 6.0
+

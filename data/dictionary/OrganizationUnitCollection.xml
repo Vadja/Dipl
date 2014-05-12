@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ouList>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>b2e7a400-8e6f-4fe0-8151-5485cf470003</id>
+        <name>801701</name>
+        <type>GROUP</type>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>bb1a55e4-7822-4e3f-880f-429a826326e1</id>
+        <name>801703</name>
+        <type>GROUP</type>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>46eb60ca-1460-404d-ad63-8d1873783f99</id>
+        <name>801702</name>
+        <type>GROUP</type>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>121aa2cc-c6de-4a6e-a3ac-02321ef98cc8</id>
+        <name>000000</name>
+        <type>FACUlTY</type>
+        <departamentType>DO</departamentType>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>f166d694-05de-41d3-88c2-d8d829816326</id>
+        <name>ФИТУ</name>
+        <type>FACUlTY</type>
+        <departamentType>DAY</departamentType>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</id>
+        <name>4</name>
+        <type>STREAM</type>
+        <parentOuId>f166d694-05de-41d3-88c2-d8d829816326</parentOuId>
+        <departamentType>DAY</departamentType>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>f6196ffc-4387-4d95-847b-7eedadd23872</id>
+        <name>921701</name>
+        <type>GROUP</type>
+        <parentOuId>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</parentOuId>
+        <departamentType>DAY</departamentType>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>29534aa7-0210-481f-bdc8-197162099d3a</id>
+        <name>921702</name>
+        <type>GROUP</type>
+        <parentOuId>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</parentOuId>
+        <departamentType>DAY</departamentType>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>31633069-58d6-4365-a79a-c4ea53af4809</id>
+        <name>921703</name>
+        <type>GROUP</type>
+        <parentOuId>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</parentOuId>
+        <departamentType>DAY</departamentType>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="organizationUnit">
+        <id>38f42eb8-a224-4331-893b-abe33d66e24c</id>
+        <name>921704</name>
+        <type>GROUP</type>
+        <parentOuId>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</parentOuId>
+        <departamentType>DAY</departamentType>
+    </list>
+    <ou>
+        <id>b2e7a400-8e6f-4fe0-8151-5485cf470003</id>
+        <name>801701</name>
+        <type>GROUP</type>
+    </ou>
+    <ou>
+        <id>bb1a55e4-7822-4e3f-880f-429a826326e1</id>
+        <name>801703</name>
+        <type>GROUP</type>
+    </ou>
+    <ou>
+        <id>46eb60ca-1460-404d-ad63-8d1873783f99</id>
+        <name>801702</name>
+        <type>GROUP</type>
+    </ou>
+    <ou>
+        <id>121aa2cc-c6de-4a6e-a3ac-02321ef98cc8</id>
+        <name>000000</name>
+        <type>FACUlTY</type>
+        <departamentType>DO</departamentType>
+    </ou>
+    <ou>
+        <id>f166d694-05de-41d3-88c2-d8d829816326</id>
+        <name>ФИТУ</name>
+        <type>FACUlTY</type>
+        <departamentType>DAY</departamentType>
+    </ou>
+    <ou>
+        <id>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</id>
+        <name>4</name>
+        <type>STREAM</type>
+        <parentOuId>f166d694-05de-41d3-88c2-d8d829816326</parentOuId>
+        <departamentType>DAY</departamentType>
+    </ou>
+    <ou>
+        <id>f6196ffc-4387-4d95-847b-7eedadd23872</id>
+        <name>921701</name>
+        <type>GROUP</type>
+        <parentOuId>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</parentOuId>
+        <departamentType>DAY</departamentType>
+    </ou>
+    <ou>
+        <id>29534aa7-0210-481f-bdc8-197162099d3a</id>
+        <name>921702</name>
+        <type>GROUP</type>
+        <parentOuId>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</parentOuId>
+        <departamentType>DAY</departamentType>
+    </ou>
+    <ou>
+        <id>31633069-58d6-4365-a79a-c4ea53af4809</id>
+        <name>921703</name>
+        <type>GROUP</type>
+        <parentOuId>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</parentOuId>
+        <departamentType>DAY</departamentType>
+    </ou>
+    <ou>
+        <id>38f42eb8-a224-4331-893b-abe33d66e24c</id>
+        <name>921704</name>
+        <type>GROUP</type>
+        <parentOuId>d8cc2e3c-d53f-4b4e-bf47-6fe60168d8fe</parentOuId>
+        <departamentType>DAY</departamentType>
+    </ou>
+</ouList>

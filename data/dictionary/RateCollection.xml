@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rateList>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rate">
+        <id>316de157-85e1-45b7-aae4-6ad89ce7ee57</id>
+        <rateType>BUDGETARY</rateType>
+        <amount>1.0</amount>
+        <teacher>b3df261c-71b9-4116-abb3-36b295d27b61</teacher>
+        <range>
+            <start>2011-05-01T06:25:51.203+03:00</start>
+            <end>2011-05-31T00:00:00+03:00</end>
+        </range>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rate">
+        <id>16774773-c6a6-4009-8261-65d25122b568</id>
+        <rateType>OFF_BUDGETARY</rateType>
+        <amount>2.0</amount>
+        <teacher>766dca55-96a5-43e1-aeb2-f9e7dbe6b71e</teacher>
+        <range>
+            <start>2011-05-07T06:43:19.687+03:00</start>
+        </range>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rate">
+        <id>11c81e34-2232-447d-ba35-545e30b4e64b</id>
+        <teacher>d3c7af1e-ba3e-4566-9670-425ffc0ca8d7</teacher>
+        <range>
+            <start>2011-09-01T06:44:18.515+03:00</start>
+        </range>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rate">
+        <id>3bd4727b-298a-4a3a-a7e0-a63f8142931b</id>
+        <teacher>bfbe4b72-eab1-4cd2-a893-e100bd016b0d</teacher>
+        <range>
+            <start>2011-05-06T07:24:35.531+03:00</start>
+            <end>2011-05-13T07:24:38.609+03:00</end>
+        </range>
+    </list>
+    <rate>
+        <id>316de157-85e1-45b7-aae4-6ad89ce7ee57</id>
+        <rateType>BUDGETARY</rateType>
+        <amount>1.0</amount>
+        <teacher>b3df261c-71b9-4116-abb3-36b295d27b61</teacher>
+        <range>
+            <start>2011-05-01T06:25:51.203+03:00</start>
+            <end>2011-05-31T00:00:00+03:00</end>
+        </range>
+    </rate>
+    <rate>
+        <id>16774773-c6a6-4009-8261-65d25122b568</id>
+        <rateType>OFF_BUDGETARY</rateType>
+        <amount>2.0</amount>
+        <teacher>766dca55-96a5-43e1-aeb2-f9e7dbe6b71e</teacher>
+        <range>
+            <start>2011-05-07T06:43:19.687+03:00</start>
+        </range>
+    </rate>
+    <rate>
+        <id>11c81e34-2232-447d-ba35-545e30b4e64b</id>
+        <teacher>d3c7af1e-ba3e-4566-9670-425ffc0ca8d7</teacher>
+        <range>
+            <start>2011-09-01T06:44:18.515+03:00</start>
+        </range>
+    </rate>
+    <rate>
+        <id>3bd4727b-298a-4a3a-a7e0-a63f8142931b</id>
+        <teacher>bfbe4b72-eab1-4cd2-a893-e100bd016b0d</teacher>
+        <range>
+            <start>2011-05-06T07:24:35.531+03:00</start>
+            <end>2011-05-13T07:24:38.609+03:00</end>
+        </range>
+    </rate>
+</rateList>

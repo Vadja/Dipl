@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Pitkin/workspace/1/1234.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DP13/12341234.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=DP13/src&lt;org.iit.dr.view{StartApp.java[StartApp" manifestLocation="/DP13/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal>
+                <package handleIdentifier="=DP13/src&lt;org.iit.dr.view"/>
+            </packagesToSeal>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/DP13/new  2.txt"/>
+        <file path="/DP13/hs_err_pid3780.log"/>
+        <file path="/DP13/fields.txt"/>
+        <folder path="/DP13/lib"/>
+        <file path="/DP13/ТемыДП2012-2013.doc"/>
+        <file path="/DP13/.project"/>
+        <javaElement handleIdentifier="=DP13/src"/>
+        <file path="/DP13/дипломники2.txt"/>
+        <file path="/DP13/.classpath"/>
+        <file path="/DP13/protokol.rar"/>
+    </selectedElements>
+</jardesc>

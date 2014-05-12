@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<distributionPlaceList>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="distributionPlace">
+        <companyId>1e2403b9-a039-413e-ad3b-a34a3a67ec3d</companyId>
+        <commonRequest>0</commonRequest>
+        <requestedStudentsIdList>bfdce520-a4c8-474d-8499-6f5b82cbbc1d</requestedStudentsIdList>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="distributionPlace">
+        <companyId>9cb5fef0-7bba-432b-96ba-b7876dfaf9e8</companyId>
+        <commonRequest>0</commonRequest>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="distributionPlace">
+        <companyId>9d8ce8cb-1e12-443d-881d-ccca1301c2f1</companyId>
+        <commonRequest>0</commonRequest>
+        <requestedStudentsIdList>a9b9d1d2-dd1b-43b9-83d4-d9d75c85fd47</requestedStudentsIdList>
+    </list>
+    <distributionPlace>
+        <companyId>1e2403b9-a039-413e-ad3b-a34a3a67ec3d</companyId>
+        <commonRequest>0</commonRequest>
+        <requestedStudentsIdList>bfdce520-a4c8-474d-8499-6f5b82cbbc1d</requestedStudentsIdList>
+    </distributionPlace>
+    <distributionPlace>
+        <companyId>9cb5fef0-7bba-432b-96ba-b7876dfaf9e8</companyId>
+        <commonRequest>0</commonRequest>
+    </distributionPlace>
+    <distributionPlace>
+        <companyId>9d8ce8cb-1e12-443d-881d-ccca1301c2f1</companyId>
+        <commonRequest>0</commonRequest>
+        <requestedStudentsIdList>a9b9d1d2-dd1b-43b9-83d4-d9d75c85fd47</requestedStudentsIdList>
+    </distributionPlace>
+</distributionPlaceList>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<userManagerData>
+    <user>
+        <id>b3a01fe0-64b4-4800-a417-ce8159478cd6</id>
+        <name>test</name>
+        <password>cc3e747a6afbbcbf8be7668acfebee5</password>
+        <role>ADMINISTRATOR</role>
+        <role>HEAD_OF_SUBDEPARTMENT</role>
+        <role>SECRETARY</role>
+        <role>TEACHER</role>
+    </user>
+	<user>
+        <id>b3a01fe0-64b4-4800-a417-ce8159478cd6</id>
+        <name>admin</name>
+        <password>cc3e747a6afbbcbf8be7668acfebee5</password>
+        <role>ADMINISTRATOR</role>
+        <role>HEAD_OF_SUBDEPARTMENT</role>
+        <role>SECRETARY</role>
+        <role>TEACHER</role>
+    </user>
+</userManagerData>

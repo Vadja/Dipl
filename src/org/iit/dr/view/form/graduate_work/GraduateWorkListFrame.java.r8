@@ -1,0 +1,884 @@
+package org.iit.dr.view.form.graduate_work;
+
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.HeadlessException;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import javax.swing.JButton;
+import javax.swing.JCheckBox;
+import javax.swing.JMenuItem;
+import javax.swing.JPanel;
+import javax.swing.JPopupMenu;
+import javax.swing.JScrollPane;
+import javax.swing.JSplitPane;
+import javax.swing.JTable;
+
+import org.iit.dr.data_model.GraduateWork;
+import org.iit.dr.data_model.role.PartTimeStaffer;
+import org.iit.dr.data_model.role.Person;
+import org.iit.dr.data_model.role.Student;
+import org.iit.dr.data_model.role.Teacher;
+import org.iit.dr.documents.common.generator.ReportParams;
+import org.iit.dr.documents.common.report.ReportType;
+import org.iit.dr.documents.word.write.graduate_work.DPApplicationApprovalTopics;
+import org.iit.dr.documents.word.write.graduate_work.DPDiaryPDocumentGenerator;
+import org.iit.dr.documents.word.write.graduate_work.DPListTask;
+import org.iit.dr.documents.word.write.graduate_work.DPTitleDocumentGenerator;
+import org.iit.dr.documents.word.write.practice.TableDocumentGenerator;
+import org.iit.dr.documents.word.write.staffers.PR9AktDocumentGenerator;
+import org.iit.dr.documents.word.write.staffers.PR9DocumentGenerator;
+import org.iit.dr.services.GraduateWorkService;
+import org.iit.dr.services.StudentsService;
+import org.iit.dr.services.TeachersService;
+import org.iit.dr.utils.DateUtils;
+import org.iit.dr.utils.FileUtils;
+import org.iit.dr.utils.MemoryManager;
+import org.iit.dr.view.action.ImportGraduateWorkThemesAction;
+import org.iit.dr.view.action.SingleReportCreationAction;
+import org.iit.dr.view.component.GroupTreeSimpleStudentPanel;
+import org.iit.dr.view.component.JButtonSelect;
+import org.iit.dr.view.component.JInternalFrameExt;
+import org.iit.dr.view.component.PopupMenuButton;
+import org.iit.dr.view.model.table.common.TableModelConst;
+import org.iit.dr.view.model.table.graduate_work.GraduateWorkTableModel;
+import org.iit.dr.view.model.table.graduate_work.ViewMode;
+
+/**
+ * StudentsFrame.
+ * 
+ * @author Yuriy Karpovich
+ */
+public class GraduateWorkListFrame extends JInternalFrameExt<Object>
+{
+  private static final long serialVersionUID = -4209931362591692555L;
+
+  GraduateWorkTableModel model;
+
+  JTable jTable;
+
+  GraduateFrame graduateFrame;
+
+  GroupTreeSimpleStudentPanel groupTreeSimpleStudentPanel;
+
+  JPopupMenu reportPopup;
+
+  JPopupMenu bulkPopup;
+
+  ConsultantFrame consultantFrame = new ConsultantFrame();
+
+  // ---
+
+  JCheckBox studentView;
+
+  JCheckBox managerView;
+
+  JCheckBox consultantIdBySpecialityView;
+
+  JCheckBox consultantIdByEconomicsView;
+
+  JCheckBox consultantIdByProtectionOfLaborView;
+
+  JCheckBox consultantIdByNormalInspectionView;
+
+  JCheckBox reviewerView;
+
+  JButtonSelect selectedJButtonSelect;
+
+  public GraduateWorkListFrame( Boolean selectDialog ) throws HeadlessException
+  {
+    if( selectDialog )
+    {
+      addComponents();
+    }
+
+  }
+
+  public GraduateWorkListFrame() throws HeadlessException
+  {
+
+  }
+
+  private void initJCheckBox()
+  {
+
+    studentView = createJCheckBox( "Студент" );
+    managerView = createJCheckBox( "Руководитель" );
+    consultantIdBySpecialityView = createJCheckBox( "Конс. спец." );
+    consultantIdByEconomicsView = createJCheckBox( "Конс. эк." );
+    consultantIdByProtectionOfLaborView = createJCheckBox( "Конс. ОТ" );
+    consultantIdByNormalInspectionView = createJCheckBox( "Конс. Норм." );
+    reviewerView = createJCheckBox( "Рецензент" );
+
+    studentView.setSelected( true );
+
+    studentView.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        model.updateData( ViewMode.STUDENT );
+        studentView.setSelected( true );
+        managerView.setSelected( false );
+        consultantIdBySpecialityView.setSelected( false );
+        consultantIdByEconomicsView.setSelected( false );
+        consultantIdByProtectionOfLaborView.setSelected( false );
+        consultantIdByNormalInspectionView.setSelected( false );
+        reviewerView.setSelected( false );
+      }
+    } );
+
+    managerView.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        model.updateData( ViewMode.MANAGER );
+        studentView.setSelected( false );
+        managerView.setSelected( true );
+        consultantIdBySpecialityView.setSelected( false );
+        consultantIdByEconomicsView.setSelected( false );
+        consultantIdByProtectionOfLaborView.setSelected( false );
+        consultantIdByNormalInspectionView.setSelected( false );
+        reviewerView.setSelected( false );
+      }
+    } );
+
+    consultantIdBySpecialityView.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        model.updateData( ViewMode.CONSULTANT_BY_SPECIALITY );
+        studentView.setSelected( false );
+        managerView.setSelected( false );
+        consultantIdBySpecialityView.setSelected( true );
+        consultantIdByEconomicsView.setSelected( false );
+        consultantIdByProtectionOfLaborView.setSelected( false );
+        consultantIdByNormalInspectionView.setSelected( false );
+        reviewerView.setSelected( false );
+      }
+    } );
+
+    consultantIdByEconomicsView.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        model.updateData( ViewMode.CONSULTANT_BY_ECONOMICS );
+        studentView.setSelected( false );
+        managerView.setSelected( false );
+        consultantIdBySpecialityView.setSelected( false );
+        consultantIdByEconomicsView.setSelected( true );
+        consultantIdByProtectionOfLaborView.setSelected( false );
+        consultantIdByNormalInspectionView.setSelected( false );
+        reviewerView.setSelected( false );
+      }
+    } );
+
+    consultantIdByProtectionOfLaborView.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        model.updateData( ViewMode.CONSULTANT_BY_PROTECTION_OF_LABOR );
+        studentView.setSelected( false );
+        managerView.setSelected( false );
+        consultantIdBySpecialityView.setSelected( false );
+        consultantIdByEconomicsView.setSelected( false );
+        consultantIdByProtectionOfLaborView.setSelected( true );
+        consultantIdByNormalInspectionView.setSelected( false );
+        reviewerView.setSelected( false );
+      }
+    } );
+
+    consultantIdByNormalInspectionView.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        model.updateData( ViewMode.CONSULTANT_BY_NORMAL_INSPECTION );
+        studentView.setSelected( false );
+        managerView.setSelected( false );
+        consultantIdBySpecialityView.setSelected( false );
+        consultantIdByEconomicsView.setSelected( false );
+        consultantIdByProtectionOfLaborView.setSelected( false );
+        consultantIdByNormalInspectionView.setSelected( true );
+        reviewerView.setSelected( false );
+      }
+    } );
+
+    reviewerView.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        model.updateData( ViewMode.REVIEWER );
+        studentView.setSelected( false );
+        managerView.setSelected( false );
+        consultantIdBySpecialityView.setSelected( false );
+        consultantIdByEconomicsView.setSelected( false );
+        consultantIdByProtectionOfLaborView.setSelected( false );
+        consultantIdByNormalInspectionView.setSelected( false );
+        reviewerView.setSelected( true );
+      }
+    } );
+  }
+
+  @Override
+  protected void init()
+  {
+
+    setTitle( "Дипломные проекты" );
+
+    setMinimumSize( new Dimension( 1000, 520 ) );
+    graduateFrame = new GraduateFrame();
+  }
+
+  private List<String> getSelectedItems()
+  {
+
+    List<String> selectedItemList = new ArrayList<String>();
+
+    int[] selectedRows = jTable.getSelectedRows();
+
+    if( selectedRows != null )
+    {
+
+      for( int selectedRow : selectedRows )
+      {
+
+        String guid = ( String ) model.getValueAt( selectedRow, TableModelConst.ID_COLUMN );
+
+        if( guid != null )
+        {
+          selectedItemList.add( guid );
+        }
+      }
+
+    }
+
+    return selectedItemList;
+  }
+
+  private String getShortName( Person person )
+  {
+
+    return person != null ? person.getShortName() : "";
+  }
+
+  private void generateTitleDoc( String graduateWorkId )
+  {
+
+    GraduateWork graduateWork = GraduateWorkService.getGraduateWork( graduateWorkId );
+
+    if( graduateWork != null )
+    {
+    	Student student = StudentsService.getStudent( graduateWork.getStudentId() );
+        Teacher manger = TeachersService.getTeacher( graduateWork.getManagerId() );
+        Teacher conSpec = TeachersService.getTeacher( graduateWork.getConsultantIdBySpeciality() );
+        Teacher conEc0 = TeachersService.getTeacher( graduateWork.getConsultantIdByEconomics() );
+        Teacher conOhr = TeachersService.getTeacher( graduateWork.getConsultantIdByProtectionOfLabor() );
+        Teacher conNormcontr = TeachersService.getTeacher( graduateWork.getConsultantIdByNormalInspection() );
+        Teacher rev = TeachersService.getTeacher( graduateWork.getReviewerId() );
+
+        DPTitleDocumentGenerator dpTitleDocumentGenerator = new DPTitleDocumentGenerator();
+
+        String filePath = FileUtils.getDocumentPath( getShortName( student ), "Титульник.doc" );
+        
+        dpTitleDocumentGenerator.generate( filePath, new String[] {graduateWork.getNumber(), graduateWork.getTitle(),
+          getShortName( student ), getShortName( manger ), getShortName( conSpec ), getShortName( conEc0 ),
+          getShortName( conOhr ), getShortName( conNormcontr ), getShortName( rev ),String.valueOf(DateUtils.dateToYear(new Date()))} );
+    }
+  }
+
+  private void generateDiaryDoc( String graduateWorkId )
+  {
+
+    GraduateWork graduateWork = GraduateWorkService.getGraduateWork( graduateWorkId );
+
+    if( graduateWork != null )
+    {
+
+      Student student = StudentsService.getStudent( graduateWork.getStudentId() );
+      Teacher manger = TeachersService.getTeacher( graduateWork.getManagerId() );
+      Teacher conSpec = TeachersService.getTeacher( graduateWork.getConsultantIdBySpeciality() );
+
+      String filePath = FileUtils.getDocumentPath( getShortName( student ), "Дневник.doc" );
+      DPDiaryPDocumentGenerator dpDiaryPDocumentGenerator = new DPDiaryPDocumentGenerator();
+      dpDiaryPDocumentGenerator.generate( filePath, new String[] {getShortName( manger ), getShortName( conSpec ),
+        student != null ? student.getFullName() : "", graduateWork.getTitle()} );
+
+    }
+  }
+
+  private void generateDogovor( String guid )
+  {
+
+    GraduateWork graduateWork = GraduateWorkService.getGraduateWork( guid );
+
+    Teacher teacher = TeachersService.getTeacher( graduateWork.getManagerId() );
+    Student student = StudentsService.getStudent( graduateWork.getStudentId() );
+
+    if( teacher instanceof PartTimeStaffer )
+    {
+
+      PartTimeStaffer staffer = ( PartTimeStaffer ) teacher;
+
+      PR9DocumentGenerator pr9DocumentGenerator = new PR9DocumentGenerator();
+
+      pr9DocumentGenerator.generate(
+        FileUtils.getDocumentPath( getShortName( student ), "Форма-ПР-09 (договор).doc" ),
+        new String[] {getFullName( teacher ) + getDegreeRank( teacher ), "32", getFullName( teacher ),
+          DateUtils.dateToString( staffer.getDateOfBirthday() ), staffer.getPassport().getNumber(),
+          DateUtils.dateToString( staffer.getPassport().getDateIssue() ), staffer.getPassport().getPlaceIssue(),
+          staffer.getPassport().getPrivateNumber(), staffer.getPassport().getInsuranceNumber(), staffer.getAddress(),
+          staffer.getPhoneWork(), staffer.getPhoneHome(), staffer.getPhoneMobile(), staffer.getEducation(),
+          staffer.getSpecialty(), staffer.getDegree() != null ? staffer.getDegree().getRusName() : "",
+          staffer.getRank() != null ? staffer.getRank().getRusName() : "", staffer.getChildrenCount(),
+          staffer.getWorkPlace(), staffer.getUnpWork(), staffer.getOriginalPosition()} );
+    }
+  }
+
+  private void generateActDogovor( String guid )
+  {
+
+    GraduateWork graduateWork = GraduateWorkService.getGraduateWork( guid );
+
+    Teacher teacher = TeachersService.getTeacher( graduateWork.getManagerId() );
+    Student student = StudentsService.getStudent( graduateWork.getStudentId() );
+
+    PR9AktDocumentGenerator pr9AktDocumentGenerator = new PR9AktDocumentGenerator();
+
+    pr9AktDocumentGenerator.generate(
+      FileUtils.getDocumentPath( getShortName( student ), "Форма-АПР-09 (акт) [Апрель].doc" ), new String[] {
+        getFullName( teacher ) + getDegreeRank( teacher ), "23.03.2010", "26.04.2010", "32"} );
+
+    pr9AktDocumentGenerator.generate(
+      FileUtils.getDocumentPath( getShortName( student ), "Форма-АПР-09 (акт) [Май].doc" ), new String[] {
+        getFullName( teacher ) + getDegreeRank( teacher ), "27.04.2010", "28.05.2010", "32"} );
+  }
+
+  private String getDegreeRank( Teacher teacher )
+  {
+
+    StringBuilder builder = new StringBuilder();
+
+    if( teacher != null )
+    {
+
+      if( teacher.getDegree() != null )
+      {
+
+        builder.append( ", " );
+        builder.append( teacher.getDegree().getRusNameShort() );
+      }
+
+      if( teacher.getRank() != null )
+      {
+
+        builder.append( ", " );
+        builder.append( teacher.getRank().getRusName() );
+      }
+
+    }
+
+    return builder.toString();
+
+  }
+
+  private String getFullName( Person person )
+  {
+
+    return person != null ? person.getFullName() : "";
+  }
+
+  private void addPopup()
+  {
+
+    reportPopup = new JPopupMenu();
+
+    JMenuItem item = new JMenuItem( "Пакета документов" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+        for( String selectedGUID : selectedItemList )
+        {
+
+          generateTitleDoc( selectedGUID );
+          generateDiaryDoc( selectedGUID );
+          generateDogovor( selectedGUID );
+          generateActDogovor( selectedGUID );
+        }
+
+      }
+    } );
+    reportPopup.add( item );
+
+    item = new JMenuItem( "Дневника" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+        for( String selectedGUID : selectedItemList )
+        {
+
+          generateDiaryDoc( selectedGUID );
+        }
+      }
+    } );
+    reportPopup.add( item );
+
+    item = new JMenuItem( "Договора" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+        for( String selectedGUID : selectedItemList )
+        {
+
+          generateDogovor( selectedGUID );
+        }
+      }
+    } );
+    reportPopup.add( item );
+
+    item = new JMenuItem( "Акта приема выполненных работ" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+        for( String selectedGUID : selectedItemList )
+        {
+
+          generateActDogovor( selectedGUID );
+        }
+      }
+    } );
+    reportPopup.add( item );
+
+    item = new JMenuItem( "Распоряжение о допуске" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+        if( selectedItemList != null && selectedItemList.size() > 0 )
+        {
+
+          TableDocumentGenerator documentGenerator = new TableDocumentGenerator();
+          documentGenerator.setTemplateName( "Распоряжение о допуске.doc" );
+          documentGenerator.generateDocument( selectedItemList, "Распоряжение о допуске.doc" );
+        }
+      }
+    } );
+    reportPopup.add( item );
+
+    item = new JMenuItem( "Распоряжение о рецензентах" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+        if( selectedItemList != null && selectedItemList.size() > 0 )
+        {
+
+          TableDocumentGenerator documentGenerator = new TableDocumentGenerator();
+          documentGenerator.setTemplateName( "Распоряжение о рецензентах.doc" );
+          documentGenerator.generateDocument( selectedItemList, "Распоряжение о рецензентах.doc" );
+        }
+      }
+    } );
+    reportPopup.add( item );
+
+    item = new JMenuItem( "Заявление на утверждение темы ДП" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+    	  List<String> selectedItemList = getSelectedItems();
+          for( String selectedGUID : selectedItemList )
+          {
+            generateTheme( selectedGUID );
+          }
+      }
+    } );
+    reportPopup.add( item );
+    
+    item = new JMenuItem( "Титульного листа" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+        for( String selectedGUID : selectedItemList )
+        {
+
+          generateTitleDoc( selectedGUID );
+        }
+      }
+    } );
+    reportPopup.add( item );
+
+    item = new JMenuItem( "Листа задания" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+    	  List<String> selectedItemList = getSelectedItems();
+          for( String selectedGUID : selectedItemList )
+          {
+            generateListTask( selectedGUID );
+          }
+      }
+    } );
+    reportPopup.add( item );
+    
+    item = new JMenuItem( "Приказ на утверждение тем" );
+    item.addActionListener( new SingleReportCreationAction( ReportType.GRADUATE_WORKS_THEMS_REPORT, new ReportParams(
+      FileUtils.getCommonDocumentPath( ReportType.GRADUATE_WORKS_THEMS_REPORT.getTemplateName() ) ), this ) );
+    reportPopup.add( item );
+    // //
+
+    bulkPopup = new JPopupMenu();
+
+    item = new JMenuItem( "Назначить консультантов" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+
+        if( selectedItemList != null && selectedItemList.size() > 0 )
+        {
+
+          consultantFrame.showFrame( GraduateWorkListFrame.this, selectedItemList );
+        }
+
+      }
+    } );
+    bulkPopup.add( item );
+
+    item = new JMenuItem( "Подготовить протокол" );
+    item.addActionListener( new ActionListener()
+    {
+      public void actionPerformed( ActionEvent e )
+      {
+
+        List<String> selectedItemList = getSelectedItems();
+
+        if( selectedItemList != null && selectedItemList.size() > 0 )
+        {
+
+          ToDefenceDialog toDefenceDialog = ( ToDefenceDialog ) MemoryManager.getObject( ToDefenceDialog.class );
+
+          toDefenceDialog.showFrame( GraduateWorkListFrame.this, selectedItemList );
+        }
+
+      }
+    } );
+    bulkPopup.add( item );
+
+    item = new JMenuItem( "Загрузить темы из заявлений" );
+    item.addActionListener( new ImportGraduateWorkThemesAction( this ) );
+    bulkPopup.add( item );
+  }
+
+  protected void generateListTask( String graduateWorkId ){
+	  GraduateWork graduateWork = GraduateWorkService.getGraduateWork( graduateWorkId );
+
+	    if( graduateWork != null )
+	    {
+
+	      Student student = StudentsService.getStudent( graduateWork.getStudentId() );
+	      Teacher manger = TeachersService.getTeacher( graduateWork.getManagerId() );
+
+	      DPListTask documentGenerator = new DPListTask();
+	      
+	      String filePath = FileUtils.getDocumentPath( getShortName( student ), "Лист задания.doc" );
+  		
+	      String stLastName= checkData(student.getLastName());
+		  String stFirstName= checkData(student.getFirstName());
+		  String stPatronymicName = checkData(student.getPatronymicName());
+		  String title = checkData(graduateWork.getTitle());
+		  String year = checkData(DateUtils.dateToYear(new Date()));
+		  
+		  String mgFIO = checkData(manger.getShortName());
+		  String issue = checkData(graduateWork.getDateOfIssue()!=null?DateUtils.dateToFullString(graduateWork.getDateOfIssue()):"");
+	      
+	      documentGenerator.generate( filePath, new String[] {
+	    		  stLastName,
+	    		  stFirstName,
+	    		  stPatronymicName,
+	    		  title,
+	    		  year,
+	    		  issue,
+	    		  mgFIO
+	        	  } );
+	    }
+  }
+  protected void generateTheme(String graduateWorkId){
+
+	    GraduateWork graduateWork = GraduateWorkService.getGraduateWork( graduateWorkId );
+
+	    if( graduateWork != null )
+	    {
+
+	      Student student = StudentsService.getStudent( graduateWork.getStudentId() );
+	      Teacher manger = TeachersService.getTeacher( graduateWork.getManagerId() );
+
+	      DPApplicationApprovalTopics documentGenerator = new DPApplicationApprovalTopics();
+	      
+	      String filePath = FileUtils.getDocumentPath( getShortName( student ), "Заявление на утверждение темы ДП.doc" );
+	      
+	      String stGroup = checkData(student.getGroup());
+	      String stLastName= checkData(student.getLastName());
+		  String stFirstName= checkData(student.getFirstName());
+		  String stPatronymicName = checkData(student.getPatronymicName());
+		  String stAddress = checkData(student.getAddress());
+		  String stPhone = checkData(student.getPhone());
+		  String stMobilePhone = checkData(student.getMobilePhone());
+		  String stEmail= checkData(student.getEmail());
+		  String title = checkData(graduateWork.getTitle());
+		  String day = checkData(String.valueOf(DateUtils.dateToDay(new Date())));
+		  String month = checkData(String.valueOf(DateUtils.dateToMonth(new Date())));
+		  String year = checkData(String.valueOf(DateUtils.dateToYear(new Date())));
+		  String mgLastName = checkData(manger.getLastName());
+		  String mgFirstName= checkData(manger.getFirstName());
+		  String mgPatronymicName = checkData(manger.getPatronymicName());
+		  String mgDegree = checkData(manger.getDegree()!=null?manger.getDegree().getRusName():"");
+		  String mgRank = checkData(manger.getRank()!=null?manger.getRank().getRusName():"");
+		  String mgAddress = checkData(manger.getAddress());
+		  String mgHomePhone = checkData(manger.getHomePhone());
+		  String mgPosition = checkData(manger.getPosition()!=null?manger.getPosition().getRusName():"");
+	      
+	      documentGenerator.generate( filePath, new String[] {
+	    		  stGroup,
+	    		  stLastName,
+	    		  stFirstName,
+	    		  stPatronymicName,
+	    		  stAddress,
+	    		  stPhone,
+	    		  stMobilePhone,
+	    		  stEmail,
+	    		  title,
+	    		  day,
+	    		  month,
+	    		  year,
+	    		  mgLastName,
+	    		  mgFirstName,
+	    		  mgPatronymicName,
+	    		  mgPosition,
+	    		  mgDegree,
+	    		  mgRank,
+	    		  mgAddress,
+	    		  mgHomePhone
+	        	  } );
+	    }
+  }
+
+  private String checkData(String data){
+	  if(data!=null){
+		  return data;
+	  }
+	  return " ";
+  }
+  @Override
+  protected void generateComponents()
+  {
+
+    initJCheckBox();
+
+    model = new GraduateWorkTableModel();
+    jTable = new JTable( model );
+    groupTreeSimpleStudentPanel = new GroupTreeSimpleStudentPanel( model );
+
+    jTable.addMouseListener( new MouseAdapter()
+    {
+      @Override
+      public void mouseClicked( MouseEvent e )
+      {
+        if( e.getButton() == MouseEvent.BUTTON3 )
+        {
+          if( jTable.getSelectedRow() >= 0 )
+          {
+            String guid = ( String ) model.getValueAt( jTable.getSelectedRow(), TableModelConst.ID_COLUMN );
+            GraduateWork graduateWork = GraduateWorkService.getGraduateWork( guid );
+            graduateFrame.showFrame( model, graduateWork );
+          }
+        }
+      }
+    } );
+
+    JScrollPane jScrollPane = new JScrollPane( jTable );
+    JScrollPane jScrollPaneLeft = new JScrollPane( groupTreeSimpleStudentPanel );
+    jScrollPaneLeft.setMinimumSize( new Dimension( 180, 200 ) );
+
+    add( new JSplitPane( JSplitPane.HORIZONTAL_SPLIT, jScrollPaneLeft, jScrollPane ), BorderLayout.CENTER );
+
+    JButton addButton = new JButton( "Добавить" );
+    addButton.addActionListener( new ActionListener()
+    {
+
+      public void actionPerformed( ActionEvent e )
+      {
+
+        graduateFrame.showFrame( model, null );
+
+      }
+    } );
+
+    JButton removeButton = new JButton( "Удалить" );
+    removeButton.addActionListener( new ActionListener()
+    {
+
+      public void actionPerformed( ActionEvent e )
+      {
+
+        if( jTable.getSelectedRow() >= 0 )
+        {
+          String guid = ( String ) model.getValueAt( jTable.getSelectedRow(), TableModelConst.ID_COLUMN );
+          GraduateWorkService.removeGraduateWork( guid );
+
+          model.updateData();
+        }
+      }
+    } );
+
+    JPanel jFilterPanel =
+      createNorthButtonPane( 5, studentView, managerView, consultantIdBySpecialityView, consultantIdByEconomicsView,
+        consultantIdByProtectionOfLaborView, consultantIdByNormalInspectionView, reviewerView );
+
+    getContentPane().add( createVPane( 0, createNorthButtonPane( 5, addButton, removeButton ), jFilterPanel ),
+      BorderLayout.NORTH );
+
+    JButton reportButton = new JButton( "Формирование документов" );
+    reportButton.addActionListener( new ActionListener()
+    {
+
+      public void actionPerformed( ActionEvent e )
+      {
+
+        int x = GraduateWorkListFrame.this.getSize().width;
+        int y = GraduateWorkListFrame.this.getSize().height;
+
+        reportPopup.show( GraduateWorkListFrame.this, x - 203, y - 290 );
+      }
+    } );
+
+    PopupMenuButton bulkButton = new PopupMenuButton( "Действия", bulkPopup );
+
+    getContentPane().add( createNorthButtonPane( 5, bulkButton, reportButton ), BorderLayout.SOUTH );
+
+    addPopup();
+  }
+
+  @Override
+  public boolean showFrame( Object parent, Object jButtonSelectObject )
+  {
+
+    if( jButtonSelectObject != null )
+    {
+
+      if( jButtonSelectObject instanceof JButtonSelect )
+      {
+
+        selectedJButtonSelect = ( JButtonSelect ) jButtonSelectObject;
+      }
+    }
+
+    if( groupTreeSimpleStudentPanel != null )
+    {
+
+      groupTreeSimpleStudentPanel.updateData();
+    }
+
+    model.updateData();
+    setVisible( true );
+
+    return true;
+  }
+
+  private void addComponents()
+  {
+
+    JButton applyButton = new JButton( "Применить" );
+    applyButton.addActionListener( new ActionListener()
+    {
+
+      public void actionPerformed( ActionEvent e )
+      {
+
+        if( selectedJButtonSelect != null )
+        {
+
+          int selectedRow = jTable.getSelectedRow();
+
+          if( selectedRow != -1 )
+          {
+
+            String guid = ( String ) model.getValueAt( selectedRow, TableModelConst.ID_COLUMN );
+
+            if( guid != null )
+            {
+
+              GraduateWork graduateWork = GraduateWorkService.getGraduateWork( guid );
+              selectedJButtonSelect.setUserObject( graduateWork );
+              setVisible( false );
+            }
+          }
+        }
+      }
+    } );
+
+    JButton removeButton = new JButton( "Удалить выбор" );
+    removeButton.addActionListener( new ActionListener()
+    {
+
+      public void actionPerformed( ActionEvent e )
+      {
+
+        if( selectedJButtonSelect != null )
+        {
+
+          selectedJButtonSelect.setUserObject( null );
+        }
+
+        setVisible( false );
+      }
+    } );
+
+    JButton cancelButton = new JButton( "Отмена" );
+    cancelButton.addActionListener( new ActionListener()
+    {
+
+      public void actionPerformed( ActionEvent e )
+      {
+
+        setVisible( false );
+      }
+    } );
+
+    getContentPane().add( createNorthButtonPane( 10, applyButton, removeButton, cancelButton ), BorderLayout.SOUTH );
+  }
+
+}

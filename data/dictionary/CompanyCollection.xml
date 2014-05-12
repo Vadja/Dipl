@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<companiesList>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="company">
+        <id>1e2403b9-a039-413e-ad3b-a34a3a67ec3d</id>
+        <shortName>Эпам</shortName>
+        <fullName>ИЧУПТП &quot;ЭПАМ Системз&quot;</fullName>
+        <postCode>220123</postCode>
+        <city>г.Минск</city>
+        <address>ул. Купревича 1/1 к 104</address>
+        <phoneNumber>80173890019</phoneNumber>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="company">
+        <id>9cb5fef0-7bba-432b-96ba-b7876dfaf9e8</id>
+        <shortName>Итранзишен</shortName>
+        <fullName>ЗАО «Итранзишэн»</fullName>
+        <postCode>220004</postCode>
+        <city>г.Минск</city>
+        <address>ул. Мельникайте 2-1301</address>
+        <phoneNumber>80172891223</phoneNumber>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="company">
+        <id>1811f230-0049-47d1-8053-965491cd5d2f</id>
+        <shortName>Кафедра ИИТ</shortName>
+        <fullName>Кафедра ИИТ БГУИР</fullName>
+        <city>г.Минск</city>
+        <address>ул. Платонова</address>
+        <phoneNumber>801721345678</phoneNumber>
+        <director>Голенков В.В.</director>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="company">
+        <id>e4ae1931-37c2-4b03-aa8e-2680c5420a08</id>
+        <shortName>Кадастровое агентство</shortName>
+        <fullName>НПГРУП Национальное кадастровое агентство</fullName>
+        <postCode>220005</postCode>
+        <city>г.Минск</city>
+        <address>пер. Краснозвездный, 12-320</address>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="company">
+        <id>9d8ce8cb-1e12-443d-881d-ccca1301c2f1</id>
+        <shortName>НИИСА</shortName>
+        <fullName>НИРУП &quot;НИИСА&quot;</fullName>
+        <city>г. Минск</city>
+        <address>пр. Независимости, 117</address>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="company">
+        <id>f9725290-8578-4533-a419-666e902a7f89</id>
+        <shortName>Синезис</shortName>
+        <fullName>ООО &quot;Синезис&quot;</fullName>
+        <postCode>220043</postCode>
+        <city>г.Минск</city>
+        <address>пр-т Независимости, 95, здание 12</address>
+    </list>
+    <company>
+        <id>1e2403b9-a039-413e-ad3b-a34a3a67ec3d</id>
+        <shortName>Эпам</shortName>
+        <fullName>ИЧУПТП &quot;ЭПАМ Системз&quot;</fullName>
+        <postCode>220123</postCode>
+        <city>г.Минск</city>
+        <address>ул. Купревича 1/1 к 104</address>
+        <phoneNumber>80173890019</phoneNumber>
+    </company>
+    <company>
+        <id>9cb5fef0-7bba-432b-96ba-b7876dfaf9e8</id>
+        <shortName>Итранзишен</shortName>
+        <fullName>ЗАО «Итранзишэн»</fullName>
+        <postCode>220004</postCode>
+        <city>г.Минск</city>
+        <address>ул. Мельникайте 2-1301</address>
+        <phoneNumber>80172891223</phoneNumber>
+    </company>
+    <company>
+        <id>1811f230-0049-47d1-8053-965491cd5d2f</id>
+        <shortName>Кафедра ИИТ</shortName>
+        <fullName>Кафедра ИИТ БГУИР</fullName>
+        <city>г.Минск</city>
+        <address>ул. Платонова</address>
+        <phoneNumber>801721345678</phoneNumber>
+        <director>Голенков В.В.</director>
+    </company>
+    <company>
+        <id>e4ae1931-37c2-4b03-aa8e-2680c5420a08</id>
+        <shortName>Кадастровое агентство</shortName>
+        <fullName>НПГРУП Национальное кадастровое агентство</fullName>
+        <postCode>220005</postCode>
+        <city>г.Минск</city>
+        <address>пер. Краснозвездный, 12-320</address>
+    </company>
+    <company>
+        <id>9d8ce8cb-1e12-443d-881d-ccca1301c2f1</id>
+        <shortName>НИИСА</shortName>
+        <fullName>НИРУП &quot;НИИСА&quot;</fullName>
+        <city>г. Минск</city>
+        <address>пр. Независимости, 117</address>
+    </company>
+    <company>
+        <id>f9725290-8578-4533-a419-666e902a7f89</id>
+        <shortName>Синезис</shortName>
+        <fullName>ООО &quot;Синезис&quot;</fullName>
+        <postCode>220043</postCode>
+        <city>г.Минск</city>
+        <address>пр-т Независимости, 95, здание 12</address>
+    </company>
+</companiesList>

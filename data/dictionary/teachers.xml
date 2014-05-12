@@ -1,0 +1,2721 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<teacherList>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>08f1e054-510f-4aaa-a44a-2a362ef094a3</id>
+        <firstName>С</firstName>
+        <lastName>Андрияш</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>УО МГЛУ</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>3cdf51d8-d63e-4856-adbe-3122f3d099ea</id>
+        <firstName>Д.</firstName>
+        <lastName>Андрос</lastName>
+        <patronymicName>А.</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>f9e4a321-dd49-4dac-b7b5-229fd523375b</id>
+        <firstName>А</firstName>
+        <lastName>Антонов</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>f3044047-626b-40ef-ae56-63dd96503326</id>
+        <firstName>А</firstName>
+        <lastName>Антонович</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер-программист</originalPosition>
+        <workPlace>ООО &quot;Дженерэйшен-Пи Консалтинг&quot; </workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>f9afbe8a-5d3a-4c7d-a9dc-74a7ab89542d</id>
+        <firstName>В</firstName>
+        <lastName>Антонович </lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>969628ea-344f-4fa5-9bcf-472ee390041d</id>
+        <firstName>Максим</firstName>
+        <lastName>Бабарика</lastName>
+        <patronymicName>Михайлович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник сектора</originalPosition>
+        <workPlace>ОАО &quot;Агат-системы управления&quot; - управляющая компания холдингагеоинформационные системы управления</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>e97ce830-ebb5-4e37-a901-614be9249508</id>
+        <firstName>А</firstName>
+        <lastName>Балушник</lastName>
+        <patronymicName>Г</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>ИООО &quot;БЛРСофт&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>d3c7af1e-ba3e-4566-9670-425ffc0ca8d7</id>
+        <firstName>Лилия</firstName>
+        <lastName>Баранова</lastName>
+        <patronymicName>Модестовна</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник управления</originalPosition>
+        <workPlace>ОАО &quot;Агат-системы управления&quot; - управляющая компания холдингагеоинформационные системы управления</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>ceb05d66-0305-4f2c-b801-f1720a4f019b</id>
+        <firstName>С</firstName>
+        <lastName>Белов </lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>6ed5dca3-6c0e-49ec-89cc-4c1575fe1cd7</id>
+        <firstName>С</firstName>
+        <lastName>Борисюк </lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>bfbe4b72-eab1-4cd2-a893-e100bd016b0d</id>
+        <firstName>С</firstName>
+        <lastName>Бруй</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>директор</originalPosition>
+        <workPlace>ООО «Вайзор Интерэк»</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>00d1c670-f330-46d5-a619-d78dcff4791b</id>
+        <firstName>Артур</firstName>
+        <lastName>Будник</lastName>
+        <patronymicName>Владимирович</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>декан ФИТиУ</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>fe3fb336-e849-4303-832b-56e6322106a6</id>
+        <firstName>А</firstName>
+        <lastName>Будников</lastName>
+        <patronymicName>Д</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>ef4241ae-ad0c-496e-ba5f-7bc2111ba85b</id>
+        <firstName>П</firstName>
+        <lastName>Буланов</lastName>
+        <patronymicName>Л</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+        <workPlace>ЗАО &quot;Итранзишэн&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>4a0c6b33-9fa5-48af-b5b8-6a76d0ca70a2</id>
+        <firstName>Дмитрий</firstName>
+        <lastName>Бушенко</lastName>
+        <patronymicName>Александрович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>асс. каф. ЭВМ</originalPosition>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>fa8e3bfc-73eb-4dba-88af-0f03ce90fdc3</id>
+        <firstName>П</firstName>
+        <lastName>Володько</lastName>
+        <patronymicName>Г</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>c81cf36b-53f8-4752-840f-56a5f01aa576</id>
+        <firstName>О</firstName>
+        <lastName>Воробей</lastName>
+        <patronymicName>И</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+        <workPlace>ООО «Белхард Девелопмент»</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>b9aeb656-2c36-490b-9cdd-5b2ca2b656f2</id>
+        <firstName>В</firstName>
+        <lastName>Гайдукевич </lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>08e1005d-fbae-40a3-947f-7e8d01794c76</id>
+        <firstName>В</firstName>
+        <lastName>Гаранович</lastName>
+        <patronymicName>И</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер-программист</originalPosition>
+        <workPlace>ИП «Эпам Системз»</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>4bc61511-056e-4c9e-bd6c-3df83ec8b093</id>
+        <firstName>В</firstName>
+        <lastName>Гоглев</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>44a13a20-2b11-4743-bfd2-36c097a23449</id>
+        <firstName>Владимир</firstName>
+        <lastName>Голенков</lastName>
+        <patronymicName>Васильевич</patronymicName>
+        <rank>PROFESSOR</rank>
+        <degree>DOCTOR_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>зав. каф. ИИТ</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>1ea251b6-9837-4c62-b20e-3c8a182fb0f3</id>
+        <firstName>В</firstName>
+        <lastName>Горшунов</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+        <workPlace>СП ЗАО «Международный деловой альянс»</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>df5abbae-400c-45a0-8c13-291d0aef886b</id>
+        <firstName>В</firstName>
+        <lastName>Грек </lastName>
+        <patronymicName>М</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>b1ce2231-e12d-469a-8b13-fb381571deb3</id>
+        <firstName>А</firstName>
+        <lastName>Грицай</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>5db1c909-5156-4307-a4ad-8c91312d762e</id>
+        <firstName>Н</firstName>
+        <lastName>Грищенкова</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>fefeb39a-0f19-42cc-9edd-8c3435ed342c</id>
+        <firstName>В</firstName>
+        <lastName>Грошевский</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник цеха</originalPosition>
+        <workPlace>УП «Национальная киностудия «Беларусьфильм»</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>d04a9009-0785-453e-ae69-55b94171f790</id>
+        <firstName>И</firstName>
+        <lastName>Гудей</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+        <workPlace>ЗАО &quot;Итранзишэн&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>6fc88f09-1e29-4215-b869-8c17d2fe2360</id>
+        <firstName>Наталья</firstName>
+        <lastName>Гулякина</lastName>
+        <patronymicName>Анатольевна</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_FIZ_MATH</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>доцент кафедры ИИТ</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>53d6d176-ba99-4bc7-b050-7acfaac0e553</id>
+        <firstName>П</firstName>
+        <lastName>Гунич </lastName>
+        <patronymicName>М</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>7c150f77-1905-40fa-b2ee-09fbb88e3f84</id>
+        <firstName>Д</firstName>
+        <lastName>Довнар</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>e9d276c7-57eb-42c0-84a2-cfab256ea4f3</id>
+        <firstName>И</firstName>
+        <lastName>Доля </lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>7332c1d0-7cb2-4a8a-b54a-90aab2b7aaa4</id>
+        <firstName>А</firstName>
+        <lastName>Дранкевич</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист 1-ой категории</originalPosition>
+        <workPlace>ИООО &quot;Сеавус&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>ee18242d-96fb-46e1-8066-6fbc7efd59eb</id>
+        <firstName>Д</firstName>
+        <lastName>Ерошеня  </lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>c7fa129c-80a9-4c45-a127-74c17d5ff394</id>
+        <firstName>П</firstName>
+        <lastName>Жаврид</lastName>
+        <patronymicName>Г</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>fce40696-56b4-4134-a999-e781e9c8e850</id>
+        <firstName>Елена </firstName>
+        <lastName>Живицкая</lastName>
+        <patronymicName>Николаевна</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+        <prorektor>true</prorektor>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staffer">
+        <id>db7f457c-51f6-493f-a9fc-c27beefcca90</id>
+        <firstName>И</firstName>
+        <lastName>Зарубайко</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <position>ENGINEER_1</position>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>4586795d-a38c-4dc3-8952-87b67458d267</id>
+        <firstName>Николай</firstName>
+        <lastName>Иванов</lastName>
+        <patronymicName>Николаевич</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_FIZ_MATH</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>доцент каф. ЭВМ</originalPosition>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staffer">
+        <id>2608a95f-58cb-4108-8619-640f0fc6e592</id>
+        <firstName>Валерьян</firstName>
+        <lastName>Ивашенко</lastName>
+        <patronymicName>Петрович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <position>ASSISTANT</position>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>63ed849f-c1d7-4d5c-9de4-29fa5ad99016</id>
+        <firstName>Евгений</firstName>
+        <lastName>Калабухов</lastName>
+        <patronymicName>Валерьевич</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>асс. каф. ЭВМ</originalPosition>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>cf6fa0cf-3f6d-4885-85d6-43d8b04efa3d</id>
+        <firstName>А.</firstName>
+        <lastName>Калмыков</lastName>
+        <patronymicName>И.</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>687ce934-12d9-4d81-b725-90bb3ef4a88d</id>
+        <firstName>Олег</firstName>
+        <lastName>Капцевич</lastName>
+        <patronymicName>Александрович</patronymicName>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>заместитель начальника управления высоких технологий</originalPosition>
+        <workPlace>ОАО &quot;Агат-системы управления&quot; - управляющая компания холдинга геоинформационные системы управления&quot;</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>aeefc822-d73f-4456-80ab-8efc43e0b4ce</id>
+        <firstName>Владимир</firstName>
+        <lastName>Качков</lastName>
+        <patronymicName>Петрович</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>доцент</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>3b51a0f9-c87b-495c-8cf3-fa4e780a480e</id>
+        <firstName>А</firstName>
+        <lastName>Кирилов </lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>61f786e3-5177-4e9f-953e-1419ba4c6a4d</id>
+        <firstName>А</firstName>
+        <lastName>Клинцов</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>2fcd8b0c-1e89-4a12-96aa-4182c5d7acca</id>
+        <firstName>С</firstName>
+        <lastName>Кобрин</lastName>
+        <patronymicName>Ю</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staffer">
+        <id>b3df261c-71b9-4116-abb3-36b295d27b61</id>
+        <firstName>Дмитрий</firstName>
+        <lastName>Колб</lastName>
+        <patronymicName>Григорьевич</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <position>ASSISTANT</position>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>23bc33a6-0065-4365-b567-e591f3cf2ab3</id>
+        <firstName>В.</firstName>
+        <lastName>Комличенко</lastName>
+        <patronymicName>Н.</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>зав. кафедрой экономической информатики </originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>013a247c-6d78-4104-a8eb-569e0e096ee0</id>
+        <firstName>А</firstName>
+        <lastName>Кондратенко</lastName>
+        <patronymicName>Л</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+        <workPlace>ЧУП «Компьютерные инновации»</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>8f218c6d-894e-4894-a483-065c796f235e</id>
+        <firstName>Д</firstName>
+        <lastName>Кондратьев</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>3c3cef74-cd77-45c1-b09f-966450cca42a</id>
+        <firstName>М</firstName>
+        <lastName>Кононович</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSecondJobStaffer">
+        <id>66d43945-7857-451a-9651-2df1f8593916</id>
+        <firstName>Д</firstName>
+        <lastName>Корончик </lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>37d923bc-66f4-446d-9614-68d22f2766ca</id>
+        <firstName>Валерий</firstName>
+        <lastName>Кручинский</lastName>
+        <patronymicName>Владимирович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>нач. отдела, к.т.н.</originalPosition>
+        <workPlace>БРФФИ</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>b9718cd0-a46c-48c3-b5fb-78b61a6c0eec</id>
+        <firstName>С</firstName>
+        <lastName>Куделя</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>ddd32450-22fe-45a7-bece-86f8965a3c61</id>
+        <firstName>Е</firstName>
+        <lastName>Кузьмицкий</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staffer">
+        <id>09c00bcc-bc26-4514-95c6-7643f8ca5875</id>
+        <firstName>И</firstName>
+        <lastName>Кучинская</lastName>
+        <patronymicName>И</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <position>ASSISTANT</position>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>8072161d-a072-4928-bc9a-a7cb946afc35</id>
+        <firstName>Ирина</firstName>
+        <lastName>Кучинская</lastName>
+        <patronymicName>Ивановна</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>вед. инженер-системотехник</originalPosition>
+        <workPlace>ОАО &quot;Агат-системы управления&quot; - управляющая компания холдингагеоинформационные системы управления</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>168b25d3-10aa-49ed-a7d5-20f446ac65ea</id>
+        <firstName>Анна</firstName>
+        <lastName>Кучинская</lastName>
+        <patronymicName>Бориковна</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник сектора</originalPosition>
+        <workPlace>ОАО &quot;Агат-системы управления&quot; - управляющая компания холдингагеоинформационные системы управления</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>d6386969-7294-4f09-8536-92e9d7582c4c</id>
+        <firstName>И</firstName>
+        <lastName>Лаврисюк</lastName>
+        <patronymicName>Г</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>5745fed6-a1de-4ba5-9637-ed792f70891b</id>
+        <firstName>В</firstName>
+        <lastName>Лазаревич</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>главный конструктор проекта</originalPosition>
+        <workPlace>ОИПИ НАН Беларуси</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>0b8e86a5-7b5a-42ea-948a-50ae4c15a5fb</id>
+        <firstName>И</firstName>
+        <lastName>Лахадынов</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>2e13afa4-454f-43f6-986a-3c837d860d81</id>
+        <firstName>Татьяна</firstName>
+        <lastName>Левковская</lastName>
+        <patronymicName>Вячеславовна</patronymicName>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>cт. научн. сотрудник</originalPosition>
+        <workPlace>ГНУ ОИПИ НАН Беларуси</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>b933c773-7557-43f6-a521-738024c9f076</id>
+        <firstName>Татьяна</firstName>
+        <lastName>Левковская</lastName>
+        <patronymicName>Вячеславовна</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>старший научный сотрудник</originalPosition>
+        <workPlace>ОИПИ НАН Беларуси</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>7e236043-d46a-40d5-a161-9853e2ce930e</id>
+        <firstName>А</firstName>
+        <lastName>Лемешевский</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>ИООО &quot;БЛРСофт&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>62d808b8-b18a-4bce-99a5-191e81d95764</id>
+        <firstName>Д</firstName>
+        <lastName>Липень</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>зав. НИЛ</originalPosition>
+        <workPlace>ГУ &quot;ЦСЭиК&quot; </workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>f07b9334-2daa-488c-b783-d3a41429d1a1</id>
+        <firstName>А</firstName>
+        <lastName>Лискевич</lastName>
+        <patronymicName>О</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>b843469d-8523-4682-8f84-ec0bd516c952</id>
+        <firstName>Т</firstName>
+        <lastName>Литвинович</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>305d70ce-917b-4da7-85dd-dd852fb56699</id>
+        <firstName>С</firstName>
+        <lastName>Логвиненко </lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>36f741b6-ebab-4585-b2dc-dbd85adec3c1</id>
+        <firstName>А</firstName>
+        <lastName>Лопатко</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>e895a58c-cd4e-4e3c-9d03-d1f9ba821c3f</id>
+        <firstName>В</firstName>
+        <lastName>Лянчевский</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>ЗАО &quot;БиСмарт&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>870c2861-30bb-414c-899a-6987f98d7ea7</id>
+        <firstName>Игорь</firstName>
+        <lastName>Майко</lastName>
+        <patronymicName>Владимирович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>зам.нач. управления</originalPosition>
+        <workPlace>ОАО &quot;Агат-системы управления&quot; - управляющая компания холдингагеоинформационные системы управления</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>b947e3e3-daad-4fb8-9121-a49e14110c00</id>
+        <firstName>А</firstName>
+        <lastName>Макаревич </lastName>
+        <patronymicName>П</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>e2a93565-9206-4573-bd47-3dfd8b1f1a52</id>
+        <firstName>Е</firstName>
+        <lastName>Малютин </lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>f6f661bd-1777-4a81-954c-91cf7472d7f4</id>
+        <firstName>А</firstName>
+        <lastName>Мельников</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер 1-ой  категории</originalPosition>
+        <workPlace>УП &quot;СКБ Камертон&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>28a4e20e-ffdd-4a46-b6e7-d6af2981926f</id>
+        <firstName>Д</firstName>
+        <lastName>Мельников</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>f55fe7d8-1df2-428a-9aac-a295e36c5dec</id>
+        <firstName>Дмитрий</firstName>
+        <lastName>Мельниченко</lastName>
+        <patronymicName>Александрович</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>доцент кафедры экологии</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>097628cf-c5f5-4f67-8e05-c7df2401ec5b</id>
+        <firstName>А</firstName>
+        <lastName>Минкевич </lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>0ae2e340-9776-44df-a724-7b23beea1e85</id>
+        <firstName>М</firstName>
+        <lastName>Минченкова</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>руководитель группы</originalPosition>
+        <workPlace>ИП &quot;ЭПАМ Системз&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>cc78a3e0-d0da-4d22-b269-3ea8bf9fec3e</id>
+        <firstName>А</firstName>
+        <lastName>Михадюк</lastName>
+        <patronymicName>О</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер</originalPosition>
+        <workPlace>НПО ОО &quot;Микротелеком&quot; </workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>30112e56-bb5f-425b-91eb-89d28a23fe9d</id>
+        <firstName>Т</firstName>
+        <lastName>Михайлович</lastName>
+        <patronymicName>Г</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>d0581247-020e-4ba8-aa95-61e1edc17383</id>
+        <firstName>Т.</firstName>
+        <lastName>Михнюк</lastName>
+        <patronymicName>Ф.</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>c15b5b8f-4c98-40fb-bd2b-58eded7783f6</id>
+        <firstName>Г</firstName>
+        <lastName>Михолап</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>34eac428-d52e-46a3-8b9a-b3f3a523b888</id>
+        <firstName>Б</firstName>
+        <lastName>Моргалик</lastName>
+        <patronymicName>М</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-электроник</originalPosition>
+        <workPlace>Могилевского отделения Белорусской железной дороги</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>d12c0e47-384d-4a69-bd58-1f50e2d2fe62</id>
+        <firstName>Николай</firstName>
+        <lastName>Мурашко</lastName>
+        <patronymicName>Иванович</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>зав. лабораторией</originalPosition>
+        <workPlace>ГНУ ОИПИ НАН Беларуси</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>78b9cb9d-a27e-454e-a867-47687139fe0a</id>
+        <firstName>Т.</firstName>
+        <lastName>Наганова</lastName>
+        <patronymicName>Е.</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>26bcfefb-a5f2-49e1-94a5-5be92f63915a</id>
+        <firstName>В</firstName>
+        <lastName>Немик</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>ГУП &quot;Национальное кадастровое агентство&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>486f0ce4-6f48-4507-a7de-506fac14b547</id>
+        <firstName>В</firstName>
+        <lastName>Немик</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>ГУП &quot;Национальное кадастровое агентство&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>02e69bde-f9c0-44af-94a8-184dee14c988</id>
+        <firstName>Д</firstName>
+        <lastName>Ничипорчик</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер по информационным технологиям</originalPosition>
+        <workPlace>Государственного предприятия &quot;Институт НИИСМ&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>4d02d83f-7a36-4d37-9d95-d6520203322c</id>
+        <firstName>Е</firstName>
+        <lastName>Новиков</lastName>
+        <patronymicName>В</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий научный сотрудник</originalPosition>
+        <workPlace>УП «Геоинформационные системы»</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>cce4f0e3-fabf-46e9-8056-58edd60b578f</id>
+        <firstName>Евгений</firstName>
+        <lastName>Новиков</lastName>
+        <patronymicName>Владимирович</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>проректор</originalPosition>
+        <workPlace>ВГКС</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>6d14b9d7-8e6d-4518-a11c-4f2599e69a7b</id>
+        <firstName>Д</firstName>
+        <lastName>Носков</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>218397f0-b33b-4680-aa53-7066385ae8fd</id>
+        <firstName>А</firstName>
+        <lastName>Оборин</lastName>
+        <patronymicName>Ю</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+        <workPlace>ЗАО &quot;Итранзишэн&quot; </workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>08f7850b-5b17-4c8a-a8bd-5a71f34c52c0</id>
+        <firstName>Анатолий</firstName>
+        <lastName>Осипов</lastName>
+        <patronymicName>Николаевич</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+        <prorektor>true</prorektor>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSecondJobStaffer">
+        <id>c847b352-cecc-4cd2-b1e1-dffeee9c06c9</id>
+        <firstName>Василий</firstName>
+        <lastName>Палицын</lastName>
+        <patronymicName>Александрович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>8fb8a572-7a7e-4cf9-ad9c-a1cacea9a40d</id>
+        <firstName>Р</firstName>
+        <lastName>Петровский</lastName>
+        <patronymicName>Г</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>b2eb8cd6-0b95-4938-acc0-681dec9140c4</id>
+        <firstName>В</firstName>
+        <lastName>Пилипчук</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>УО &quot;Минский государственный высший авиационный колледж&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>3e9ff3dc-1673-48a6-86c0-5d79cf656c31</id>
+        <firstName>В</firstName>
+        <lastName>Пилипчук</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>УО &quot;Минский государственный высший авиационный колледж&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>050e1caf-00e0-4591-ba53-ffaa86afee5f</id>
+        <firstName>Николай</firstName>
+        <lastName>Поснов</lastName>
+        <patronymicName>Николаевич</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>преподаватель</originalPosition>
+        <workPlace>БГУ</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>6631986e-1566-4038-adf8-6d5be7890b09</id>
+        <firstName>Марина</firstName>
+        <lastName>Поснова</lastName>
+        <patronymicName>Федоровна</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_PED</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace>БГУ</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>f2531061-3ec4-4856-b784-d87ff94271ac</id>
+        <firstName>Юрий</firstName>
+        <lastName>Поттосин</lastName>
+        <patronymicName>Васильевич</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_FIZ_MATH</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>вед. научн. сотрудник</originalPosition>
+        <workPlace>ГНУ ОИПИ НАН Беларуси</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>8130ce2a-9d0e-485f-be16-fce7314bb11d</id>
+        <firstName>Светлана</firstName>
+        <lastName>Поттосина</lastName>
+        <patronymicName>Анатольевна</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_FIZ_MATH</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>доцент каферы экономической информатики</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>3ff1bdd2-cc3f-46ce-8b9a-fe4f6702fd6b</id>
+        <firstName>А</firstName>
+        <lastName>Привороцкий</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>f9491630-60d0-4340-a546-45018c767587</id>
+        <firstName>В</firstName>
+        <lastName>Проволоцкий</lastName>
+        <patronymicName>Е</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>ЦИИР БГУИР</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>7a0b2ee2-f71e-4e58-bdfc-f78114e3f9c7</id>
+        <firstName>А</firstName>
+        <lastName>Пролиско</lastName>
+        <patronymicName>М</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник бюро АСУ</originalPosition>
+        <workPlace>ОАО &quot;Руденск&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>d5620ef6-eb6c-470b-ac75-23d5d35722ac</id>
+        <firstName>Д</firstName>
+        <lastName>Разоренов</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>8233d91b-8179-4877-bb47-087a0d240685</id>
+        <firstName>В</firstName>
+        <lastName>Регес</lastName>
+        <patronymicName>П</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+        <workPlace>Ивацевичского РПУ ГХ  </workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staffer">
+        <id>766dca55-96a5-43e1-aeb2-f9e7dbe6b71e</id>
+        <firstName>Дмитрий</firstName>
+        <lastName>Рожанский</lastName>
+        <patronymicName>Викторович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <position>ASSISTANT</position>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSecondJobStaffer">
+        <id>35e647cc-bdc0-4692-bba3-13db0fbcf339</id>
+        <firstName>В</firstName>
+        <lastName>Романов</lastName>
+        <patronymicName>И</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>be99faee-f34e-4281-8914-21f1fb7434eb</id>
+        <firstName>Д</firstName>
+        <lastName>Рудаковский</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>УП &quot;СКБ Камертон&quot; </workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>dbe3dbf2-02d0-4130-9ee7-deabf1f53710</id>
+        <firstName>Марина</firstName>
+        <lastName>Рысевец</lastName>
+        <patronymicName>Степановна</patronymicName>
+        <passport>
+            <number>МР2336719</number>
+            <privateNumber>4191062А009РВ6</privateNumber>
+            <dateIssue>2007-09-12T21:00:00+00:00</dateIssue>
+            <placeIssue>Советское РУВД г.Минска</placeIssue>
+            <insuranceNumber>4191062А009РВ6</insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>старший преподаватель</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <dateOfBirthday>1962-10-18T22:00:00+00:00</dateOfBirthday>
+        <address>г.Минск, пер. Я Коласа, д.15, кв.67</address>
+        <phoneHome>331-25-81</phoneHome>
+        <phoneWork>293-89-92</phoneWork>
+        <phoneMobile></phoneMobile>
+        <education>высшее</education>
+        <specialty>инженер-системотехник</specialty>
+        <childrenCount>2</childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>43d5b294-9ed0-4dc9-a585-ed3b48d9b698</id>
+        <firstName>Д</firstName>
+        <lastName>Рябов</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник сектора</originalPosition>
+        <workPlace>НИИСА</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>4c0b2198-84f7-4343-a3ab-a247429721d7</id>
+        <firstName>С</firstName>
+        <lastName>Рябцев</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staffer">
+        <id>fd472646-6763-422a-9b36-27bc54b70b01</id>
+        <firstName>Сергей</firstName>
+        <lastName>Самодумкин</lastName>
+        <patronymicName>Александрович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <position>SENIOR_LECTURER</position>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staffer">
+        <id>f75a151e-fd7d-49fe-9387-f7772511420d</id>
+        <firstName>Роман</firstName>
+        <lastName>Сердюков</lastName>
+        <patronymicName>Евгеньевич</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <position>ASSOCIATE_PROFESSOR</position>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>23d880ed-0212-41a0-b274-aa0f55ca3017</id>
+        <firstName>А</firstName>
+        <lastName>Симончик</lastName>
+        <patronymicName>Л</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер-программист</originalPosition>
+        <workPlace>ИП &quot;ЭПАМ Системз&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>aadfcd59-7bdd-41a6-b142-0a55ed2091a2</id>
+        <firstName>Д</firstName>
+        <lastName>Скачек </lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>62dbea86-c014-401e-b36d-e43da5d66648</id>
+        <firstName>Т</firstName>
+        <lastName>Слюсарь</lastName>
+        <patronymicName>Л</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>58fbf4dd-3fb0-4e99-97c1-33186b80a3fd</id>
+        <firstName>Игорь</firstName>
+        <lastName>Смирнов</lastName>
+        <patronymicName>Викторович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>преподаватель кафедры экономики</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>9154c240-ede2-41f7-baeb-242616d71dd5</id>
+        <firstName>Наталья</firstName>
+        <lastName>Сморшкова</lastName>
+        <patronymicName>Викторовна</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>d3063fda-9c50-4811-8043-f6a10fd0a282</id>
+        <firstName>Олег</firstName>
+        <lastName>Сморыго</lastName>
+        <patronymicName>Львович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>8c917868-e2c1-4605-8e3b-c2cc9a883bb4</id>
+        <firstName>В</firstName>
+        <lastName>Станкевич</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>ОАО БАТЭ</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staffer">
+        <id>f5181fc8-5b98-4c9d-b30c-da180980ce1b</id>
+        <firstName>Маргарита</firstName>
+        <lastName>Степанова</lastName>
+        <patronymicName>Дмитриевна</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <position>ASSOCIATE_PROFESSOR</position>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>453afb0d-6060-4bf1-bda4-aa567e86f0c6</id>
+        <firstName>Маргарита</firstName>
+        <lastName>Степанова</lastName>
+        <patronymicName>Дмитриевна</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number>МР2675857</number>
+            <privateNumber>4240739А004РВ9</privateNumber>
+            <dateIssue>2010-03-15T07:56:35.201+00:00</dateIssue>
+            <placeIssue>Советский РУВД г.Минска</placeIssue>
+            <insuranceNumber>4240739А004РВ9</insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>доцент кафедры ИИТ</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <dateOfBirthday>1939-07-23T22:00:00+00:00</dateOfBirthday>
+        <address>г.Минск, пр-т Независимости, д.46, кв.153 </address>
+        <phoneHome>2937777</phoneHome>
+        <phoneWork>2938092</phoneWork>
+        <phoneMobile></phoneMobile>
+        <education>высшее</education>
+        <specialty>промэлектроника</specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook>396 от 24.08.1994</pensionBook>
+        <pensionAgency>Советский р-н г.Минска</pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>51ba317b-4b66-48c9-9e6d-edd3358d6cba</id>
+        <firstName>Н</firstName>
+        <lastName>Стрелкова</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник УП ВЦ</originalPosition>
+        <workPlace>Мингорисполкома</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>583030e9-9c88-4f13-b13a-7eedbca87415</id>
+        <firstName>М</firstName>
+        <lastName>Субог</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>главный инженер по качеству</originalPosition>
+        <workPlace>ИП &quot;ЭПАМ Системз&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>ff624509-e58f-41de-b287-699079d04612</id>
+        <firstName>Н</firstName>
+        <lastName>Суркова</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник сектора ИРЦ</originalPosition>
+        <workPlace>РУП &quot;Белтелеком&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>03bb4dd6-4fe6-4f7a-8d4d-3a5e0f42f1e7</id>
+        <firstName>А</firstName>
+        <lastName>Тарасевич</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>a49a2990-4e93-43e3-8041-991b7e11f92a</id>
+        <firstName>А</firstName>
+        <lastName>Теренева</lastName>
+        <patronymicName>П</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>d6a7e10f-1c71-44fe-a029-0a06a26b93a6</id>
+        <firstName>Д</firstName>
+        <lastName>Тихомиров</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>681cf0fe-50e8-4590-8810-847a27248640</id>
+        <firstName>М</firstName>
+        <lastName>Толкачев</lastName>
+        <patronymicName>С</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>инженер-программист</originalPosition>
+        <workPlace>Мозырской ТЭЦ</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>b9cab8a8-6796-40c0-bb95-b0c93685e653</id>
+        <firstName>С</firstName>
+        <lastName>Толстик</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>главный инженер-программист отделения</originalPosition>
+        <workPlace>ОАО «Белагропромбанк» г.Несвиж</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>423865d3-7bff-44d2-9038-6d533a684f93</id>
+        <firstName>Ю</firstName>
+        <lastName>Файвишев </lastName>
+        <patronymicName>М</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>284833a3-f7d9-4d0e-b7db-7e04daf84cca</id>
+        <firstName>Н</firstName>
+        <lastName>Федорцова</lastName>
+        <patronymicName>М</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>главный инженер КТЦ </originalPosition>
+        <workPlace>Белорусской железной дороги</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>31819506-b9e1-4a92-b71a-054acd7e34fb</id>
+        <firstName>Д</firstName>
+        <lastName>Хаймов</lastName>
+        <patronymicName>П</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер-электроник</originalPosition>
+        <workPlace>Могилевского отделения Белорусской железной дороги</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>ad8e7e35-0163-4db2-932b-172380a8002d</id>
+        <firstName>К</firstName>
+        <lastName>Хамицевич </lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>a8c59752-265c-4e90-853f-15cd1224ec1a</id>
+        <firstName>Л</firstName>
+        <lastName>Цирульник</lastName>
+        <patronymicName>И</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <degree>CANDIDATE_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>старший научный сотрудник</originalPosition>
+        <workPlace>ОИПИ НАН Беларуси</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>6728ecf6-0074-4bfa-a40b-0e264b5562ac</id>
+        <firstName>Ю</firstName>
+        <lastName>Черников</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>Начальник отдела</originalPosition>
+        <workPlace>ЗАО &quot;Итранзишэн&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>e6bad338-3594-41df-b3e2-dbc9588af014</id>
+        <firstName>А</firstName>
+        <lastName>Чернякевич</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер-программист</originalPosition>
+        <workPlace>ООО &quot;СКЭНД&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>f5c7d00a-6206-475f-ab1a-40dc930ff1c1</id>
+        <firstName>Андрей</firstName>
+        <lastName>Шадура</lastName>
+        <patronymicName>Олегович</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>асс. каф. ЭВМ</originalPosition>
+        <workPlace></workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>600e35cd-c07b-4de6-a7f9-0f183da1c26b</id>
+        <firstName>О</firstName>
+        <lastName>Шалыгин</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер-программист</originalPosition>
+        <workPlace>ОАО &quot;МНПЗ&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>2281f3e9-9f54-41bd-9b3f-c93ede8f9fe4</id>
+        <firstName>Н</firstName>
+        <lastName>Шарамет</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер</originalPosition>
+        <workPlace>УП НИИСА</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>53512c24-05db-41b6-8e67-b76278873e3a</id>
+        <firstName>Д</firstName>
+        <lastName>Шведко</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>зам. директора</originalPosition>
+        <workPlace>ООО &quot;Синезис&quot;</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>3a7ac5fc-d6b2-4713-8ffa-268040259b63</id>
+        <firstName>А</firstName>
+        <lastName>Шестакович</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>e54da3c3-546b-4162-80ed-2bbd056be0e0</id>
+        <firstName>Леонид</firstName>
+        <lastName>Шилин</lastName>
+        <patronymicName>Юрьевич</patronymicName>
+        <rank>PROFESSOR</rank>
+        <degree>DOCTOR_OF_ENGINEERING</degree>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>декан ФИТиУ</originalPosition>
+        <workPlace>БГУИР</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>264a3439-f0e3-4203-a4b8-3909b4d04120</id>
+        <firstName>Илья</firstName>
+        <lastName>Шмидов</lastName>
+        <patronymicName>Юрьевич</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий системный аналитик</originalPosition>
+        <workPlace>ОАО &quot;Агат-системы управления&quot; - управляющая компания холдингагеоинформационные системы управления</workPlace>
+        <address></address>
+        <phoneHome></phoneHome>
+        <phoneWork></phoneWork>
+        <phoneMobile></phoneMobile>
+        <education></education>
+        <specialty></specialty>
+        <childrenCount></childrenCount>
+        <unpWork></unpWork>
+        <pensionBook></pensionBook>
+        <pensionAgency></pensionAgency>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>158a6cbf-7040-439f-b8b5-fe224020f67e</id>
+        <firstName>Жанна</firstName>
+        <lastName>Шохан</lastName>
+        <patronymicName>Павловна</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>начальник отдела</originalPosition>
+        <workPlace>ОАО &quot;Белагропромбанк&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>71ba00d1-1aa4-41d1-a724-7d0d4cec5769</id>
+        <firstName>В</firstName>
+        <lastName>Шульга</lastName>
+        <patronymicName>Н</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>директор</originalPosition>
+        <workPlace>ЧУП &quot;Влавас&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>287d85f2-ffa9-48df-835a-800097558e8d</id>
+        <firstName>П</firstName>
+        <lastName>Шульц</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>ведущий инженер-программист</originalPosition>
+        <workPlace>ЗАО &quot;Итранзишэн&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>03d4855e-a030-40dc-b300-d9a15083c5cd</id>
+        <firstName>Т</firstName>
+        <lastName>Шустернак</lastName>
+        <patronymicName>Е</patronymicName>
+        <rank>ASSOCIATE_PROFESSOR</rank>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>декан факультета</originalPosition>
+        <workPlace>УО &quot;Белорусская государственная академия искусств&quot;</workPlace>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>4ce9fed4-4133-474a-b7de-4afda5bcbea2</id>
+        <firstName>Е</firstName>
+        <lastName>Щерстюк</lastName>
+        <patronymicName>Е</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>6079a6a3-76db-4f73-a391-fb3c75d70f55</id>
+        <firstName>А</firstName>
+        <lastName>Язиков </lastName>
+        <patronymicName>И</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSecondJobStaffer">
+        <id>fae9ead1-fcf8-43bb-869a-962b4dbada6e</id>
+        <firstName>А</firstName>
+        <lastName>Яльчик</lastName>
+        <patronymicName>А</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+    </teacher>
+    <teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="partTimeStaffer">
+        <id>fcaede30-cdde-4adc-9854-a13fd30945ab</id>
+        <firstName>Р</firstName>
+        <lastName>Ярош</lastName>
+        <patronymicName>В</patronymicName>
+        <passport>
+            <number></number>
+            <privateNumber></privateNumber>
+            <placeIssue></placeIssue>
+            <insuranceNumber></insuranceNumber>
+        </passport>
+        <contract/>
+        <dogovor/>
+        <originalPosition>руководитель группы</originalPosition>
+        <workPlace>ИП &quot;ЭПАМ Системз&quot;</workPlace>
+    </teacher>
+</teacherList>

@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graduateWorkList>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>93cdfcdf-8373-4c2c-80d6-c9f32ca47692</id>
+        <title>Система тестирования каналов передачи данных банковских терминалов</title>
+        <number>1</number>
+        <student>9aa6b20d-2bff-4e94-ac6b-d990d199cc24</student>
+        <manager>2b2e10eb-205f-4c6b-85e2-a6bbcf4482a7</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.200+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>4d604dc1-cf6e-4d6d-8c2e-44ba694829af</id>
+        <title>Библиотека для автоматизированной оптимизации и адаптации графики для мобильных устройств</title>
+        <number>2</number>
+        <student>8c269c3d-3412-46df-b42f-9b871d838e5d</student>
+        <manager>cf15a6dc-c111-473e-bc99-b73278020815</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.223+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>72d1cd85-1575-4a6d-95d7-537ca9b8f997</id>
+        <title>Аркадное игровое приложение для мобильных платформ</title>
+        <description></description>
+        <number>3</number>
+        <student>c4e7b0c5-bf45-44a2-b87b-7b47763bf6c1</student>
+        <manager>1c461e99-0107-4c7b-ad29-489330e04ac0</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.223+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>34a3c6df-7e43-479d-b983-9b71025e205c</id>
+        <title>Система геопозиционного поиска товаров, ориентированная на использование мобильными устройствами </title>
+        <description></description>
+        <number>4</number>
+        <student>8f58862a-ab08-4343-a0ed-d2d5fd9d2bea</student>
+        <manager>43b6d86a-60d4-4d8c-9ca2-c7176de322ad</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.223+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>c041062d-7027-4b04-bed1-20a5c14664a9</id>
+        <title>Компьютерная система управления персоналом компании</title>
+        <description></description>
+        <number>5</number>
+        <student>a2d06d9a-4ee1-4748-bc88-8d2e44704a31</student>
+        <manager>a7c18381-088e-4e87-9474-c3bd52c60dfb</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.224+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>1fc10a63-d0e0-4347-b502-095f65393eea</id>
+        <title>Модуль контроля транзакций между платежными системами</title>
+        <description></description>
+        <number>6</number>
+        <student>51e6c3fc-1157-4258-b0f7-3b970ad4bb5b</student>
+        <manager>e4026579-3a95-4a35-a888-cb6d9181e19f</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.224+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>5eb65b27-2cb8-482a-ac6d-55ad8f5901a5</id>
+        <title>Автоматизированная система проектирования web-сайтов</title>
+        <description></description>
+        <number>7</number>
+        <student>56b5d46f-d0c5-4e1a-b602-9220b9ecaeb7</student>
+        <manager>8edc5368-9b86-4e33-9630-a9450ed25e6c</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.224+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>b5da0886-5b13-4c7e-a60a-b6258ba8d311</id>
+        <title>Система авоматизации проведения маркетинговых кампаний страхового агента</title>
+        <description></description>
+        <number>8</number>
+        <student>84b27ed3-423d-406b-97a6-a6e7f5e09dc5</student>
+        <manager>3f0412ef-4b62-4f2f-9d26-ec9e8fce32d6</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.224+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>9de2317b-4424-457f-b46d-c0a7134787f0</id>
+        <title>Система защиты электронных документов с использованием облачных технологий</title>
+        <description></description>
+        <number>9</number>
+        <student>68d72de4-07d7-4e67-8dbf-d557e4fab0e6</student>
+        <manager>6d1e0b74-0e88-494c-8efd-361067614cd1</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>e69b1d0e-3288-4ebe-b839-32c07235100b</id>
+        <title>Транслятор языка программирования торговых стратегий</title>
+        <number>10</number>
+        <student>160503d3-090e-4ab3-a103-769c6e13366d</student>
+        <manager>04f47464-5e71-42d4-9619-164ec42f2ff8</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>cedb957b-2780-4b06-bbb6-fdef6ebcfbd1</id>
+        <title>Программный модуль передачи данных комплекса по расширению пропускной способности и криптографической защите каналов передачи данных</title>
+        <description></description>
+        <number>11</number>
+        <student>4adf7168-4735-4adc-822b-96d4b491ab27</student>
+        <manager>5852d820-495e-4d4e-b0dd-0220b1a2049d</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>d127e4b8-de28-49c1-92c6-9c6297f54222</id>
+        <title>Система автоматизированного тестирования банковского приложения для мобильной платформы</title>
+        <description></description>
+        <number>12</number>
+        <student>645c7a0d-f908-445b-817c-b54f3debab16</student>
+        <manager>897606fa-483d-4c64-ae51-0450214aaf2c</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>28f984d1-8ac4-46d9-bed8-149be5ec9cdc</id>
+        <title>Программный модуль учета активности  и поощрения пользователей системы интернет-продаж</title>
+        <number>13</number>
+        <student>8f2f143c-0b8b-49d0-a90a-9bcc88847fbc</student>
+        <manager>ca35ac35-69e9-4087-9460-8117db74b17a</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>e2061c3b-5249-461a-b195-7e1bf8b814d6</id>
+        <title>Программный модуль автоматизированной системы анализа и контроля качества бизнес-отчетов</title>
+        <description></description>
+        <number>14</number>
+        <student>2d75dac4-f40c-4abb-9868-d3fa47e8afe1</student>
+        <manager>bc225369-2f44-4c7c-ad2a-05909ded3aeb</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>cd447d74-1dbd-4b41-b258-40a0c8686fd8</id>
+        <title>Программный модуль генерации документов финансовой отчетности</title>
+        <number>15</number>
+        <student>806c81bc-4c52-4102-bb90-3b26962283d6</student>
+        <manager>cd67c298-1bac-4458-a329-6bc93277869c</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.226+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>f3d7aaec-0d75-4e6c-8ef1-29c969fa2d75</id>
+        <title>Подсистема анализа поведения посетителей веб-ресурса</title>
+        <description></description>
+        <number>16</number>
+        <student>9ddf77a2-4d0c-4cef-832a-744ba614c152</student>
+        <manager>498e39e4-c9e6-4e58-a061-fa521d64f93e</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.226+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>3c5ca7f6-157e-45c5-a551-5d8c4b9183aa</id>
+        <title>Подсистема конфигурирования приложений по  управлению деятельностью предприятия </title>
+        <number>17</number>
+        <student>16ed2778-b3d4-4c9c-9b3b-d35ad8e69626</student>
+        <manager>af19b087-128e-4e6c-b9f9-ef2f3042c2d7</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.226+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>5cd427ba-fb0e-44b1-9916-09fb14f74895</id>
+        <title>Информационная система поддержки принятия решений для расчета точек прицеливания при планировании ракетных ударов</title>
+        <description></description>
+        <number>18</number>
+        <student>d962d9e9-0a4e-46a2-9b11-caded89474f1</student>
+        <manager>55c722c8-9e69-496f-a1e4-2593a51e7811</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.227+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>e718dc85-0c72-4ce0-9e52-8a8d165c0088</id>
+        <title>Подсистема определения степени риска и категории клиентов банка</title>
+        <description></description>
+        <number>19</number>
+        <student>18946752-3c74-40c3-a585-5b581f383de3</student>
+        <manager>4be42536-5de8-432a-8518-e41120daa511</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.227+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>6a196862-b963-4ab6-a8b9-c73d3a8da55b</id>
+        <title>Автоматизированная система управления процессами обеспечения качества программных продуктов</title>
+        <description></description>
+        <number>20</number>
+        <student>eb5e993d-dd4d-4e56-bb1e-b63b7c85922b</student>
+        <manager>424b6a99-7fa4-4e7d-b1ce-02b6c3c60329</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.227+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>bfe4cd7c-dee4-4ee6-8e69-e0a97e6c338b</id>
+        <title>Программный компонент автоматизированной генерации словарей для систем текстового анализа</title>
+        <description></description>
+        <number>21</number>
+        <student>6afe68d9-2d3b-4cb6-9ce4-b1c0e69fb3fc</student>
+        <manager>f4f5b553-c853-41c2-86ed-d72be19f9e07</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.232+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>589a8682-aa89-4402-8a97-25f2e25bae40</id>
+        <title>Автоматизированный сервис организации мероприятий с использованием идентификатора участника</title>
+        <description></description>
+        <number>22</number>
+        <student>f31f7720-38de-4834-a94c-a60c59a29fc2</student>
+        <manager>2e8db59c-4deb-4a7f-a27a-7264f59eedad</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.232+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>ea5bb4a4-8c57-490f-9a06-73cf0efde72a</id>
+        <title>Система, реализующая информационную поддержку пользователей, на основе содержимого портала</title>
+        <description></description>
+        <number>23</number>
+        <student>cd328e29-7689-4b52-82ab-c29fa4b0d09a</student>
+        <manager>85fa9d1a-19d2-428e-8fb3-4385fd465425</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.232+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>714273bd-664b-4a12-b49f-8f0a70a56c11</id>
+        <title>Система управления аппаратно-программным комплексом по расширению пропускной способности и криптографичекой защите каналов передачи данных</title>
+        <description></description>
+        <number>24</number>
+        <student>97a09743-961f-4e3a-ba82-5b438b6a17bf</student>
+        <manager>5852d820-495e-4d4e-b0dd-0220b1a2049d</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>79f2e696-62b4-4cd9-a162-7b56baa10cd2</id>
+        <title>Система ведения электронной конструкторской документации изделий с длительными сроками изготовления</title>
+        <description></description>
+        <number>25</number>
+        <student>7e1e39a5-7557-434d-b8df-3d790a380da5</student>
+        <manager>f587ef3c-2ea9-49de-a7b0-8be73c12a68e</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>75c7d299-2e82-4ecd-8c1e-70832ec30bd5</id>
+        <title>Система верификации семантической разметки HTML-документа</title>
+        <description></description>
+        <number>26</number>
+        <student>2d0c3bd1-ed01-4fcd-ab23-1b221aa1b2c2</student>
+        <manager>b3df261c-71b9-4116-abb3-36b295d27b61</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>95e53563-a4a7-4d08-901a-f282fd5dae2d</id>
+        <title>Модуль поиска товаров для систем электронной коммерции</title>
+        <description></description>
+        <number>27</number>
+        <student>1d0d993c-188d-4a7d-baad-bb591a6374a2</student>
+        <manager>4f6e3bea-8eb7-450b-a4c9-a2ce9d5ad719</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>94162dbf-1d71-47c3-b5b5-a94fde68a7f8</id>
+        <title>Система контроля доступа пользователя к web-страницам</title>
+        <description></description>
+        <number>28</number>
+        <student>a00f9f7e-b11d-444b-b101-919368abd868</student>
+        <manager>8d87bb87-196e-4273-a8cf-df09471c08b1</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>dcfdc66c-9085-474f-9f95-45d4b962e208</id>
+        <title>Программное приложение для настройки пользовательского интерфейса мобильных устройств</title>
+        <description></description>
+        <number>29</number>
+        <student>bc2326a3-7f40-4f7e-bd92-6dc6361f49b4</student>
+        <manager>8b87678f-c3ca-47ff-85f4-38a2eb0fd476</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>ff4ffe59-2815-4137-b52a-1075921a507d</id>
+        <title>Система автоматизированного агрегирования контента заданной тематики из интернет-источников </title>
+        <description></description>
+        <number>30</number>
+        <student>c680082a-c174-429c-a253-abc9cd12f09f</student>
+        <manager>44a13a20-2b11-4743-bfd2-36c097a23449</manager>
+        <specialityConsultant>44a13a20-2b11-4743-bfd2-36c097a23449</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>68022676-a7ac-48bd-823b-f71c97bfca9a</id>
+        <title>Клиентский модуль сетевой многопользовательской игры для мобильной платформы</title>
+        <number>31</number>
+        <student>e95bc0fb-70db-4ca8-af8e-e30b0d9e6e68</student>
+        <manager>b79c8c0a-7c3b-41cf-bc66-414e6fee0f57</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>06791f37-9280-4d15-9deb-bb5217049497</id>
+        <title>Система онлайн бронирования номеров отелей</title>
+        <number>32</number>
+        <student>d169d703-5a95-4957-8516-81a9e7b07553</student>
+        <manager>ac5bd4de-f74a-4c11-88dd-d7f310dc7d87</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>83f1afa8-8433-41a2-a02a-b4ac8b9f968c</id>
+        <title>Подсистема мониторинга участников программы лояльности</title>
+        <number>33</number>
+        <student>cc182228-7747-435f-93ac-e1c5e578c1e3</student>
+        <manager>04b4f739-6cb7-401e-ba1d-8aee95455954</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>8c7cc8cc-cd0a-4493-a875-d4f747353ab6</id>
+        <title>Программный модуль обновления внутреннего программного обеспечения комплекса по расширению пропускной способности и криптографической защите каналов передачи данных</title>
+        <description></description>
+        <number>34</number>
+        <student>c977a108-ab96-4dcf-8e7f-539472deb608</student>
+        <manager>5852d820-495e-4d4e-b0dd-0220b1a2049d</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>8ae02949-bd33-4864-aa6a-a4b7315cbb5f</id>
+        <title>Интерактивное игровое приложение для мобильных устройств</title>
+        <number>35</number>
+        <student>5de3eb7f-bab1-4a04-982f-7815b39f6a4f</student>
+        <manager>b6b94518-8aed-46f9-a815-601cf251b694</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>ea4c6f1f-7a8d-45af-9422-081be7582932</id>
+        <title>Средство преобразования программ интерпретируемого языка программирования в промежуточное представление</title>
+        <number>36</number>
+        <student>9b1c3b6d-e179-4ed7-be9f-1849a559dbd2</student>
+        <manager>8d87bb87-196e-4273-a8cf-df09471c08b1</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>f7058eb8-92c6-466f-bd8a-8edb764dccc5</id>
+        <title>Система контроля работы автомобильного транспорта</title>
+        <description></description>
+        <number>37</number>
+        <student>70fada81-b5a6-40cd-9b15-0d5b3021dea1</student>
+        <manager>38be90d1-dac5-4785-8914-0ba0af50de7d</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>cabbbc1f-2c5c-44be-8438-1b973cd6f27b</id>
+        <title>Подсистема генерации отчетной документации для системы автоматизации деятельности выпускающей кафедры</title>
+        <description></description>
+        <number>38</number>
+        <student>a3bc3304-a812-43fb-b87e-ebd3c910814f</student>
+        <manager>fd472646-6763-422a-9b36-27bc54b70b01</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>a4ee2242-c46d-40c2-a9d0-e665a0b49343</id>
+        <title>Программные средства построения образовательных ресурсов по естественным языкам</title>
+        <description></description>
+        <number>39</number>
+        <student>e6c3c499-43d3-48c2-822d-2df365f1ed21</student>
+        <manager>15d9040f-7bc4-48c6-b542-e1d4106beb64</manager>
+        <specialityConsultant>15d9040f-7bc4-48c6-b542-e1d4106beb64</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>f3753c37-7b7d-4468-a3c3-a69276c2cec7</id>
+        <title>Cистема менеджера паролей</title>
+        <description></description>
+        <number>40</number>
+        <student>6bd8fcc6-4210-409f-9750-b163eeb80e46</student>
+        <manager>0493784a-9375-4f09-9d9f-11ab222e5480</manager>
+        <specialityConsultant>0493784a-9375-4f09-9d9f-11ab222e5480</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>d78fb24c-79ca-4bdd-8166-83964535d057</id>
+        <title>Система агрегации, обработки и анализа статистики событий интернет-ресурса совместной разработки программных проектов</title>
+        <description></description>
+        <number>41</number>
+        <student>d9389cdd-fb69-4a45-b974-c80d7fa036c2</student>
+        <manager>a6fc28a4-d579-4135-bf11-1b6c4d44e06e</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>dcd230d9-63b4-438f-a975-3a35bc34fa26</id>
+        <title>Программный модуль для автоматизированного управления проектами в сфере разработки программного обеспечения</title>
+        <description></description>
+        <number>42</number>
+        <student>d220baa8-7381-449a-96fa-8ff9d03839d7</student>
+        <manager>4b92de4b-dd64-4950-a689-21080a7d7110</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>2f890cc4-5ba3-44b5-b48c-344fa6a3fe6a</id>
+        <title>Система публикации мультимедийных данных по спортивным играм</title>
+        <description></description>
+        <number>43</number>
+        <student>4c125a97-120e-44fe-9211-71be0d88babd</student>
+        <manager>0908cfd0-9e0f-454d-82e4-c3d649025aea</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>a97f641f-6576-4c0f-a547-dff046627e20</id>
+        <title>Система автоматизации тестирования производительности программного обеспечения электронной коммерции</title>
+        <description></description>
+        <number>44</number>
+        <student>b26c8634-6b57-4ed6-8213-fe0408980ddc</student>
+        <manager>5cea6a1c-a377-467a-905a-42d35be69691</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>1861718a-7dca-460c-abb1-393ed9d2256a</id>
+        <title>Система каталогизации домашней библиотеки</title>
+        <description></description>
+        <number>45</number>
+        <student>49fcb42f-5b58-4b31-b5fd-bcb833b3e05a</student>
+        <manager>f75a151e-fd7d-49fe-9387-f7772511420d</manager>
+        <specialityConsultant>f75a151e-fd7d-49fe-9387-f7772511420d</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>71a1f997-5d4f-41db-a21a-675d7e9838a9</id>
+        <title>Программный модуль генерации тестовых и демонстрационных данных для JEE приложений</title>
+        <description></description>
+        <number>46</number>
+        <student>30317b60-dcbf-431b-8313-b45abd9ed2ba</student>
+        <manager>e6bad338-3594-41df-b3e2-dbc9588af014</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>cef5e2f9-d0e9-422f-8abf-18754d19c12e</id>
+        <title>Модуль управления бизнес-процессами издательского агенства</title>
+        <description></description>
+        <number>47</number>
+        <student>67ca64af-3907-4c2f-8bd3-ed7792d72cdd</student>
+        <manager>a46b058a-87fe-4e28-9659-64f50ebdbe6a</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>fd1ff2e5-d045-4472-b07a-76c0f03cc692</id>
+        <title>Система информационного обеспечения моделирования осушительного действия мелиоративной сети</title>
+        <description></description>
+        <number>48</number>
+        <student>5d6bc80b-5b0e-4107-95ba-e07e23758c29</student>
+        <manager>e5faeaed-5a68-4ece-9c1d-802e69ed9e6b</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>a01b26bc-cd39-4b13-a49a-2fa3c671159b</id>
+        <title>Система анализа уязвимости архитектуры программной платформы</title>
+        <description></description>
+        <number>49</number>
+        <student>73c7b7b3-b9c8-413b-8d4a-ef4dc666ecc9</student>
+        <manager>83ecf303-6dfc-47d1-9d55-be9fbabb2b6f</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>665b7200-2e84-42da-94e1-3740d060f32a</id>
+        <title>Программный модуль автоматизации управления ресурсами проекта</title>
+        <description></description>
+        <number>50</number>
+        <student>72492a6d-d1e5-49cb-aaab-6bdee9eeed61</student>
+        <manager>74a23eec-5a3f-4b0c-a1ff-d3396f57ffd4</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>d77c5648-77fd-4ac9-b11a-86d58f0a6235</id>
+        <title>Подсистема хранения и интеграции данных для системы автоматизации деятельности выпускающей кафедры</title>
+        <description></description>
+        <number>51</number>
+        <student>433e9908-9267-4cd2-bd1e-47512775fb27</student>
+        <manager>fd472646-6763-422a-9b36-27bc54b70b01</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>2a4e6463-5c9a-48e6-8ef1-94ff011ed5a5</id>
+        <title>Система контроля за движением транспорта</title>
+        <description></description>
+        <number>52</number>
+        <student>031cd3cd-ac4b-4a65-80cc-86193c9d6b6b</student>
+        <manager>698a4b6e-d8da-4f0b-a0a9-f0b61fff9270</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>8f14a395-a452-4945-ae6d-9648b30777a2</id>
+        <title>Система онлайн управления счетами торговых платформ</title>
+        <description></description>
+        <number>53</number>
+        <student>89071a50-aaf9-4ba4-8230-f1a09073c9c7</student>
+        <manager>30df9e6b-f795-46da-a7aa-38302c2e09fe</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>4d5e29df-45fd-49b8-a4cb-256178bd449b</id>
+        <title>Подсистема статистики и анализа системы информационно-методического обеспечения национальной системы экспортного контроля Республики Беларусь</title>
+        <description></description>
+        <number>54</number>
+        <student>800054ab-1b8b-4574-a6c8-79022c62cf8b</student>
+        <manager>264a3439-f0e3-4203-a4b8-3909b4d04120</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>5a4b5ff6-94e4-401d-9568-47010f932454</id>
+        <title>Подсистема планирования для системы автоматизации деятельности выпускающей кафедры</title>
+        <description></description>
+        <number>55</number>
+        <student>4a5b4f47-06de-4fb9-8bb7-ce7b690ed431</student>
+        <manager>fd472646-6763-422a-9b36-27bc54b70b01</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>ca1040e8-33b2-4ac3-93ec-2cc7318f06f8</id>
+        <title>Система для совместного обсуждения и прототипирования пользовательского интерфейса в сети интернет</title>
+        <description></description>
+        <number>56</number>
+        <student>b8366367-72b0-4d83-8cf3-f76b0d541ffe</student>
+        <manager>e2f4e4c9-277c-49a6-b214-5e34d90176c8</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>f95ede58-8622-4695-8a9a-f85be37b5457</id>
+        <title>Модуль геопозиционного поиска объектов торговли и сервиса</title>
+        <description></description>
+        <number>57</number>
+        <student>758df6af-9e60-4f94-9c44-abdb8963e819</student>
+        <manager>72127b75-424f-419b-96ee-4d9ff90fdc27</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>3cdca464-f532-4a85-b734-6fbf5bd68edc</id>
+        <title>Модуль интеграции клиентских данных для банковской системы</title>
+        <description></description>
+        <number>58</number>
+        <student>295e220e-52b9-4f40-8778-d65bc56ea09d</student>
+        <manager>4be42536-5de8-432a-8518-e41120daa511</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>33555f48-af1d-4bc6-9f95-1f4028450fb5</id>
+        <title>Система интеграции производственных процессов для аутсорсинговой компании</title>
+        <number>59</number>
+        <student>76da8ea2-2cfa-4b91-bdcd-80e35f180e52</student>
+        <manager>57b0d433-c4a8-412b-a9bf-bf0e83660679</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>7f8cd453-f316-411f-8de4-3e33bd082d5f</id>
+        <title>Система электронного архива предприятия</title>
+        <description></description>
+        <number>60</number>
+        <student>16a79e79-aa0d-44bb-bb99-ff2d9c1fc203</student>
+        <manager>96412777-3909-4be5-97da-1bdc420a7f0d</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>2e36523f-dad3-4a75-a770-462fe3673f94</id>
+        <title>Система слежения следования по маршруту</title>
+        <description></description>
+        <number>61</number>
+        <student>8bd4da12-31eb-44de-bd5c-8484cd861fdb</student>
+        <manager>d3a25b31-d88f-4b7b-b74f-fa2823671dfd</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.239+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>2ef89ce3-2d49-4b42-b0ad-422f668c3d08</id>
+        <title>Программный модуль централизованной обработки транзакций бизнес-процессов предприятий</title>
+        <description></description>
+        <number>62</number>
+        <student>513caa85-d3e4-4c8e-8fbe-ebb6d900fb8d</student>
+        <manager>2e8db59c-4deb-4a7f-a27a-7264f59eedad</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.239+03:00</dateOfIssue>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="graduateWork">
+        <id>7a31a39a-79d2-4d47-bec8-716c82fd5ccf</id>
+        <title>Система учета расходных материалов и компьютерных комплектующих</title>
+        <description></description>
+        <number>64</number>
+        <student>b0d7c5c7-36c3-4e65-8396-7df05b1f3347</student>
+        <manager>fd472646-6763-422a-9b36-27bc54b70b01</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.239+03:00</dateOfIssue>
+    </list>
+    <graduateWork>
+        <id>93cdfcdf-8373-4c2c-80d6-c9f32ca47692</id>
+        <title>Система тестирования каналов передачи данных банковских терминалов</title>
+        <number>1</number>
+        <student>9aa6b20d-2bff-4e94-ac6b-d990d199cc24</student>
+        <manager>2b2e10eb-205f-4c6b-85e2-a6bbcf4482a7</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.200+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>4d604dc1-cf6e-4d6d-8c2e-44ba694829af</id>
+        <title>Библиотека для автоматизированной оптимизации и адаптации графики для мобильных устройств</title>
+        <number>2</number>
+        <student>8c269c3d-3412-46df-b42f-9b871d838e5d</student>
+        <manager>cf15a6dc-c111-473e-bc99-b73278020815</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.223+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>72d1cd85-1575-4a6d-95d7-537ca9b8f997</id>
+        <title>Аркадное игровое приложение для мобильных платформ</title>
+        <description></description>
+        <number>3</number>
+        <student>c4e7b0c5-bf45-44a2-b87b-7b47763bf6c1</student>
+        <manager>1c461e99-0107-4c7b-ad29-489330e04ac0</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.223+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>34a3c6df-7e43-479d-b983-9b71025e205c</id>
+        <title>Система геопозиционного поиска товаров, ориентированная на использование мобильными устройствами </title>
+        <description></description>
+        <number>4</number>
+        <student>8f58862a-ab08-4343-a0ed-d2d5fd9d2bea</student>
+        <manager>43b6d86a-60d4-4d8c-9ca2-c7176de322ad</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.223+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>c041062d-7027-4b04-bed1-20a5c14664a9</id>
+        <title>Компьютерная система управления персоналом компании</title>
+        <description></description>
+        <number>5</number>
+        <student>a2d06d9a-4ee1-4748-bc88-8d2e44704a31</student>
+        <manager>a7c18381-088e-4e87-9474-c3bd52c60dfb</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.224+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>1fc10a63-d0e0-4347-b502-095f65393eea</id>
+        <title>Модуль контроля транзакций между платежными системами</title>
+        <description></description>
+        <number>6</number>
+        <student>51e6c3fc-1157-4258-b0f7-3b970ad4bb5b</student>
+        <manager>e4026579-3a95-4a35-a888-cb6d9181e19f</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.224+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>5eb65b27-2cb8-482a-ac6d-55ad8f5901a5</id>
+        <title>Автоматизированная система проектирования web-сайтов</title>
+        <description></description>
+        <number>7</number>
+        <student>56b5d46f-d0c5-4e1a-b602-9220b9ecaeb7</student>
+        <manager>8edc5368-9b86-4e33-9630-a9450ed25e6c</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.224+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>b5da0886-5b13-4c7e-a60a-b6258ba8d311</id>
+        <title>Система авоматизации проведения маркетинговых кампаний страхового агента</title>
+        <description></description>
+        <number>8</number>
+        <student>84b27ed3-423d-406b-97a6-a6e7f5e09dc5</student>
+        <manager>3f0412ef-4b62-4f2f-9d26-ec9e8fce32d6</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.224+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>9de2317b-4424-457f-b46d-c0a7134787f0</id>
+        <title>Система защиты электронных документов с использованием облачных технологий</title>
+        <description></description>
+        <number>9</number>
+        <student>68d72de4-07d7-4e67-8dbf-d557e4fab0e6</student>
+        <manager>6d1e0b74-0e88-494c-8efd-361067614cd1</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>e69b1d0e-3288-4ebe-b839-32c07235100b</id>
+        <title>Транслятор языка программирования торговых стратегий</title>
+        <number>10</number>
+        <student>160503d3-090e-4ab3-a103-769c6e13366d</student>
+        <manager>04f47464-5e71-42d4-9619-164ec42f2ff8</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>cedb957b-2780-4b06-bbb6-fdef6ebcfbd1</id>
+        <title>Программный модуль передачи данных комплекса по расширению пропускной способности и криптографической защите каналов передачи данных</title>
+        <description></description>
+        <number>11</number>
+        <student>4adf7168-4735-4adc-822b-96d4b491ab27</student>
+        <manager>5852d820-495e-4d4e-b0dd-0220b1a2049d</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>d127e4b8-de28-49c1-92c6-9c6297f54222</id>
+        <title>Система автоматизированного тестирования банковского приложения для мобильной платформы</title>
+        <description></description>
+        <number>12</number>
+        <student>645c7a0d-f908-445b-817c-b54f3debab16</student>
+        <manager>897606fa-483d-4c64-ae51-0450214aaf2c</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>28f984d1-8ac4-46d9-bed8-149be5ec9cdc</id>
+        <title>Программный модуль учета активности  и поощрения пользователей системы интернет-продаж</title>
+        <number>13</number>
+        <student>8f2f143c-0b8b-49d0-a90a-9bcc88847fbc</student>
+        <manager>ca35ac35-69e9-4087-9460-8117db74b17a</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>e2061c3b-5249-461a-b195-7e1bf8b814d6</id>
+        <title>Программный модуль автоматизированной системы анализа и контроля качества бизнес-отчетов</title>
+        <description></description>
+        <number>14</number>
+        <student>2d75dac4-f40c-4abb-9868-d3fa47e8afe1</student>
+        <manager>bc225369-2f44-4c7c-ad2a-05909ded3aeb</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.225+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>cd447d74-1dbd-4b41-b258-40a0c8686fd8</id>
+        <title>Программный модуль генерации документов финансовой отчетности</title>
+        <number>15</number>
+        <student>806c81bc-4c52-4102-bb90-3b26962283d6</student>
+        <manager>cd67c298-1bac-4458-a329-6bc93277869c</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.226+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>f3d7aaec-0d75-4e6c-8ef1-29c969fa2d75</id>
+        <title>Подсистема анализа поведения посетителей веб-ресурса</title>
+        <description></description>
+        <number>16</number>
+        <student>9ddf77a2-4d0c-4cef-832a-744ba614c152</student>
+        <manager>498e39e4-c9e6-4e58-a061-fa521d64f93e</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.226+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>3c5ca7f6-157e-45c5-a551-5d8c4b9183aa</id>
+        <title>Подсистема конфигурирования приложений по  управлению деятельностью предприятия </title>
+        <number>17</number>
+        <student>16ed2778-b3d4-4c9c-9b3b-d35ad8e69626</student>
+        <manager>af19b087-128e-4e6c-b9f9-ef2f3042c2d7</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.226+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>5cd427ba-fb0e-44b1-9916-09fb14f74895</id>
+        <title>Информационная система поддержки принятия решений для расчета точек прицеливания при планировании ракетных ударов</title>
+        <description></description>
+        <number>18</number>
+        <student>d962d9e9-0a4e-46a2-9b11-caded89474f1</student>
+        <manager>55c722c8-9e69-496f-a1e4-2593a51e7811</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.227+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>e718dc85-0c72-4ce0-9e52-8a8d165c0088</id>
+        <title>Подсистема определения степени риска и категории клиентов банка</title>
+        <description></description>
+        <number>19</number>
+        <student>18946752-3c74-40c3-a585-5b581f383de3</student>
+        <manager>4be42536-5de8-432a-8518-e41120daa511</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.227+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>6a196862-b963-4ab6-a8b9-c73d3a8da55b</id>
+        <title>Автоматизированная система управления процессами обеспечения качества программных продуктов</title>
+        <description></description>
+        <number>20</number>
+        <student>eb5e993d-dd4d-4e56-bb1e-b63b7c85922b</student>
+        <manager>424b6a99-7fa4-4e7d-b1ce-02b6c3c60329</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.227+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>bfe4cd7c-dee4-4ee6-8e69-e0a97e6c338b</id>
+        <title>Программный компонент автоматизированной генерации словарей для систем текстового анализа</title>
+        <description></description>
+        <number>21</number>
+        <student>6afe68d9-2d3b-4cb6-9ce4-b1c0e69fb3fc</student>
+        <manager>f4f5b553-c853-41c2-86ed-d72be19f9e07</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.232+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>589a8682-aa89-4402-8a97-25f2e25bae40</id>
+        <title>Автоматизированный сервис организации мероприятий с использованием идентификатора участника</title>
+        <description></description>
+        <number>22</number>
+        <student>f31f7720-38de-4834-a94c-a60c59a29fc2</student>
+        <manager>2e8db59c-4deb-4a7f-a27a-7264f59eedad</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.232+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>ea5bb4a4-8c57-490f-9a06-73cf0efde72a</id>
+        <title>Система, реализующая информационную поддержку пользователей, на основе содержимого портала</title>
+        <description></description>
+        <number>23</number>
+        <student>cd328e29-7689-4b52-82ab-c29fa4b0d09a</student>
+        <manager>85fa9d1a-19d2-428e-8fb3-4385fd465425</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>aa4e9b68-66c9-4bc8-ac52-35a6e40db72f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.232+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>714273bd-664b-4a12-b49f-8f0a70a56c11</id>
+        <title>Система управления аппаратно-программным комплексом по расширению пропускной способности и криптографичекой защите каналов передачи данных</title>
+        <description></description>
+        <number>24</number>
+        <student>97a09743-961f-4e3a-ba82-5b438b6a17bf</student>
+        <manager>5852d820-495e-4d4e-b0dd-0220b1a2049d</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>79f2e696-62b4-4cd9-a162-7b56baa10cd2</id>
+        <title>Система ведения электронной конструкторской документации изделий с длительными сроками изготовления</title>
+        <description></description>
+        <number>25</number>
+        <student>7e1e39a5-7557-434d-b8df-3d790a380da5</student>
+        <manager>f587ef3c-2ea9-49de-a7b0-8be73c12a68e</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>75c7d299-2e82-4ecd-8c1e-70832ec30bd5</id>
+        <title>Система верификации семантической разметки HTML-документа</title>
+        <description></description>
+        <number>26</number>
+        <student>2d0c3bd1-ed01-4fcd-ab23-1b221aa1b2c2</student>
+        <manager>b3df261c-71b9-4116-abb3-36b295d27b61</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>95e53563-a4a7-4d08-901a-f282fd5dae2d</id>
+        <title>Модуль поиска товаров для систем электронной коммерции</title>
+        <description></description>
+        <number>27</number>
+        <student>1d0d993c-188d-4a7d-baad-bb591a6374a2</student>
+        <manager>4f6e3bea-8eb7-450b-a4c9-a2ce9d5ad719</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>94162dbf-1d71-47c3-b5b5-a94fde68a7f8</id>
+        <title>Система контроля доступа пользователя к web-страницам</title>
+        <description></description>
+        <number>28</number>
+        <student>a00f9f7e-b11d-444b-b101-919368abd868</student>
+        <manager>8d87bb87-196e-4273-a8cf-df09471c08b1</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>dcfdc66c-9085-474f-9f95-45d4b962e208</id>
+        <title>Программное приложение для настройки пользовательского интерфейса мобильных устройств</title>
+        <description></description>
+        <number>29</number>
+        <student>bc2326a3-7f40-4f7e-bd92-6dc6361f49b4</student>
+        <manager>8b87678f-c3ca-47ff-85f4-38a2eb0fd476</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.233+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>ff4ffe59-2815-4137-b52a-1075921a507d</id>
+        <title>Система автоматизированного агрегирования контента заданной тематики из интернет-источников </title>
+        <description></description>
+        <number>30</number>
+        <student>c680082a-c174-429c-a253-abc9cd12f09f</student>
+        <manager>44a13a20-2b11-4743-bfd2-36c097a23449</manager>
+        <specialityConsultant>44a13a20-2b11-4743-bfd2-36c097a23449</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>68022676-a7ac-48bd-823b-f71c97bfca9a</id>
+        <title>Клиентский модуль сетевой многопользовательской игры для мобильной платформы</title>
+        <number>31</number>
+        <student>e95bc0fb-70db-4ca8-af8e-e30b0d9e6e68</student>
+        <manager>b79c8c0a-7c3b-41cf-bc66-414e6fee0f57</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>694d4cd1-f2e3-4d14-be76-82c11e6e43db</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>06791f37-9280-4d15-9deb-bb5217049497</id>
+        <title>Система онлайн бронирования номеров отелей</title>
+        <number>32</number>
+        <student>d169d703-5a95-4957-8516-81a9e7b07553</student>
+        <manager>ac5bd4de-f74a-4c11-88dd-d7f310dc7d87</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>83f1afa8-8433-41a2-a02a-b4ac8b9f968c</id>
+        <title>Подсистема мониторинга участников программы лояльности</title>
+        <number>33</number>
+        <student>cc182228-7747-435f-93ac-e1c5e578c1e3</student>
+        <manager>04b4f739-6cb7-401e-ba1d-8aee95455954</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>8c7cc8cc-cd0a-4493-a875-d4f747353ab6</id>
+        <title>Программный модуль обновления внутреннего программного обеспечения комплекса по расширению пропускной способности и криптографической защите каналов передачи данных</title>
+        <description></description>
+        <number>34</number>
+        <student>c977a108-ab96-4dcf-8e7f-539472deb608</student>
+        <manager>5852d820-495e-4d4e-b0dd-0220b1a2049d</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>8ae02949-bd33-4864-aa6a-a4b7315cbb5f</id>
+        <title>Интерактивное игровое приложение для мобильных устройств</title>
+        <number>35</number>
+        <student>5de3eb7f-bab1-4a04-982f-7815b39f6a4f</student>
+        <manager>b6b94518-8aed-46f9-a815-601cf251b694</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.234+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>ea4c6f1f-7a8d-45af-9422-081be7582932</id>
+        <title>Средство преобразования программ интерпретируемого языка программирования в промежуточное представление</title>
+        <number>36</number>
+        <student>9b1c3b6d-e179-4ed7-be9f-1849a559dbd2</student>
+        <manager>8d87bb87-196e-4273-a8cf-df09471c08b1</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>f7058eb8-92c6-466f-bd8a-8edb764dccc5</id>
+        <title>Система контроля работы автомобильного транспорта</title>
+        <description></description>
+        <number>37</number>
+        <student>70fada81-b5a6-40cd-9b15-0d5b3021dea1</student>
+        <manager>38be90d1-dac5-4785-8914-0ba0af50de7d</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>cabbbc1f-2c5c-44be-8438-1b973cd6f27b</id>
+        <title>Подсистема генерации отчетной документации для системы автоматизации деятельности выпускающей кафедры</title>
+        <description></description>
+        <number>38</number>
+        <student>a3bc3304-a812-43fb-b87e-ebd3c910814f</student>
+        <manager>fd472646-6763-422a-9b36-27bc54b70b01</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>a4ee2242-c46d-40c2-a9d0-e665a0b49343</id>
+        <title>Программные средства построения образовательных ресурсов по естественным языкам</title>
+        <description></description>
+        <number>39</number>
+        <student>e6c3c499-43d3-48c2-822d-2df365f1ed21</student>
+        <manager>15d9040f-7bc4-48c6-b542-e1d4106beb64</manager>
+        <specialityConsultant>15d9040f-7bc4-48c6-b542-e1d4106beb64</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8192da2d-bf26-4c12-afac-7df8ff309164</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>f3753c37-7b7d-4468-a3c3-a69276c2cec7</id>
+        <title>Cистема менеджера паролей</title>
+        <description></description>
+        <number>40</number>
+        <student>6bd8fcc6-4210-409f-9750-b163eeb80e46</student>
+        <manager>0493784a-9375-4f09-9d9f-11ab222e5480</manager>
+        <specialityConsultant>0493784a-9375-4f09-9d9f-11ab222e5480</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>d78fb24c-79ca-4bdd-8166-83964535d057</id>
+        <title>Система агрегации, обработки и анализа статистики событий интернет-ресурса совместной разработки программных проектов</title>
+        <description></description>
+        <number>41</number>
+        <student>d9389cdd-fb69-4a45-b974-c80d7fa036c2</student>
+        <manager>a6fc28a4-d579-4135-bf11-1b6c4d44e06e</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.235+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>dcd230d9-63b4-438f-a975-3a35bc34fa26</id>
+        <title>Программный модуль для автоматизированного управления проектами в сфере разработки программного обеспечения</title>
+        <description></description>
+        <number>42</number>
+        <student>d220baa8-7381-449a-96fa-8ff9d03839d7</student>
+        <manager>4b92de4b-dd64-4950-a689-21080a7d7110</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>2f890cc4-5ba3-44b5-b48c-344fa6a3fe6a</id>
+        <title>Система публикации мультимедийных данных по спортивным играм</title>
+        <description></description>
+        <number>43</number>
+        <student>4c125a97-120e-44fe-9211-71be0d88babd</student>
+        <manager>0908cfd0-9e0f-454d-82e4-c3d649025aea</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>a97f641f-6576-4c0f-a547-dff046627e20</id>
+        <title>Система автоматизации тестирования производительности программного обеспечения электронной коммерции</title>
+        <description></description>
+        <number>44</number>
+        <student>b26c8634-6b57-4ed6-8213-fe0408980ddc</student>
+        <manager>5cea6a1c-a377-467a-905a-42d35be69691</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>1861718a-7dca-460c-abb1-393ed9d2256a</id>
+        <title>Система каталогизации домашней библиотеки</title>
+        <description></description>
+        <number>45</number>
+        <student>49fcb42f-5b58-4b31-b5fd-bcb833b3e05a</student>
+        <manager>f75a151e-fd7d-49fe-9387-f7772511420d</manager>
+        <specialityConsultant>f75a151e-fd7d-49fe-9387-f7772511420d</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>71a1f997-5d4f-41db-a21a-675d7e9838a9</id>
+        <title>Программный модуль генерации тестовых и демонстрационных данных для JEE приложений</title>
+        <description></description>
+        <number>46</number>
+        <student>30317b60-dcbf-431b-8313-b45abd9ed2ba</student>
+        <manager>e6bad338-3594-41df-b3e2-dbc9588af014</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>cef5e2f9-d0e9-422f-8abf-18754d19c12e</id>
+        <title>Модуль управления бизнес-процессами издательского агенства</title>
+        <description></description>
+        <number>47</number>
+        <student>67ca64af-3907-4c2f-8bd3-ed7792d72cdd</student>
+        <manager>a46b058a-87fe-4e28-9659-64f50ebdbe6a</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.236+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>fd1ff2e5-d045-4472-b07a-76c0f03cc692</id>
+        <title>Система информационного обеспечения моделирования осушительного действия мелиоративной сети</title>
+        <description></description>
+        <number>48</number>
+        <student>5d6bc80b-5b0e-4107-95ba-e07e23758c29</student>
+        <manager>e5faeaed-5a68-4ece-9c1d-802e69ed9e6b</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>a01b26bc-cd39-4b13-a49a-2fa3c671159b</id>
+        <title>Система анализа уязвимости архитектуры программной платформы</title>
+        <description></description>
+        <number>49</number>
+        <student>73c7b7b3-b9c8-413b-8d4a-ef4dc666ecc9</student>
+        <manager>83ecf303-6dfc-47d1-9d55-be9fbabb2b6f</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>665b7200-2e84-42da-94e1-3740d060f32a</id>
+        <title>Программный модуль автоматизации управления ресурсами проекта</title>
+        <description></description>
+        <number>50</number>
+        <student>72492a6d-d1e5-49cb-aaab-6bdee9eeed61</student>
+        <manager>74a23eec-5a3f-4b0c-a1ff-d3396f57ffd4</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>d77c5648-77fd-4ac9-b11a-86d58f0a6235</id>
+        <title>Подсистема хранения и интеграции данных для системы автоматизации деятельности выпускающей кафедры</title>
+        <description></description>
+        <number>51</number>
+        <student>433e9908-9267-4cd2-bd1e-47512775fb27</student>
+        <manager>fd472646-6763-422a-9b36-27bc54b70b01</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>2a4e6463-5c9a-48e6-8ef1-94ff011ed5a5</id>
+        <title>Система контроля за движением транспорта</title>
+        <description></description>
+        <number>52</number>
+        <student>031cd3cd-ac4b-4a65-80cc-86193c9d6b6b</student>
+        <manager>698a4b6e-d8da-4f0b-a0a9-f0b61fff9270</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>8f14a395-a452-4945-ae6d-9648b30777a2</id>
+        <title>Система онлайн управления счетами торговых платформ</title>
+        <description></description>
+        <number>53</number>
+        <student>89071a50-aaf9-4ba4-8230-f1a09073c9c7</student>
+        <manager>30df9e6b-f795-46da-a7aa-38302c2e09fe</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.237+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>4d5e29df-45fd-49b8-a4cb-256178bd449b</id>
+        <title>Подсистема статистики и анализа системы информационно-методического обеспечения национальной системы экспортного контроля Республики Беларусь</title>
+        <description></description>
+        <number>54</number>
+        <student>800054ab-1b8b-4574-a6c8-79022c62cf8b</student>
+        <manager>264a3439-f0e3-4203-a4b8-3909b4d04120</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>5a4b5ff6-94e4-401d-9568-47010f932454</id>
+        <title>Подсистема планирования для системы автоматизации деятельности выпускающей кафедры</title>
+        <description></description>
+        <number>55</number>
+        <student>4a5b4f47-06de-4fb9-8bb7-ce7b690ed431</student>
+        <manager>fd472646-6763-422a-9b36-27bc54b70b01</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>cce4f0e3-fabf-46e9-8056-58edd60b578f</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>ca1040e8-33b2-4ac3-93ec-2cc7318f06f8</id>
+        <title>Система для совместного обсуждения и прототипирования пользовательского интерфейса в сети интернет</title>
+        <description></description>
+        <number>56</number>
+        <student>b8366367-72b0-4d83-8cf3-f76b0d541ffe</student>
+        <manager>e2f4e4c9-277c-49a6-b214-5e34d90176c8</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>870c2861-30bb-414c-899a-6987f98d7ea7</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>f95ede58-8622-4695-8a9a-f85be37b5457</id>
+        <title>Модуль геопозиционного поиска объектов торговли и сервиса</title>
+        <description></description>
+        <number>57</number>
+        <student>758df6af-9e60-4f94-9c44-abdb8963e819</student>
+        <manager>72127b75-424f-419b-96ee-4d9ff90fdc27</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>3cdca464-f532-4a85-b734-6fbf5bd68edc</id>
+        <title>Модуль интеграции клиентских данных для банковской системы</title>
+        <description></description>
+        <number>58</number>
+        <student>295e220e-52b9-4f40-8778-d65bc56ea09d</student>
+        <manager>4be42536-5de8-432a-8518-e41120daa511</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>c23e0b9b-551d-4bfc-9e08-5148c8047950</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>264a3439-f0e3-4203-a4b8-3909b4d04120</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>33555f48-af1d-4bc6-9f95-1f4028450fb5</id>
+        <title>Система интеграции производственных процессов для аутсорсинговой компании</title>
+        <number>59</number>
+        <student>76da8ea2-2cfa-4b91-bdcd-80e35f180e52</student>
+        <manager>57b0d433-c4a8-412b-a9bf-bf0e83660679</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>8a4fc847-58ac-4ddb-a139-e0fb64f5d7a1</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>7f8cd453-f316-411f-8de4-3e33bd082d5f</id>
+        <title>Система электронного архива предприятия</title>
+        <description></description>
+        <number>60</number>
+        <student>16a79e79-aa0d-44bb-bb99-ff2d9c1fc203</student>
+        <manager>96412777-3909-4be5-97da-1bdc420a7f0d</manager>
+        <specialityConsultant>f5181fc8-5b98-4c9d-b30c-da180980ce1b</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>f55fe7d8-1df2-428a-9aac-a295e36c5dec</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.238+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>2e36523f-dad3-4a75-a770-462fe3673f94</id>
+        <title>Система слежения следования по маршруту</title>
+        <description></description>
+        <number>61</number>
+        <student>8bd4da12-31eb-44de-bd5c-8484cd861fdb</student>
+        <manager>d3a25b31-d88f-4b7b-b74f-fa2823671dfd</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>62dbea86-c014-401e-b36d-e43da5d66648</economicsConsultant>
+        <protectionOfLaborConsultant>da51bc11-47a5-4126-a9c6-2cc9937c5b2d</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.239+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>2ef89ce3-2d49-4b42-b0ad-422f668c3d08</id>
+        <title>Программный модуль централизованной обработки транзакций бизнес-процессов предприятий</title>
+        <description></description>
+        <number>62</number>
+        <student>513caa85-d3e4-4c8e-8fbe-ebb6d900fb8d</student>
+        <manager>2e8db59c-4deb-4a7f-a27a-7264f59eedad</manager>
+        <specialityConsultant>b3df261c-71b9-4116-abb3-36b295d27b61</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>9bc16814-8179-4a83-9480-b8c5759ca51b</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.239+03:00</dateOfIssue>
+    </graduateWork>
+    <graduateWork>
+        <id>7a31a39a-79d2-4d47-bec8-716c82fd5ccf</id>
+        <title>Система учета расходных материалов и компьютерных комплектующих</title>
+        <description></description>
+        <number>64</number>
+        <student>b0d7c5c7-36c3-4e65-8396-7df05b1f3347</student>
+        <manager>fd472646-6763-422a-9b36-27bc54b70b01</manager>
+        <specialityConsultant>fd472646-6763-422a-9b36-27bc54b70b01</specialityConsultant>
+        <economicsConsultant>e145d55d-a04f-4e18-8985-95451cc895af</economicsConsultant>
+        <protectionOfLaborConsultant>ac93db16-d5df-405e-af1d-59d2a259fef6</protectionOfLaborConsultant>
+        <normalInspectionConsultant>fd472646-6763-422a-9b36-27bc54b70b01</normalInspectionConsultant>
+        <reviewer>1905e37b-8373-4588-9853-e5bf2b4c8c03</reviewer>
+        <dateOfIssue>2013-05-27T18:31:25.239+03:00</dateOfIssue>
+    </graduateWork>
+</graduateWorkList>

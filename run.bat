@@ -1,0 +1,1 @@
+start jre\bin\javaw -Xmx512M -Xms512M -jar departmentreport.jar backup /nowindow
