@@ -25,6 +25,8 @@ import javax.swing.JMenuItem;
 import org.iit.dr.documents.common.generator.ReportParams;
 import org.iit.dr.documents.common.report.ReportType;
 import org.iit.dr.loaders.StudentDPLoader;
+import org.iit.dr.subsystems.doc_archive.view.form.DocArchiveForm;
+import org.iit.dr.subsystems.publication_subsyst.view.form.PublicationsSystForm;
 import org.iit.dr.utils.FileUtils;
 import org.iit.dr.utils.LabelUtils;
 import org.iit.dr.view.action.AboutAction;
@@ -70,7 +72,7 @@ public class MainWindow extends JFrame
   {
 
     setDefaultCloseOperation( EXIT_ON_CLOSE );
-    setMinimumSize( new Dimension( 1000, 600 ) );
+    setMinimumSize( new Dimension( 1200, 600 ) );
     setTitle( LabelUtils.getLabel( APPLICATION_NAME ) );
 
     applyBoundsSettings();
@@ -297,6 +299,17 @@ public class MainWindow extends JFrame
     jMenu.add( jMenuItem );
 
     jMenuItem = new JMenuItem( new OpenFrameAction( "Настройки", this, ConfigFrame.class ) );
+    jMenu.add( jMenuItem );
+
+    jMenuBar.add( jMenu );
+    // -----------
+
+    jMenu = new JMenu( "Подсистемы" );
+
+    jMenuItem = new JMenuItem( new OpenFrameAction( "Подсистема архивации документации", this, DocArchiveForm.class ) );
+    jMenu.add( jMenuItem );
+
+    jMenuItem = new JMenuItem( new OpenFrameAction( "Подсистема для публикации", this, PublicationsSystForm.class ) );
     jMenu.add( jMenuItem );
 
     jMenuBar.add( jMenu );

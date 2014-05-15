@@ -23,6 +23,15 @@
       <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
     </src_description>
   </component>
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/publicationsSystHibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/bin" />
     <exclude-output />
@@ -203,6 +212,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="h2-1.4.178" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
 
