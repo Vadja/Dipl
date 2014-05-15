@@ -8,14 +8,15 @@ import org.iit.dr.view.action.OpenFrameAction;
 import org.iit.dr.view.component.JInternalFrameExt;
 
 import javax.swing.*;
+import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
-import java.util.*;
+import java.util.Vector;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Vadja
+ * User: Мфвоф
  * Date: 13.05.14
  * Time: 10:58
  * To change this template use File | Settings | File Templates.
@@ -24,8 +25,9 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
 
     private JPanel mainPanel;
 
-    private JTable publicationsTable;
-    private JScrollPane publicationsScrollPane;
+    private DefaultTableModel docArchiveTableModel;
+    private JTable docArchiveTable;
+    private JScrollPane docArchiveScrollPane;
 
     private JPanel buttonPanel;
     private JButton uploadButton;
@@ -39,15 +41,18 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
 
     @Override
     protected void init() {
-        this.setMinimumSize(new Dimension(1200, 800));
+        this.setMinimumSize(new Dimension(800, 600));
     }
 
     @Override
     protected void generateComponents() {
         mainPanel = new JPanel();
         mainPanel.setLayout(new BorderLayout());
-        publicationsTableView();
-        add(publicationsScrollPane, BorderLayout.CENTER);
+        docArchiveTableModel = new DefaultTableModel();
+        initPublicationsTableModel();
+        docArchiveTable = new JTable(docArchiveTableModel);
+        docArchiveScrollPane = new JScrollPane(docArchiveTable);
+        add(docArchiveScrollPane, BorderLayout.CENTER);
         buttonInit();
         add(buttonPanel, BorderLayout.EAST);
         addWindowListener(new WindowListener() {
@@ -68,8 +73,8 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
             }
             @Override
             public void windowActivated(WindowEvent e) {
-                publicationsTableView();
-                publicationsTable.updateUI();
+                addDataToTableModel();
+//                publicationsTable.updateUI();
             }
             @Override
             public void windowDeactivated(WindowEvent e) {
@@ -79,21 +84,23 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
 
     private void buttonInit() {
         buttonPanel = new JPanel(new GridLayout(7, 1));
-        uploadButton = new JButton(new OpenFrameAction("Загрузка документации", new MainWindow(), DocArchiveUploaderForm.class));
+        uploadButton = new JButton(new OpenFrameAction("Загрузить документацию", new MainWindow(), DocArchiveUploaderForm.class));
         buttonPanel.add(uploadButton);
     }
 
-    private void publicationsTableView() {
-        Vector column_names = new Vector();
-        // формируем список названий полей (колонок)
-        column_names.add("Название");
-        column_names.add("Дата загрузки");
-        column_names.add("Дата создания");
-        column_names.add("ФИО автора");
-        column_names.add("Описание");
+    private void initPublicationsTableModel() {
+        docArchiveTableModel.addColumn("Название");
+        docArchiveTableModel.addColumn("Дата загрузки");
+        docArchiveTableModel.addColumn("Дата создания");
+        docArchiveTableModel.addColumn("ФИО автора");
+        docArchiveTableModel.addColumn("Описание");
+//        addDataToTableModel();
+    }
 
-        Vector vector = new Vector();
-
+    private void addDataToTableModel() {
+        for(int i = docArchiveTableModel.getRowCount(); i > 0; i--){
+            docArchiveTableModel.removeRow(i-1);
+        }
         DocumentDAO documentDAO = new DocumentDAOImpl();
         try {
             java.util.List<Document> l = documentDAO.getAllDocuments();
@@ -103,12 +110,10 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
                 data.add(document.getLoadDate());
                 data.add(document.getCreateDate());
                 data.add(document.getDescription());
-                vector.add(data);
+                docArchiveTableModel.addRow(data);
             }
         } catch (Exception e) {
             e.printStackTrace();
         }
-        publicationsTable = new JTable(vector, column_names);
-        publicationsScrollPane = new JScrollPane(publicationsTable);
     }
 }
