@@ -9,13 +9,9 @@ import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.HeadlessException;
 import java.awt.Toolkit;
-import java.awt.event.ActionEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import java.io.File;
 
-import javax.swing.AbstractAction;
-import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
@@ -24,8 +20,7 @@ import javax.swing.JMenuItem;
 
 import org.iit.dr.documents.common.generator.ReportParams;
 import org.iit.dr.documents.common.report.ReportType;
-import org.iit.dr.loaders.StudentDPLoader;
-import org.iit.dr.subsystems.doc_archive.view.form.DocArchiveForm;
+import org.iit.dr.subsystems.doc_archive.view.form.DocArchiveSystForm;
 import org.iit.dr.subsystems.publication_subsyst.view.form.PublicationsSystForm;
 import org.iit.dr.utils.FileUtils;
 import org.iit.dr.utils.LabelUtils;
@@ -52,7 +47,6 @@ import org.iit.dr.view.form.practice.ProductionPracticePlacesListFrame;
 import org.iit.dr.view.form.practice.ProductionPracticeWorkListFrame;
 import org.iit.dr.view.form.staffers.DPCreatorListFrame;
 import org.iit.dr.view.form.staffers.StaffRateFrame;
-import org.iit.dr.view.form.staffers.StafferFrame;
 import org.iit.dr.view.form.staffers.StafferListFrame;
 import org.iit.dr.view.form.students.GroupTreeFrame;
 import org.iit.dr.view.form.students.StudentListFrame;
@@ -306,7 +300,7 @@ public class MainWindow extends JFrame
 
     jMenu = new JMenu( "Подсистемы" );
 
-    jMenuItem = new JMenuItem( new OpenFrameAction( "Подсистема архивации документации", this, DocArchiveForm.class ) );
+    jMenuItem = new JMenuItem( new OpenFrameAction( "Подсистема архивации документации", this, DocArchiveSystForm.class ) );
     jMenu.add( jMenuItem );
 
     jMenuItem = new JMenuItem( new OpenFrameAction( "Подсистема для публикации", this, PublicationsSystForm.class ) );
