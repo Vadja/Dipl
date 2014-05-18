@@ -7,7 +7,7 @@
         <property name="hibernate.bytecode.use_reflection_optimizer">false</property>
         <property name="hibernate.connection.driver_class">org.h2.Driver</property>
         <property name="hibernate.connection.password">qwer</property>
-        <property name="hibernate.connection.url">jdbc:h2:./src/org/iit/dr/subsystems/doc_archive/doc_archiveDB
+        <property name="hibernate.connection.url">jdbc:h2:./src/org/iit/dr/subsystems/doc_archive/docArchiveDB
         </property>
         <property name="hibernate.connection.username">qwer</property>
         <property name="hibernate.dialect">org.hibernate.dialect.H2Dialect</property>
@@ -20,9 +20,6 @@
         <property name="hibernate.c3p0.idle_test_period">3000</property>
 
         <mapping class="org.iit.dr.subsystems.doc_archive.entities.Role"></mapping>
-        <!--<mapping class="by.kashevich.multirole.entities.Document"></mapping>-->
-        <!--<mapping class="by.kashevich.multirole.entities.Role"></mapping>-->
-        <!--<mapping package="by.kashevich.multirole.entities"></mapping>-->
     </session-factory>
 </hibernate-configuration>
 

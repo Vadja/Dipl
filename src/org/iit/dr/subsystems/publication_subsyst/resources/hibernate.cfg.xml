@@ -20,9 +20,6 @@
         <property name="hibernate.c3p0.idle_test_period">3000</property>
 
         <mapping class="org.iit.dr.subsystems.publication_subsyst.entities.Role"></mapping>
-        <!--<mapping class="by.kashevich.multirole.entities.Document"></mapping>-->
-        <!--<mapping class="by.kashevich.multirole.entities.Role"></mapping>-->
-        <!--<mapping package="by.kashevich.multirole.entities"></mapping>-->
     </session-factory>
 </hibernate-configuration>
 

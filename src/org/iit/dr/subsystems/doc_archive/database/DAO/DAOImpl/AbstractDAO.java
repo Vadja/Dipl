@@ -1,8 +1,6 @@
 package org.iit.dr.subsystems.doc_archive.database.DAO.DAOImpl;
 
 import org.hibernate.Session;
-import org.hibernate.exception.ConstraintViolationException;
-import org.hibernate.exception.JDBCConnectionException;
 import org.iit.dr.subsystems.doc_archive.utils.HibernateUtil;
 
 import java.util.ArrayList;

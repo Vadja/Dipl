@@ -23,9 +23,6 @@
         <mapping class="org.iit.dr.subsystems.publication_subsyst.entities.User"></mapping>
         <mapping class="org.iit.dr.subsystems.publication_subsyst.entities.DocType"></mapping>
         <mapping class="org.iit.dr.subsystems.publication_subsyst.entities.Document"></mapping>
-        <!--<mapping class="by.kashevich.multirole.entities.Document"></mapping>-->
-        <!--<mapping class="by.kashevich.multirole.entities.Role"></mapping>-->
-        <!--<mapping package="by.kashevich.multirole.entities"></mapping>-->
     </session-factory>
 </hibernate-configuration>
 

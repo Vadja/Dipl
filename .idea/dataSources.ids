@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="publicationsSystHibernate.cfg.xml" uuid="4b40a080-6852-4693-b6e3-48460aad849f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="org:iit:dr:subsystems:publication_subsyst:resources:hibernate.cfg.xml" uuid="c5161856-d581-407e-a8a4-012403ea84a2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="org:iit:dr:subsystems:doc_archive:resources:hibernate.cfg.xml" uuid="fa49a96e-9049-47f3-baa7-7518c121566a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="docArchiveHibernate.cfg.xml" uuid="489758f6-7b7f-43be-8bdf-7de70f2afbe8">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

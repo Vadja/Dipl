@@ -41,8 +41,8 @@ public class User {
     @Column(name = "LAST_NAME")
     private String lastName;
 
-    @Column(name = "MIDDLE_NAME")
-    private  String middleName;
+    @Column(name = "MIDLE_NAME")
+    private  String midleName;
 
     @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "ROLE_ID")
@@ -76,10 +76,12 @@ public class User {
         this.lastName = lastName;
     }
 
-    public String getMiddleName() { return middleName; }
+    public String getMidleName() {
+        return midleName;
+    }
 
-    public void setMiddleName(String middleName) {
-        this.middleName = middleName;
+    public void setMidleName(String midleName) {
+        this.midleName = midleName;
     }
 
     public Role getRole() {

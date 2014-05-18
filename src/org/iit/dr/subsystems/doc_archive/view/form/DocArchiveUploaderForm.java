@@ -1,6 +1,11 @@
 package org.iit.dr.subsystems.doc_archive.view.form;
 
+import org.iit.dr.subsystems.doc_archive.entities.Document;
+import org.iit.dr.subsystems.doc_archive.entities.Role;
+import org.iit.dr.subsystems.doc_archive.entities.User;
 import org.iit.dr.subsystems.doc_archive.services.DocumentService;
+import org.iit.dr.subsystems.doc_archive.services.RoleService;
+import org.iit.dr.subsystems.doc_archive.services.UserService;
 import org.iit.dr.view.component.JInternalFrameExt;
 
 import javax.swing.*;
@@ -9,7 +14,13 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Vector;
 
 /**
  * Created with IntelliJ IDEA.
@@ -26,27 +37,49 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
     private JPanel formPanel;
     private JTextField firstNameTextField;
     private JTextField lastNameTextField;
-    private JTextField middleNameTextField;
+    private JTextField midleNameTextField;
+    private JComboBox userRoleComboBox;
+    private JTextArea descriptionTextArea;
     private JButton chooseFileButton;
     private JButton uploadPublicationButton;
 
     private JPanel labelPanel;
     private JLabel firstNameLabel;
     private JLabel lastNameLabel;
-    private JLabel middleNameLabel;
+    private JLabel midleNameLabel;
+    private JLabel userRoleLabel;
+    private JLabel descriptionLabel;
+
+    private Vector<Role> rolesVector;
+
+    private Document document;
+
+    private final boolean update;
 
     private File file;
 
+    public DocArchiveUploaderForm() {
+        document = null;
+        update = false;
+    }
+
+    public DocArchiveUploaderForm(Document document) {
+        super();
+        this.document = document;
+        update = true;
+        loadDocument();
+    }
+
     @Override
     public boolean showFrame(Object parent, Object o) {
-        this.setTitle("Загрузка документации");
+        this.setTitle("Загрузка документа");
         this.setVisible(true);
         return true;
     }
 
     @Override
     protected void init() {
-        this.setMinimumSize(new Dimension(500, 350));
+        this.setMinimumSize(new Dimension(600, 300));
     }
 
     @Override
@@ -58,7 +91,6 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         initFormPanel();
         mainPanel.add(labelPanel);
         mainPanel.add(formPanel);
-//        uploadPublicationButton = new JButton("Загрузить");
         initUploadPublicationButton();
         informationTextArea = new JTextArea();
         informationTextArea.setEditable(false);
@@ -67,6 +99,19 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         framePanel.add(mainPanel, BorderLayout.CENTER);
         framePanel.add(southPanel, BorderLayout.SOUTH);
         add(framePanel);
+//        loadDocument();
+    }
+
+    private void loadDocument() {
+        if(update) {
+            this.descriptionTextArea.setText(document.getDescription());
+            this.file = document.getFile();
+            this.firstNameTextField.setText(document.getUser().getFirstName());
+            this.lastNameTextField.setText(document.getUser().getLastName());
+            this.midleNameTextField.setText(document.getUser().getMidleName());
+            this.userRoleComboBox.setSelectedItem(document.getUser().getRole().getName());
+            repaint();
+        }
     }
 
     private void initUploadPublicationButton() {
@@ -81,9 +126,27 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
                         informationTextArea.setText("Нужно ввести ФИО автора");
                     } else {
                         try {
-                            new DocumentService().addDocument(file, lastNameTextField.getText().trim(),
-                                    firstNameTextField.getText().trim(), middleNameTextField.getText().trim());
-                            informationTextArea.setText("Документ сохранен");
+                            if(update) {
+                                document.setDescription(descriptionTextArea.getText());
+                                document.setFile(file);
+                                document.setTitle(file.getName());
+                                User user = new UserService().searchUser(lastNameTextField.getText().trim(),
+                                        firstNameTextField.getText().trim(), midleNameTextField.getText().trim(),
+                                        rolesVector.get(userRoleComboBox.getSelectedIndex()));
+                                if(user == null) {
+                                    document.setUser(new UserService().addUser(lastNameTextField.getText().trim(),
+                                            firstNameTextField.getText().trim(), midleNameTextField.getText().trim(),
+                                            rolesVector.get(userRoleComboBox.getSelectedIndex())));
+                                } else {
+                                    document.setUser(user);
+                                }
+                                new DocumentService().updateDocument(document);
+                            } else {
+                                new DocumentService().addDocument(file, lastNameTextField.getText().trim(),
+                                        firstNameTextField.getText().trim(), midleNameTextField.getText().trim(),
+                                        rolesVector.get(userRoleComboBox.getSelectedIndex()), descriptionTextArea.getText());
+                                informationTextArea.setText("Документ сохранен");
+                            }
                         } catch (Exception e1) {
                             informationTextArea.setText("Произошла ошибка при загрузке файла");
                         }
@@ -97,7 +160,7 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         boolean flag = true;
         if(lastNameTextField.getText().length() > 2
                 && firstNameTextField.getText().length() > 2
-                && middleNameTextField.getText().length() > 2) {
+                && midleNameTextField.getText().length() > 2) {
             flag = false;
         }
         return flag;
@@ -107,11 +170,24 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         formPanel = new JPanel(new GridLayout(11, 1));
         lastNameTextField = new JTextField();
         firstNameTextField = new JTextField();
-        middleNameTextField = new JTextField();
+        midleNameTextField = new JTextField();
+        try {
+            rolesVector = new RoleService().searchAllRoles();
+            Vector v = new Vector();
+            for(Role r : rolesVector) {
+                v.add(r.getName());
+            }
+            userRoleComboBox = new JComboBox(v);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        descriptionTextArea = new JTextArea();
         initChooseFileButton();
         formPanel.add(lastNameTextField);
         formPanel.add(firstNameTextField);
-        formPanel.add(middleNameTextField);
+        formPanel.add(midleNameTextField);
+        formPanel.add(userRoleComboBox);
+        formPanel.add(descriptionTextArea);
         formPanel.add(chooseFileButton);
     }
 
@@ -120,19 +196,43 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         chooseFileButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 JFileChooser fileChooser = new JFileChooser();
-                fileChooser.addChoosableFileFilter(new FileNameExtensionFilter("Документы", "doc", "docx", "pdf", "txt"));
+                fileChooser.addChoosableFileFilter(new FileNameExtensionFilter("Документация", "doc", "docx", "pdf", "txt"));
                 int ret = fileChooser.showDialog(null, "Открыть файл");
                 if (ret == JFileChooser.APPROVE_OPTION) {
                     file = fileChooser.getSelectedFile();
                     if(isCorrectFileType(file.getName())) {
-                        System.out.println(";)");
+                        try {
+                            file = copyFile(file.getName(), new FileInputStream(file));
+                            informationTextArea.setText("Файл выбран");
+                        } catch (FileNotFoundException e1) {
+                            e1.printStackTrace();
+                        }
                     } else {
-                        informationTextArea.setText("Неверный формат файла. \n" +
-                                "Поддерживаемые форматы: '.doc|.docx|.txt|.pdf'");
+                        file = null;
+                        informationTextArea.setText("Неверный формат файла, \n" +
+                                "следует загружать файлы следующих форматов: '.doc|.docx|.txt|.pdf'");
                     }
                 }
             }
         });
+    }
+
+    private File copyFile(final String fileName, final InputStream in) {
+        File file = new File(fileName);
+        try {
+            OutputStream out = new FileOutputStream(file);
+            int read = 0;
+            byte[] bytes = new byte[1024];
+            while ((read = in.read(bytes)) != -1) {
+                out.write(bytes, 0, read);
+            }
+            in.close();
+            out.flush();
+            out.close();
+        } catch (IOException e) {
+            e.getStackTrace();
+        }
+        return file;
     }
 
     private boolean isCorrectFileType(String fileName) {
@@ -148,9 +248,13 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         labelPanel = new JPanel(new GridLayout(11, 1));
         firstNameLabel = new JLabel("Имя");
         lastNameLabel = new JLabel("Фамилия");
-        middleNameLabel = new JLabel("Отчество");
+        midleNameLabel = new JLabel("Отчество");
+        userRoleLabel = new JLabel("");
+        descriptionLabel = new JLabel("Описание");
         labelPanel.add(lastNameLabel);
         labelPanel.add(firstNameLabel);
-        labelPanel.add(middleNameLabel);
+        labelPanel.add(midleNameLabel);
+        labelPanel.add(userRoleLabel);
+        labelPanel.add(descriptionLabel);
     }
 }

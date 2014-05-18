@@ -4,6 +4,8 @@ import org.iit.dr.subsystems.publication_subsyst.database.DAO.DAOImpl.RoleDAOImp
 import org.iit.dr.subsystems.publication_subsyst.database.DAO.RoleDAO;
 import org.iit.dr.subsystems.publication_subsyst.entities.Role;
 
+import java.util.Vector;
+
 /**
  * Created with IntelliJ IDEA.
  * User: Piligrim
@@ -21,5 +23,9 @@ public class RoleService {
 
     public Role searchRoleById(Long id) throws Exception {
         return roleDAO.getRoleById(id);
+    }
+
+    public Vector<Role> searchAllRoles() throws Exception {
+        return new Vector<Role>(roleDAO.getAllRoles());
     }
 }

@@ -3,6 +3,8 @@ package org.iit.dr.subsystems.doc_archive.services;
 import org.iit.dr.subsystems.doc_archive.database.DAO.DAOImpl.DocumentDAOImpl;
 import org.iit.dr.subsystems.doc_archive.database.DAO.DocumentDAO;
 import org.iit.dr.subsystems.doc_archive.entities.Document;
+import org.iit.dr.subsystems.doc_archive.entities.Role;
+import org.iit.dr.subsystems.doc_archive.entities.User;
 
 import java.io.File;
 import java.util.Date;
@@ -22,17 +24,29 @@ public class DocumentService {
         documentDAO = new DocumentDAOImpl();
     }
 
-    public void addDocument(File file, String lastName, String firstName, String midleName) throws Exception {
+    public void addDocument(File file, String lastName, String firstName, String midleName, Role role, String description) throws Exception {
         Document document = new Document();
         Date date = new Date();
-        document.setUser(new UserService().addUser(lastName, firstName, midleName));
-//        document.setCreateDate(file.get/);
+        User user = new UserService().searchUser(lastName, firstName, midleName, role);
+        if(user == null) {
+            document.setUser(new UserService().addUser(lastName, firstName, midleName, role));
+        } else {
+            document.setUser(user);
+        }
         document.setCreateDate(new Date(file.lastModified()));
         document.setLoadDate(date);
-        document.setDescription("description");
+        document.setDescription(description);
         document.setFile(file);
         document.setTitle(file.getName());
         document.setDocumentType(new DocTypeService().searchDocTypeById(1L));
         documentDAO.addDocument(document);
+    }
+
+    public void updateDocument(Document document) throws Exception {
+        documentDAO.updateDocument(document);
+    }
+
+    public void deleteDocument(Document document) throws Exception {
+        documentDAO.deleteDocument(document);
     }
 }
