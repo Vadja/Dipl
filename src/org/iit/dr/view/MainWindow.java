@@ -300,7 +300,7 @@ public class MainWindow extends JFrame
 
     jMenu = new JMenu( "Подсистемы" );
 
-    jMenuItem = new JMenuItem( new OpenFrameAction( "Подсистема архивации документации", this, DocArchiveSystForm.class ) );
+    jMenuItem = new JMenuItem( new OpenFrameAction( "Подсистема архивации документации выпускающей кафедры", this, DocArchiveSystForm.class ) );
     jMenu.add( jMenuItem );
 
     jMenuItem = new JMenuItem( new OpenFrameAction( "Подсистема для публикации", this, PublicationsSystForm.class ) );

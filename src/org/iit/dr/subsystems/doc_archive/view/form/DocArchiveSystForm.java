@@ -1,7 +1,5 @@
 package org.iit.dr.subsystems.doc_archive.view.form;
 
-import org.iit.dr.subsystems.doc_archive.database.DAO.DAOImpl.DocumentDAOImpl;
-import org.iit.dr.subsystems.doc_archive.database.DAO.DocumentDAO;
 import org.iit.dr.subsystems.doc_archive.entities.Document;
 import org.iit.dr.subsystems.doc_archive.services.DocumentService;
 import org.iit.dr.view.MainWindow;
@@ -10,6 +8,7 @@ import org.iit.dr.view.component.JInternalFrameExt;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
+import javax.swing.tree.TreeModel;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -21,11 +20,13 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.Date;
+import java.util.GregorianCalendar;
 import java.util.Vector;
 
 /**
 * Created with IntelliJ IDEA.
-* User: Vadja
+* User: Piligrim
 * Date: 13.05.14
 * Time: 10:58
 * To change this template use File | Settings | File Templates.
@@ -45,10 +46,26 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
     private JButton updateButton;
     private JButton deleteButton;
     private JButton openButton;
+    private JButton toArchiveButton;
+
+    private TreeModel treeModel;
+    private JTree catalogTree;
+    public static final int MAX_LEVELS = 3;
+
+    private Vector catalogsInformation;
+    private DefaultTableModel catalogsTableModel;
+    private JTable catalogsTable;
+
+    private JTextField searchField;
+    private JButton searchButton;
+
+//    public PublicationsSystForm() {
+//
+//    }
 
     @Override
     public boolean showFrame(Object parent, Object o) {
-        this.setTitle("Подсистема архивации документации");
+        this.setTitle("Подсистема архивации документации выпускающей кафедры");
         this.setVisible(true);
         return true;
     }
@@ -56,6 +73,7 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
     @Override
     protected void init() {
         documentsInformation = new Vector();
+        catalogsInformation = new Vector();
         this.setMinimumSize(new Dimension(1000, 500));
     }
 
@@ -63,12 +81,11 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
     protected void generateComponents() {
         mainPanel = new JPanel();
         mainPanel.setLayout(new BorderLayout());
+
         publicationsTableModel = new DefaultTableModel() {
             @Override
-            public boolean isCellEditable( int rowIndex, int columnIndex )
-            {
-                switch( columnIndex )
-                {
+            public boolean isCellEditable( int rowIndex, int columnIndex ) {
+                switch( columnIndex ) {
                     default:
                         return false;
                 }
@@ -79,6 +96,37 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
         publicationsTable.getSelectionModel().setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         publicationsScrollPane = new JScrollPane(publicationsTable);
         add(publicationsScrollPane, BorderLayout.CENTER);
+
+        catalogsTableModel = new DefaultTableModel() {
+            @Override
+            public boolean isCellEditable( int rowIndex, int columnIndex ) {
+                switch( columnIndex ) {
+                    default:
+                        return false;
+                }
+            }
+        };
+        initCatalogsTableModel();
+        catalogsTable = new JTable(catalogsTableModel);
+        catalogsTable.getSelectionModel().setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+        catalogsTable.addMouseListener(new java.awt.event.MouseAdapter() {
+            @Override
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                System.out.println(catalogsTable.rowAtPoint(evt.getPoint()));
+                addDataToTableModel();
+                publicationsTable.updateUI();
+            }
+        });
+//        catalogsTable.getSelectionModel().addListSelectionListener(new ListSelectionListener() {
+//            @Override
+//            public void valueChanged(ListSelectionEvent e) {
+//                System.out.println(catalogsTable.getSelectedRow());
+//            }
+//        });
+        JScrollPane scrollPane = new JScrollPane(catalogsTable);
+        scrollPane.setPreferredSize(new Dimension(150,this.getHeight()));
+        add(scrollPane, BorderLayout.WEST);
+
         buttonInit();
         add(buttonPanel, BorderLayout.EAST);
         addWindowListener(new WindowListener() {
@@ -99,17 +147,25 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
             }
             @Override
             public void windowActivated(WindowEvent e) {
+                addDataToCatalogTableModel();
+                catalogsTable.setRowSelectionInterval(0, catalogsTable.getRowCount()-1);
                 addDataToTableModel();
+//                catalogTree.updateUI();
             }
             @Override
             public void windowDeactivated(WindowEvent e) {
             }
         });
+//        initCatalogTree();
+//        add(new JScrollPane(catalogTree), BorderLayout.WEST);
+//        initSearch();
+//
+//        add(new )
     }
 
     private void buttonInit() {
         buttonPanel = new JPanel(new GridLayout(7, 1));
-        uploadButton = new JButton(new OpenFrameAction("Добавить документ", new MainWindow(), DocArchiveUploaderForm.class));
+        uploadButton = new JButton(new OpenFrameAction("Добавить документацию", new MainWindow(), DocArchiveUploaderForm.class));
         updateButton = new JButton("Обновить данные");
         updateButton.addActionListener(new ActionListener() {
             @Override
@@ -161,11 +217,6 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
                                 os.close();
                             }
                             publication.createNewFile();
-//                            System.out.println(publication.renameTo(new File(fileChooser.getCurrentDirectory(), "hhhh/kkk")));
-//                            publication.renameTo(new File(fileChooser.getCurrentDirectory(), "hhhh/kkk"));
-//                            publication.createNewFile();
-                            System.out.println(publication.getName());
-                            System.out.println(publication.getAbsolutePath());
                         } catch (Exception e1) {
                             e1.printStackTrace();
                         }
@@ -187,11 +238,22 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
                 }
             }
         });
+        toArchiveButton = new JButton("В архив");
+        toArchiveButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+//                Document document = (Document)((Vector)documentsInformation.get(publicationsTable.getSelectedRow())).lastElement();
+                AddToDocArchiveForm frame = new AddToDocArchiveForm();
+                frame.setModal(true);
+                frame.showFrame(e.getSource(), e);
+            }
+        });
         buttonPanel.add(uploadButton);
         buttonPanel.add(updateButton);
         buttonPanel.add(openButton);
         buttonPanel.add(saveButton);
         buttonPanel.add(deleteButton);
+        buttonPanel.add(toArchiveButton);
     }
 
     private void initPublicationsTableModel() {
@@ -203,15 +265,80 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
 //        addDataToTableModel();
     }
 
+    private void initCatalogsTableModel() {
+        catalogsTableModel.addColumn("");
+        catalogsTableModel.addColumn("");
+    }
+
+    private void addDataToCatalogTableModel() {
+        for(int i = catalogsTableModel.getRowCount(); i > 0; i--) {
+            catalogsTableModel.removeRow(i-1);
+        }
+        catalogsInformation.clear();
+        File[] catalog = new File("./files/doc_archive").listFiles();
+        for(File f : catalog) {
+            Vector data = new Vector();
+            data.add(f.getName());
+            catalogsInformation.add(data.clone());
+            catalogsTableModel.addRow(data);
+            if(f.getName().equals("archive")) {
+                File[] archive = new File(f.getPath()).listFiles();
+                for(File file : archive) {
+                    Vector archiveFiles = new Vector();
+                    archiveFiles.add("");
+                    archiveFiles.add(file.getName());
+                    catalogsInformation.add(archiveFiles.clone());
+                    catalogsTableModel.addRow(archiveFiles);
+                }
+            }
+        }
+    }
+
     private void addDataToTableModel() {
-        for(int i = publicationsTableModel.getRowCount(); i > 0; i--){
+        for(int i = publicationsTableModel.getRowCount(); i > 0; i--) {
             publicationsTableModel.removeRow(i-1);
         }
         documentsInformation.clear();
-        DocumentDAO documentDAO = new DocumentDAOImpl();
+        DocumentService documentService = new DocumentService();
         try {
-            java.util.List<Document> l = documentDAO.getAllDocuments();
-            for(Document document : l) {
+            java.util.List<Document> l;
+            String catalogName = ((Vector)catalogsInformation.get(catalogsTable.getSelectedRow())).get(0).toString();
+
+            if(catalogName.length()<2) {
+                catalogName = ((Vector)catalogsInformation.get(catalogsTable.getSelectedRow())).get(1).toString();
+            }
+            System.out.println(catalogName);
+//            catalogName = catalogName.substring(1,catalogName.length()-1);
+//            System.out.println(catalogsInformation.get(catalogsTable.getSelectedRow()).toString());
+            if(catalogName.equals("current")){
+                l = documentService.getDocumentsByDateCreation(new Date());
+                System.out.println("+");
+            } else if(checkString(catalogName)){
+                int year = Integer.parseInt(catalogName);
+                GregorianCalendar calendar = new GregorianCalendar(year, 0, 1);
+                Date date = calendar.getTime();
+                l = documentService.getDocumentsByDateCreation(date);
+            } else {
+                l = documentService.getAllDocuments();
+                System.out.println("-");
+            }
+            documentsToTable(l);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private boolean checkString(String string) {
+        try {
+            Integer.parseInt(string);
+        } catch (Exception e) {
+            return false;
+        }
+        return true;
+    }
+
+    private void documentsToTable(java.util.List<Document> list) {
+            for(Document document : list) {
                 Vector data = new Vector();
                 data.add(document.getTitle());
                 data.add(document.getLoadDate());
@@ -223,8 +350,5 @@ public class DocArchiveSystForm extends JInternalFrameExt<Object> {
                 documentsInformation.add(data.clone());
                 publicationsTableModel.addRow(data);
             }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
     }
 }

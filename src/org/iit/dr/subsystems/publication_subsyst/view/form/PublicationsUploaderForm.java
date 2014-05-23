@@ -1,5 +1,7 @@
 package org.iit.dr.subsystems.publication_subsyst.view.form;
 
+import com.toedter.calendar.JCalendar;
+import com.toedter.calendar.JDateChooser;
 import org.iit.dr.subsystems.publication_subsyst.entities.Document;
 import org.iit.dr.subsystems.publication_subsyst.entities.Role;
 import org.iit.dr.subsystems.publication_subsyst.entities.User;
@@ -20,6 +22,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.Date;
 import java.util.Vector;
 
 /**
@@ -50,6 +53,8 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
     private JLabel userRoleLabel;
     private JLabel descriptionLabel;
 
+    private JDateChooser calendarChooser;
+
     private Vector<Role> rolesVector;
 
     private Document document;
@@ -61,6 +66,7 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
     public PublicationsUploaderForm() {
         document = null;
         update = false;
+        calendarChooser.setDate(new Date());
     }
 
     public PublicationsUploaderForm(Document document) {
@@ -68,6 +74,7 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
         this.document = document;
         update = true;
         loadDocument();
+//        calendarChooser.setDate(new Date());
     }
 
     @Override
@@ -110,6 +117,7 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
             this.lastNameTextField.setText(document.getUser().getLastName());
             this.midleNameTextField.setText(document.getUser().getMidleName());
             this.userRoleComboBox.setSelectedItem(document.getUser().getRole().getName());
+            this.calendarChooser.setDate(document.getCreateDate());
             repaint();
         }
     }
@@ -126,10 +134,12 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
                         informationTextArea.setText("Нужно ввести ФИО автора");
                     } else {
                         try {
+                            file = copyFile(file.getName(), new FileInputStream(file));
                             if(update) {
                                 document.setDescription(descriptionTextArea.getText());
                                 document.setFile(file);
                                 document.setTitle(file.getName());
+                                document.setCreateDate(calendarChooser.getDate());
                                 User user = new UserService().searchUser(lastNameTextField.getText().trim(),
                                         firstNameTextField.getText().trim(), midleNameTextField.getText().trim(),
                                         rolesVector.get(userRoleComboBox.getSelectedIndex()));
@@ -144,7 +154,8 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
                             } else {
                                 new DocumentService().addDocument(file, lastNameTextField.getText().trim(),
                                         firstNameTextField.getText().trim(), midleNameTextField.getText().trim(),
-                                        rolesVector.get(userRoleComboBox.getSelectedIndex()), descriptionTextArea.getText());
+                                        rolesVector.get(userRoleComboBox.getSelectedIndex()), descriptionTextArea.getText(),
+                                        calendarChooser.getDate());
                                 informationTextArea.setText("Публикация сохранена");
                             }
                         } catch (Exception e1) {
@@ -171,6 +182,7 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
         lastNameTextField = new JTextField();
         firstNameTextField = new JTextField();
         midleNameTextField = new JTextField();
+        calendarChooser = new JDateChooser();
         try {
             rolesVector = new RoleService().searchAllRoles();
             Vector v = new Vector();
@@ -189,6 +201,8 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
         formPanel.add(userRoleComboBox);
         formPanel.add(descriptionTextArea);
         formPanel.add(chooseFileButton);
+        calendarChooser.setDateFormatString("dd/MM/yyyy");
+        formPanel.add(calendarChooser);
     }
 
     private void initChooseFileButton() {
@@ -201,12 +215,8 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
                 if (ret == JFileChooser.APPROVE_OPTION) {
                     file = fileChooser.getSelectedFile();
                     if(isCorrectFileType(file.getName())) {
-                        try {
-                            file = copyFile(file.getName(), new FileInputStream(file));
-                            informationTextArea.setText("Файл выбран");
-                        } catch (FileNotFoundException e1) {
-                            e1.printStackTrace();
-                        }
+//                            file = copyFile(file.getName(), new FileInputStream(file));
+                        informationTextArea.setText("Файл выбран");
                     } else {
                         file = null;
                         informationTextArea.setText("Неверный формат файла, \n" +
@@ -217,8 +227,35 @@ public class PublicationsUploaderForm extends JInternalFrameExt {
         });
     }
 
+    private File renameFile(String fileName, File file) {
+        int i = 1;
+        if(fileName.contains("(")) {
+            i = Integer.parseInt(fileName.substring(fileName.indexOf("(")+1, fileName.indexOf(")")));
+
+        } else {
+            file = new File(file.getPath().substring(0, file.getPath().indexOf(".")) + "(" + i + ")"
+                    + fileName.substring(fileName.indexOf(".")));
+        }
+        while(file.exists()) {
+            //            String fName = fileName;
+            //            fName = fName.substring(0,fName.indexOf("."));
+            if(file.getName().contains("(")) {
+                file = new File(file.getPath().substring(0, file.getPath().indexOf("(")) + "(" + i
+                        + file.getName().substring(file.getName().indexOf(")")));
+            } else {
+                file = new File(file.getPath().substring(0, file.getPath().indexOf(".")) + "(" + i + ")"
+                        + fileName.substring(fileName.indexOf(".")));
+            }
+            i++;
+        }
+        return file;
+    }
+
     private File copyFile(final String fileName, final InputStream in) {
-        File file = new File(fileName);
+        File file = new File("files/publications/current/" + fileName);
+        if(file.exists()) {
+            file = renameFile(fileName, file);
+        }
         try {
             OutputStream out = new FileOutputStream(file);
             int read = 0;

@@ -1,5 +1,6 @@
 package org.iit.dr.subsystems.doc_archive.view.form;
 
+import com.toedter.calendar.JDateChooser;
 import org.iit.dr.subsystems.doc_archive.entities.Document;
 import org.iit.dr.subsystems.doc_archive.entities.Role;
 import org.iit.dr.subsystems.doc_archive.entities.User;
@@ -15,16 +16,16 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.Date;
 import java.util.Vector;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Vadja
+ * User: Piligrim
  * Date: 14.05.14
  * Time: 16:18
  * To change this template use File | Settings | File Templates.
@@ -50,6 +51,8 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
     private JLabel userRoleLabel;
     private JLabel descriptionLabel;
 
+    private JDateChooser calendarChooser;
+
     private Vector<Role> rolesVector;
 
     private Document document;
@@ -61,6 +64,7 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
     public DocArchiveUploaderForm() {
         document = null;
         update = false;
+        calendarChooser.setDate(new Date());
     }
 
     public DocArchiveUploaderForm(Document document) {
@@ -68,18 +72,19 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         this.document = document;
         update = true;
         loadDocument();
+//        calendarChooser.setDate(new Date());
     }
 
     @Override
     public boolean showFrame(Object parent, Object o) {
-        this.setTitle("Загрузка документа");
+        this.setTitle("Загрузка документов");
         this.setVisible(true);
         return true;
     }
 
     @Override
     protected void init() {
-        this.setMinimumSize(new Dimension(600, 300));
+        this.setMinimumSize(new Dimension(800, 500));
     }
 
     @Override
@@ -110,6 +115,7 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
             this.lastNameTextField.setText(document.getUser().getLastName());
             this.midleNameTextField.setText(document.getUser().getMidleName());
             this.userRoleComboBox.setSelectedItem(document.getUser().getRole().getName());
+            this.calendarChooser.setDate(document.getCreateDate());
             repaint();
         }
     }
@@ -126,10 +132,12 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
                         informationTextArea.setText("Нужно ввести ФИО автора");
                     } else {
                         try {
+                            file = copyFile(file.getName(), new FileInputStream(file));
                             if(update) {
                                 document.setDescription(descriptionTextArea.getText());
                                 document.setFile(file);
                                 document.setTitle(file.getName());
+                                document.setCreateDate(calendarChooser.getDate());
                                 User user = new UserService().searchUser(lastNameTextField.getText().trim(),
                                         firstNameTextField.getText().trim(), midleNameTextField.getText().trim(),
                                         rolesVector.get(userRoleComboBox.getSelectedIndex()));
@@ -144,7 +152,8 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
                             } else {
                                 new DocumentService().addDocument(file, lastNameTextField.getText().trim(),
                                         firstNameTextField.getText().trim(), midleNameTextField.getText().trim(),
-                                        rolesVector.get(userRoleComboBox.getSelectedIndex()), descriptionTextArea.getText());
+                                        rolesVector.get(userRoleComboBox.getSelectedIndex()), descriptionTextArea.getText(),
+                                        calendarChooser.getDate());
                                 informationTextArea.setText("Документ сохранен");
                             }
                         } catch (Exception e1) {
@@ -171,6 +180,7 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         lastNameTextField = new JTextField();
         firstNameTextField = new JTextField();
         midleNameTextField = new JTextField();
+        calendarChooser = new JDateChooser();
         try {
             rolesVector = new RoleService().searchAllRoles();
             Vector v = new Vector();
@@ -189,6 +199,8 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         formPanel.add(userRoleComboBox);
         formPanel.add(descriptionTextArea);
         formPanel.add(chooseFileButton);
+        calendarChooser.setDateFormatString("dd/MM/yyyy");
+        formPanel.add(calendarChooser);
     }
 
     private void initChooseFileButton() {
@@ -196,17 +208,13 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         chooseFileButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 JFileChooser fileChooser = new JFileChooser();
-                fileChooser.addChoosableFileFilter(new FileNameExtensionFilter("Документация", "doc", "docx", "pdf", "txt"));
+                fileChooser.addChoosableFileFilter(new FileNameExtensionFilter("Документы", "doc", "docx", "pdf", "txt"));
                 int ret = fileChooser.showDialog(null, "Открыть файл");
                 if (ret == JFileChooser.APPROVE_OPTION) {
                     file = fileChooser.getSelectedFile();
                     if(isCorrectFileType(file.getName())) {
-                        try {
-                            file = copyFile(file.getName(), new FileInputStream(file));
-                            informationTextArea.setText("Файл выбран");
-                        } catch (FileNotFoundException e1) {
-                            e1.printStackTrace();
-                        }
+//                            file = copyFile(file.getName(), new FileInputStream(file));
+                        informationTextArea.setText("Файл выбран");
                     } else {
                         file = null;
                         informationTextArea.setText("Неверный формат файла, \n" +
@@ -217,8 +225,35 @@ public class DocArchiveUploaderForm extends JInternalFrameExt {
         });
     }
 
+    private File renameFile(String fileName, File file) {
+        int i = 1;
+        if(fileName.contains("(")) {
+            i = Integer.parseInt(fileName.substring(fileName.indexOf("(")+1, fileName.indexOf(")")));
+
+        } else {
+            file = new File(file.getPath().substring(0, file.getPath().indexOf(".")) + "(" + i + ")"
+                    + fileName.substring(fileName.indexOf(".")));
+        }
+        while(file.exists()) {
+            //            String fName = fileName;
+            //            fName = fName.substring(0,fName.indexOf("."));
+            if(file.getName().contains("(")) {
+                file = new File(file.getPath().substring(0, file.getPath().indexOf("(")) + "(" + i
+                        + file.getName().substring(file.getName().indexOf(")")));
+            } else {
+                file = new File(file.getPath().substring(0, file.getPath().indexOf(".")) + "(" + i + ")"
+                        + fileName.substring(fileName.indexOf(".")));
+            }
+            i++;
+        }
+        return file;
+    }
+
     private File copyFile(final String fileName, final InputStream in) {
-        File file = new File(fileName);
+        File file = new File("files/doc_archive/current/" + fileName);
+        if(file.exists()) {
+            file = renameFile(fileName, file);
+        }
         try {
             OutputStream out = new FileOutputStream(file);
             int read = 0;

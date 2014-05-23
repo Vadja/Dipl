@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Vadja
+ * User: Piligrim
  * Date: 13.05.14
  * Time: 14:13
  * To change this template use File | Settings | File Templates.

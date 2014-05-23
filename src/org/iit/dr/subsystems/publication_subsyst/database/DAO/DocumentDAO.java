@@ -2,6 +2,8 @@ package org.iit.dr.subsystems.publication_subsyst.database.DAO;
 
 import org.iit.dr.subsystems.publication_subsyst.entities.Document;
 
+import java.io.File;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -17,6 +19,10 @@ public interface DocumentDAO {
     public void updateDocument(Document document) throws Exception;
     public Document getDocumentById(Long id) throws Exception;
     public List getAllDocuments() throws Exception;
+    public List<Document> getDocumentsByDateCreation(Date dateCreation) throws Exception;
+    public List<Document> getDocumentsByName(String title) throws Exception;
+    public Document getDocumentsByFile(File file) throws Exception;
+    public List<Document> getDocumentsByUserFIO(String fIO) throws Exception;
     public void deleteDocument(Document document) throws Exception;
 
 }

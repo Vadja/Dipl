@@ -6,7 +6,7 @@ import org.iit.dr.subsystems.doc_archive.entities.DocType;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Vadja
+ * User: Piligrim
  * Date: 14.05.14
  * Time: 23:47
  * To change this template use File | Settings | File Templates.
